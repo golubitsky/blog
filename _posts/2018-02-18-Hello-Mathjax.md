@@ -11,3 +11,6 @@ Finally, it gives me great pleasure to blog that when $$a \ne 0$$, there are two
     x = {-b \pm \sqrt{b^2-4ac} \over 2a}
   \end{align\}
 !
+
+
+$$\mathbf{x}_1$$
