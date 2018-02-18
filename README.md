@@ -1,6 +1,6 @@
 Welcome! Entries are listed from newest to oldest.  
   
-[Producing Data - Sampling](20180217.md)  
+[Producing Data - Sampling](entries/20180217.md)  
 [Studies Involving Two Variables](entries/20180216.md)  
 [Zooming Out (Meta)](entries/20180208_2.md)  
 [Estimating and Measuring Distributions](entries/20180208.md)  
