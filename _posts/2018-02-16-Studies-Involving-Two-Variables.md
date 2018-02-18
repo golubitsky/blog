@@ -1,4 +1,3 @@
-# Studies Involving Two Variables
 In most studies involving two variables, each of the variables has a role.
 * the explanatory variable (aka independent variable) -- the variable that claims to explain, predict or affect the response
 * the response variable (aka dependent variable) -- the outcome of the study.
@@ -35,7 +34,7 @@ Q→C is not discussed in the elementary statistics course I am studying. Statis
 |C→Q|Side-by-side Box Plot|Descriptive statistics (Mean + STD or 5-number summary depending on distribution) | Compare distributions of quantitative response variable for each category of the explanatory variable|
 |Q→Q|Scatter Plot |**Only for linear relationship** correlation coefficient r; Least squares regression (LSR) line; beware extrapolation | Describe overall pattern (direction, form, strength) and deviations (outliers); including labeled third variable in scatter plot sometimes yields deeper insight into relationship |
 
-### C→C
+## C→C
 To summarize the relationship between two categorical variables, we create a display called a **two-way (aka contingency) table**.
 The Total row or column is a summary of one of the two categorical variables, ignoring the other.
 
@@ -61,7 +60,7 @@ Conditional percentages are calculated for each value of the explanatory variabl
 
 _Note: it's also possible to find percentages of the whole, where only the bottom-right square in the two-way table will necessarily be equal to 100%, but this is different._
 
-#### Double Bar Chart
+## Double Bar Chart for C→C
 
 We can also use a **double-bar chart** to visualize the table of conditional percentages. The bar chart will have the response variable along the x-axis separated into the explanatory variable as the "double-bars."
 
@@ -70,9 +69,9 @@ The explanatory variable
 * appears in legend of bar plot
 * "explains" each of the values of the response variable
 
-![alt text](20180216/CtoCDoubleBarChartExample.png "C → C Double Bar Chart Example")
+![C to C Double Bar Chart]({{ site.url }}/assets/2018-02-16-CtoCDoubleBarChartExample.png "C → C Double Bar Chart")
 
-### Q→Q
+## Q→Q
 
 To summarize the relationship between two quantitative variables, we create a **scatter plot**. We plot corresponding values of the explanatory and response variables along the X- and Y-axes respectively. We describe
 * the overall pattern of the plot and
@@ -82,9 +81,9 @@ To summarize the relationship between two quantitative variables, we create a **
 * deviations from the pattern.
   * outliers
 
-#### Linear Relationships
+## Linear Relationships in Q→Q
 
-##### Correlation
+### Correlation
 If and only if a scatter plot suggests a linear relationship, we supplement it with the correlation coefficient (r). The correlation (r)
 * measures the strength and direction of a linear relationship between two quantitative variables
 * is **sensitive to outliers** and we might consider supplying it both with and without outliers
@@ -96,7 +95,7 @@ If and only if a scatter plot suggests a linear relationship, we supplement it w
 |Near 0|Weak linear relationship|
 |Near 1|Strong positive linear relationship|
 
-##### Linear Regression
+### Linear Regression
 A straight line simply adequately summarizes a linear relationship. The most commonly used criterion for finding this line is "least squares" by finding has the smallest sum of squared vertical deviations of the data points from a line.   
 
 * The least squares regression line predicts the value of the response variable for a given value of the explanatory variable. 

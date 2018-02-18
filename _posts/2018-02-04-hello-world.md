@@ -1,5 +1,6 @@
-# Hello World!
-
+---
+title:  "Hello World!"
+---
 I've had a [programming blog tumblr](http://programmingstudies.tumblr.com) that I started way back in 2015 before attending [App Academy](https://www.appacademy.io/) -- it was a requirement at a/A to publish a post every day -- this would not only show what we'd learned that day but also help to solidify the knowledge we were imbibing from the proverbial firehose. I continued to sporadically post to this blog even after getting my first (and so far only) programming job.  
 
 Now I no longer have a job. I quit a few months ago to travel in Nepal. I also ended up traveling to India. I spent half of my time in India studying machine learning at Hoztel Jaipur. The owner of that hostel had quit his job in tech to build a data-driven chain of hostels in India -- we enjoyed several conversations radically different from the standard "where have you been and where are you going" traveling tropes -- he suggested I read about Bayesian Learning and Markov Chains. I mostly read about more basic topics from [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) and watched Khan Academy videos on gradients and partial derivatives. At one point my mom asked me "but why do you have to do this in India?" I had just gotten mild food poisoning and at that moment didn't have a legitimate answer and so that very same day booked a ticket back to the States. I spent my last few days in India finally touring the magnificient forts of Jaipur and the profound and breathtaking and tear-inducing Taj Mahal in Agra.  

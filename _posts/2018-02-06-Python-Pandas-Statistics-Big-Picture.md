@@ -1,3 +1,7 @@
+---
+title:  "Python/Pandas and The Big Picture of Statistics"
+---
+
 Over the past few days I've dug into a [Python course for Data Science and ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp). I ought to quickly establish a practical foundation in the tools I anticipate I'll be using most (Python). I've completed sections on Python, NumPy, Pandas, and am currently working through the overview of Matplotlib.
 
 ## Pandas
@@ -30,7 +34,7 @@ At the end, we draw conclusions about our population (**inference**).
 ## Exploratory Data Analysis (EDA)
 **Data** are pieces of information about individual samples organized into variables; **variables** are particular characteristics. A **dataset** is a set of data identified with particular circumstances. A **categorical variable** (aka "qualitative") puts individuals into categories. A **quantitative variable** is a numerical measurement that can be averaged.
 
-### Scales of measurement
+## Scales of measurement
 
 We can be more precise about scales of measurement than just categorical vs quantitative. Each successive level below has all the characteristics of the preceding levels.  
 
@@ -41,15 +45,15 @@ We can be more precise about scales of measurement than just categorical vs quan
 
 We can decrease the scale of measurement, but not increase it  (e.g. age => age group but not vice-versa).
 
-### Examining distributions
+## Examining distributions
 In order to understand a dataset we need to summarize the data contained in each variable. This summary is called the **distribution**. The distribution of a variable answers two basic questions:
 1. What values does the variable take?
 2. How often does the variable take those values?
 
-#### Categorical data
+### Categorical data
 There are two simple graphical displays for visualizing the distribution of categorical data: *bar and pie charts*.
 
-#### Quantitative data
+### Quantitative data
 To display data from one quantitative variable graphically, we can use either the *histogram* or the *stemplot*. Histograms organize data points into bins that are graphed as a bar chart. Interestingly histograms sort of "invert" the axes from
 ```
 x: student
@@ -60,7 +64,7 @@ to
 x: number of hours
 y: number of students studying a given number of hours
 ```
-#### Interpreting the histogram
+### Interpreting the histogram
 We examine four things in a histogram:
 1. Shape
 2. Center
