@@ -68,6 +68,9 @@ Unsupervised learning is a more challenging domain where for every observation $
 
 There are also *semi-supervised learning problems* where we have an associated response $$y_i$$ for some but not all $$x_i$$.
 
+## Regression vs Classification
+We tend to refer to problems with a quantitative response variable as *regression* and those with a qualitative (categorical) response variable as *classification*. We tend to select methods based on whether the response is quantitative or qualitative. Some methods are particularly suited to a quantitative response variable (e.g. linear regression); other to a qualitative response (e.g. logistic regression); and others are suitable to both (e.g. $$K$$-nearest neighbors and boosting). Whether the inputs are quantitative or qualitative is mostly not an issue, provided the the qualitative variables are properly *coded* before analysis is performed.
+
 # Measuring Quality of Fit
 In a regression setting, a common measure of the quality of fit of a statistical model is *mean squared error*, given by the sum of the squared differences between actual values and values predicted by our model:
 \begin{equation}
