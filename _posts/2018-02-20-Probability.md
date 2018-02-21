@@ -84,7 +84,7 @@ Sometimes it's easier to figure out the complement probability.
 ## Multiplication Rule For Independent Events
 * In probability the word "and" is always associated with the operation of multiplication
 \begin{equation}
-  P(A \cap B) = P(A) * P(B) \tag{5}
+  P(A \cap B) = P(A) \cdot P(B) \tag{5}
 \end{equation}
 
 
