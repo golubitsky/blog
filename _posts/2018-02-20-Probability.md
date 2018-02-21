@@ -63,11 +63,11 @@ Probabilities can never be less than 0 or greater than 1.
 ## Sum Rule
 The sum of the probabilities of all possible outcomes (in sample space $$S$$) is 1\.
 \begin{equation}
-  P(S) = 1 \tag{2}
+  P(S) = 1 \tag{2}\label{2}
 \end{equation}
 
 ## Complement Rule
-Given $$\eqref{1}$$,
+Given $$\eqref{1}$$ and $$\eqref{2}$$,
 \begin{equation}
   P(\mathrm{not} \ A) = 1 - P(A) \tag{3}
 \end{equation}
