@@ -39,3 +39,6 @@ google_analytics: UA-114324136-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# https://github.com/RobertDeRose/jekyll-livereload#making-livereload-the-default
+livereload: true  
