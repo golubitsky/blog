@@ -69,7 +69,7 @@ The explanatory variable
 * appears in legend of bar plot
 * "explains" each of the values of the response variable
 
-![C to C Double Bar Chart]({{ site.url }}/assets/2018-02-16-CtoCDoubleBarChartExample.png "C → C Double Bar Chart")
+![C to C Double Bar Chart]({{ site.baseurl }}/assets/2018-02-16-CtoCDoubleBarChartExample.png "C → C Double Bar Chart")
 
 ## Q→Q
 
