@@ -1,6 +1,6 @@
 ---
 title:  "Hello MathJax!"
-mathjax: true
+tags: blog
 ---
 I spent a lot of time getting [Jekyll](https://jekyllrb.com/) to [work with Github pages](https://jekyllrb.com/docs/github-pages/) and [tweaking its default theme](https://github.com/jekyll/minima#customization) -- with the end goal having been driven by wanting to blog about the machine learning book I've started reading -- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). I wanted to describe a math expression mentioned in that book, and for the description (and the equation) to not look like crap.
 

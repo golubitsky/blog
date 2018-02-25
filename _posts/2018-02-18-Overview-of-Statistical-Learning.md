@@ -1,3 +1,6 @@
+---
+tags: machine-learning
+---
 The authors of ISLR frame Statistical Learning as a set of approaches for estimating $$f$$ in the equation
 
 \begin{equation}

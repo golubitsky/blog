@@ -1,5 +1,6 @@
 ---
 title:  "Hello World!"
+tags: meta
 ---
 I've had a [programming blog tumblr](http://programmingstudies.tumblr.com) that I started way back in 2015 before attending [App Academy](https://www.appacademy.io/) -- it was a requirement at a/A to publish a post every day -- this would not only show what we'd learned that day but also help to solidify the knowledge we were imbibing from the proverbial firehose. I continued to sporadically post to this blog even after getting my first (and so far only) programming job.  
 

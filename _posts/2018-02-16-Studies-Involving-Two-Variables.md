@@ -1,3 +1,6 @@
+---
+tags: stanford-statsprob
+---
 In most studies involving two variables, each of the variables has a role.
 * the explanatory variable (aka independent variable) -- the variable that claims to explain, predict or affect the response
 * the response variable (aka dependent variable) -- the outcome of the study.

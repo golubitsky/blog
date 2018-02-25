@@ -1,5 +1,6 @@
 ---
 title:  "Python/Pandas and The Big Picture of Statistics"
+tags: python stanford-statsprob
 ---
 
 Over the past few days I've dug into a [Python course for Data Science and ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp). I ought to quickly establish a practical foundation in the tools I anticipate I'll be using most (Python). I've completed sections on Python, NumPy, Pandas, and am currently working through the overview of Matplotlib.

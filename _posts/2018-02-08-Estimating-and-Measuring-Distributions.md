@@ -1,3 +1,6 @@
+---
+tags: stanford-statsprob
+---
 ## Estimating the shape of distributions
 We can use our existing knowledge and intuition to estimate the shape of a given distribution. For example let's consider the following 5 distributions.
 * SAT Math scores of 1,000 future engineers and scientists.

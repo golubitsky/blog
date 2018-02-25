@@ -1,3 +1,6 @@
+---
+tags: machine-learning meta
+---
 I've been thinking about my overall strategy for learning machine learning and this led to googling "machine learning curriculum." I first discovered [Karl Rosaen's blog](http://karlrosaen.com/ml/); he had also quit his job to embark on a learning sabbatical. Incidentally I am taking the same Statistics MOOC as he mentions in his "Phase 1." He wrote
 > Having the goal of "learning machine learning" is daunting.
 

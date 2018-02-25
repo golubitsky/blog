@@ -1,3 +1,6 @@
+---
+tags: probability stanford-statsprob
+---
 # Motivations
 Probability is the underlying foundation for the methods of statistical inference. It is the third part in the [Big Picture of Statistics]({{ "/2018/02/06/Python-Pandas-Statistics-Big-Picture" | relative_url }}). We use probability to quantify how much we expect random samples to vary. 
 In the final stage of statistical analysis -- Inference -- we attempt to draw final conclusions. During inference, having [selected our sample]({{ "/2018/02/17/Producing-Data-Sampling" | relative_url }}), we know that our uncertainty is due to chance, and not due to problems with how the sample was collected. **We can use probability to describe the likelihood that our sample is within a desired level of accuracy.**

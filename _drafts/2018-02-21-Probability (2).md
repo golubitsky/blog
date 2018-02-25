@@ -75,3 +75,7 @@ strength of evidence - how relatively likely different states of the world make 
 
 
 Given a proposition X, P(X) means "the probability of X." X is something that is either true or false, but we are uncertain about it. P(X) expresses the degree of our belief that X is true. P(X|Y) means "the probability of X, assuming Y to be true." The assumption is on the right and the inferred proposition is on the left.
+
+
+
+https://appliedmachinelearning.wordpress.com/2017/05/23/understanding-naive-bayes-classifier-from-scratch-python-code/
