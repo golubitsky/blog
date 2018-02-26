@@ -1,5 +1,4 @@
 ---
-title: Probability: Bayes' Rule and Conditional Probability
 tags: stanford-statsprob probability bayes
 ---
 
