@@ -68,6 +68,19 @@ Conversely, having the value of a cumulative distribution function for a normal 
 
 Note that "percent point functions are usually used to denote a specific inverse function ... [Percent point functions exist for a wide range of distributions](http://www.statisticshowto.com/inverse-distribution-function/) including the gamma distribution, Weibull distribution, triangular distribution, and many more."
 
+# Normal Approximation to the Binomial
+
+It's possible to estimate the binomial probability of $$X_B$$ taking a value over a given interval using the probability that a normal random variable $$X_N$$ takes over the same interval.
+
+In order to use the normal approximation:
+1. Determine that it's possible to use the normal approximation.
+  * A good rule of thumb is: $$np \geq 10$$ and $$n(1 - p) \geq 10$$. This will ensure the distribution of $$X_B$$ is close to normal.
+2. Calculate the mean $$\mu = np$$ and standard deviation $$\sigma = \sqrt{np(1 - p)}$$.
+3. Calculate the z-score using $$\mu$$, $$\sigma$$, and the [continuity correction](http://www.statisticshowto.com/what-is-the-continuity-correction-factor/) (to factor in that we're using a continuous function to estimate discrete values).
+4. Determine $$P(Z < z)$$ using a z-table.
+
+Note that this method doesn't seem particularly useful (other than for acing programming interview maybe..) given that Python or any other statistical package can determine the exact binomial probability using the cumulative distribution function (i.e. `scipy.stats.binom.cdf`).
+
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
 <div style="text-align: right">–Donald Knuth</div>

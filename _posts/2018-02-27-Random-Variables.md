@@ -104,4 +104,4 @@ and **if the variables $$X$$ and $$Y$$ are independent** (definition of independ
 
 Additional thoughts:
 * I'm starting to see that probably integrals will be useful w/r/t probability distributions for continuous random variables (area under the curve == 1)
-* Estimating probability distribution functions will probably be important -- i.e. "what is $$f(x)$$ given this probability distribution?"
+* Estimating functions for probability distributions will probably be important -- i.e. "what is $$f(x)$$ given this probability distribution?"
