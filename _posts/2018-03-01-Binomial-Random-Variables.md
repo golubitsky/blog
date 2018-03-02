@@ -31,7 +31,7 @@ The pmf is a function that gives the probability that a discrete random variable
 \end{equation}
 where we're multiplying the number of ways we can get $$x$$ successes by the probability of getting $$x$$ successes in $$n$$ independent trials.
 
-Scipy (a Python package) has [a function to calculate the probability mass function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html) of a random experiment:
+SciPy (a Python package) has [a function to calculate the probability mass function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html) of a random experiment:
 
 {% highlight python %}
   from scipy.stats import binom
