@@ -27,7 +27,7 @@ The pmf is a function that gives the probability that a discrete random variable
   P(X = x) = \frac{n!}{x!(n - x)!}
     p^x
     (1 - p)^{n - x}
-  , \ \mathrm{for} \ 0 \leq x \leq n
+  , \ \text{for 0} \leq x \leq n
 \end{equation}
 where we're multiplying the number of ways we can get $$x$$ successes by the probability of getting $$x$$ successes in $$n$$ independent trials.
 

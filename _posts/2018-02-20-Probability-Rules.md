@@ -25,8 +25,8 @@ There are two fundamental ways in which we can determine probability:
   \mathrm{Relative \ Frequency \ of \ Event \ } A = 
   {
       \frac
-        {\mathrm{number \ of \ times \ } A \mathrm{\ occurred}}
-        {\mathrm{total \ number \ of \ trials}}
+        {\text{number of times } A \mathrm{\ occurred}}
+        {\text{total number of trials}}
   }
 \end{equation}
 
@@ -72,7 +72,7 @@ The sum of the probabilities of all possible outcomes (in sample space $$S$$) is
 ## Complement Rule
 Given $$\eqref{1}$$ and $$\eqref{2}$$,
 \begin{equation}
-  P(\mathrm{not} \ A) = 1 - P(A) \tag{3}
+  P(\text{not A}) = 1 - P(A) \tag{3}
 \end{equation}
 
 Sometimes it's easier to figure out the complement probability.
@@ -95,7 +95,7 @@ Sometimes it's easier to figure out the complement probability.
 To determine all the values in the table we need to know
 * one value in the Total column
 * one value in the Total row
-* one value out of $$A, B, \mathrm{not} \ A, \mathrm{not} \ B$$
+* one value out of $$A, B, \text{not A}, \text{not B}$$
 
 Each right and bottom margin contains sums of a row or column.
 
