@@ -10,7 +10,7 @@ tags: stanford-statsprob probability
 * all trials are independent of each other.
   * A rule of thumb is we can assume independence if the sample size is less than or equal to 1/10th of the population size.
  
-The binomial random variable $$X$$ represents the number of "successes" in those $$n$$ trials given probability of success $$p$$. We can say "$$X$$ is binomial with $$n = ...$$ and $$p = ...$$" The trials in binomial experiments are known as [Bernoulli Trials])(https://en.wikipedia.org/wiki/Bernoulli_trial).
+The binomial random variable $$X$$ represents the number of "successes" in those $$n$$ trials given probability of success $$p$$. We can say "$$X$$ is binomial with $$n = ...$$ and $$p = ...$$" The trials in binomial experiments are known as [Bernoulli Trials](https://en.wikipedia.org/wiki/Bernoulli_trial).
 
 # [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function) for a Binomial Random Variable
 In a binomial experiment, we can count the number of possible outcomes having $$k$$ successes:
