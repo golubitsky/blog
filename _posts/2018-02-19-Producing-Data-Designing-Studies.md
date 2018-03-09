@@ -1,5 +1,5 @@
 ---
-title:  "Producing Data - Designing Studies"
+title:  'Producing Data: Designing Studies'
 tags: stanford-statsprob
 ---
 After the process of sampling is complete (we've decided which individuals will participate in our study), we move on to gaining information about the variables of interest from the sampled individuals. The type and details of the design used determine what kind of conclusions we may draw from the study. Crucially, details of the study design can impact our ability to establish evidence of causation.  

@@ -1,5 +1,5 @@
 ---
-title:  "Producing Data - Sampling"
+title:  'Producing Data: Sampling'
 tags: stanford-statsprob
 ---
 The conclusions we are able to draw from our studies will be limited by any bias introduced by our sampling methodology. If random sampling techniques are used accurately, we can minimize bias, thereby maximizing the validity of our studies; but sometimes it is infeasible to collect data in a random way due to budget constraints, whether of money or time, and in those cases it is important to note the bias we are introducing via the sampling methodology. Sampling is the first step (of two, the other being Study Design) in Producing Data of the [Big Picture of Statistics]({{ "/2018/02/06/Python-Pandas-Statistics-Big-Picture" | relative_url }}).
