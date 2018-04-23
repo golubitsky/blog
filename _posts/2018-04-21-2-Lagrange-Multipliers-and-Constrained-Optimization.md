@@ -13,7 +13,6 @@ title: Lagrange Multipliers And Constrained Optimization
   Didn't work in any way I tried.
 --> 
 $$
-  \newcommand{\Lagr}[1]{\operatorname{\mathcal{L}}(#1)}
   \DeclareMathOperator{\Lagr}{\mathcal{L}}
 $$
 What follows are my notes in working through the [Khan Academy videos on the Lagrangian](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction)!
@@ -33,7 +32,7 @@ $$
 
 ## What We're Trying To Do
 
-In this example, we are maximizing a two-variable function based on constraints. Constraints are a subset of the function space. Let's call the max $$M^* = f(x^*, y^*)$$ where $$x^*$$ and $$y^*$$ are the values of $$x$$ and $$y$$ that maximize $$f$$ while satisfying the constraints. The max $$M^*$$ will be found where $$f$$ is tangent to each of the constraints. We can find the $$M^*$$ by increasing a constant $$c$$ until $$f(x,y) = c$$ is tangent to each of the constraints, such that we are evaluating the function while "meeting" the constraints. "Increasing a constant $$c$$" actually means traversing the function space of $f$ perpendicular to its contour lines. To gain a better understanding of contour lines and how to traverse the function space perpendicular to them, we need the gradient.
+In this example, we are maximizing a two-variable function based on constraints. Constraints are a subset of the function space. Let's call the max $$M^* = f(x^*, y^*)$$ where $$x^*$$ and $$y^*$$ are the values of $$x$$ and $$y$$ that maximize $$f$$ while satisfying the constraints. The max $$M^*$$ will be found where $$f$$ is tangent to each of the constraints. We can find the $$M^*$$ by increasing a constant $$c$$ until $$f(x,y) = c$$ is tangent to each of the constraints, such that we are evaluating the function while "meeting" the constraints. "Increasing a constant $$c$$" actually means traversing the function space of $$f$$ perpendicular to its contour lines. To gain a better understanding of contour lines and how to traverse the function space perpendicular to them, we need the gradient.
 
 ## Gradient
 
@@ -64,9 +63,9 @@ $$
 
 Seeing that our constraint $$x^2 + y^2 = 1$$ represents a single contour line of $$g$$ (of an infinity of contour lines), we can frame our problem as
 
-\begin{equation}
+$$
   \nabla f(x^*, y^*) = \lambda \nabla g(x^*, y^*).
-\end{equation}
+$$
 
 where $$\lambda$$ is a **Lagrange Multiplier** -- which is some constant -- and $$(x^*, y^*)$$ is the solution to our optimization objective.
 
@@ -167,27 +166,3 @@ $$
 we see that the three equations expressed by $$\nabla{\Lagr} = 0$$ are exactly \eqref{1}, \eqref{2}, and \eqref{3}! Wild.
 
 The advantage of using the Lagrangian is that it turns our constrained optimization problem into an unconstrained optimization problem, which we can use an algorithm to solve (e.g. [using SciPy](http://kitchingroup.cheme.cmu.edu/blog/2013/02/03/Using-Lagrange-multipliers-in-optimization/)).
-
-## What The Lagrangian Multiplier $$\lambda$$ Means
-We've seen that solving for $$\nabla \Lagr(x, y, \lambda) = \vec{0}$$ will yield some set of solutions $$[x^*, y^*, \lambda^*]$$ such that one of the sets, when plugged into $$f(x^*, y^*)$$ yields $$M^*$$, the solution to our optimization problem.
-
-Up till now we have not been concerned with the multiplier $$\lambda^*$$. If we reconsider our Lagrangian function to use not a constant but a variable constraint $$b$$
-
-$$
-\Lagr{(x, y, \lambda, b)} = f(x,y) - \lambda(g(x, y) - b)
-$$
-
-it turns out that
-
-$$
-  \lambda^* = \frac{dM^*}{db}
-$$
-
-the resulting lambda represents the rate of change of the optimum of our function with respect to varying the constraint (i.e. changing the contour line of the constraining function). 
-
-### Application of $$\lambda$$
-In the above example that would mean answering the question "how would increasing the size of the constraining circle in $$g(x, y) = x^2 + y^2 = b$$ (where $$b$$ had been set to 1 above) impact the solution to our optimization problem?" This is more useful in a business context where the function we're optimizing ($$f$$) is Revenue and the constraint ($$g$$) is Budget, such that $$\lambda^*$$ facilitates the answer to "how would an increase in budget affect revenue?"
-
-## Why Does $$\lambda$$ Mean That?
-
-TBD - the final video goes through the proof.
