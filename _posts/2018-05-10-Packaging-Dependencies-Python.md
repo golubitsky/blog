@@ -21,7 +21,7 @@ dependencies:
 - pytest-xdist # makes pytest -f option available
 {% endhighlight %}
 
-We'll have `numpy`, and `pytest-xdist` [for testing]({{ "/2018/05/07/Decision-Trees" | relative_url }}).
+We'll use Python 3 and have `numpy`, and `pytest-xdist` [for testing]({{ "/2018/05/06/TDD-In-Python" | relative_url }}).
 
 ### Create the conda env
 
