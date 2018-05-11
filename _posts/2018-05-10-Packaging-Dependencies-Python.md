@@ -27,13 +27,15 @@ We'll use Python 3 and have `numpy`, and `pytest-xdist` [for testing]({{ "/2018/
 
 Running `conda env create` in the same directory as the above `environment.yml` file will create a conda environment named `ml-algorithm`. Here's [a link](https://conda.io/docs/user-guide/tasks/manage-environments.html) more info on managing environments with conda.
 
+Now we run `conda env activate ml-algorithms` to activate the new environment.
+
 ### Ensure Tests Run In Correct Environment
 
 After going through the above steps I performed this sanity check: I wrote a test that imported Pandas -- which should _not_ be available. To my surprise the test did _not_ fail. I learned that in order to run Pytest with the current version of Python rather than the system version we have to run it as a script by using `python -m pytest` rather than `pytest` as our command. Running Pytest as a script resolved this issue, and now the test that imported the non-existent Pandas package _was_ failing.
 
 ## Optimization
 
-Having worked with [RVM](https://rvm.io) in the Ruby world I was used to [automatically switching environments](https://rvm.io/workflow/projects#rvm-configuration) using the `rvm_autoinstall_bundler_flag` when entering a directory that specified one. I wanted a lightweight solution to automatically change Conda envs in a similar way, but found that no off-the-shelf solution seemed to exist. I found [this script](https://github.com/chdoig/conda-auto-env) and [modified it slightly](https://github.com/golubitsky/dotfiles#conda_auto_envsh) to function similarly to how RVM does: switch to an environment if there's an `environment.yml` file and otherwise use the `base` environment. Switching to the `base` environment is cheap enough, so in the `.bashrc` file I modified the `cd` command to do this silently for all directories without an `environment.yml` (as well as to, using the script, switch into the environment if it exists):
+Having worked with [RVM](https://rvm.io) in the Ruby world I was used to [automatically switching environments](https://rvm.io/workflow/projects#rvm-configuration) using the `rvm_autoinstall_bundler_flag` when entering a directory that specified one. I wanted a lightweight solution to automatically change Conda envs in a similar way, but found that no off-the-shelf solution seemed to exist. I found [this script](https://github.com/chdoig/conda-auto-env) and [modified it slightly](https://github.com/golubitsky/dotfiles#conda_auto_envsh) to function similarly to how RVM does: switch to an environment if there's an `environment.yml` file and otherwise use the `base` environment. Switching to the `base` environment is cheap enough, so in the `.bashrc` file I modified the `cd` command do both using the script:
 
 {% highlight bash %}
   source ~/.cfg/conda_auto_env.sh
