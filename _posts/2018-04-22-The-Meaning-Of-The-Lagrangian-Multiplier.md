@@ -1,5 +1,5 @@
 ---
-tags: svm calculus optimization chainrule
+tags: svm calculus optimization chain-rule
 ---
 <!-- TODO: As in the previous post this DeclareMathOperator should be in some centralized place somewhere. --> 
 $$

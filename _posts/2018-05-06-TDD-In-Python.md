@@ -1,5 +1,5 @@
 ---
-tags: python decision-tree
+tags: python decision-trees
 title: Towards Decision Trees/TDD In Python
 --- 
 
