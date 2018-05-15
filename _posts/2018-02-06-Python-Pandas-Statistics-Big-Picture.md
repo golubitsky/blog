@@ -10,7 +10,7 @@ Pandas allows us to import, manipulate, and analyze data from a variety of sourc
 
 ## Stanford Statsprob
 
-In working on the Pandas tutorial I was asked to determine the [correlation between two variables](https://en.wikipedia.org/wiki/Correlation_and_dependence) in a dataset. Though I figured out [how to do so using Pandas]((https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html)) and intuitively understood what that function returns, I felt like I just had to dive deeper and so started googling for statistics resources and ultimately decided to enroll in the [Stanford statsprob course](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about). 
+In working on the Pandas tutorial I was asked to determine the [correlation between two variables](https://en.wikipedia.org/wiki/Correlation_and_dependence) in a dataset. Though I figured out [how to do so using Pandas](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html) and intuitively understood what that function returns, I felt like I just had to dive deeper and so started googling for statistics resources and ultimately decided to enroll in the [Stanford statsprob course](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about). 
 
 Inspirational material from the course intro:
 
