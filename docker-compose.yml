@@ -1,0 +1,14 @@
+version: "3"
+services:
+  develop:
+    build: .
+    volumes:
+      - .:/app
+      - local_bundle:/local_bundle
+    ports:
+      - 4000:4000
+      - 35729:35729
+    command: bundle exec jekyll serve --host 0.0.0.0
+
+volumes:
+  local_bundle:
