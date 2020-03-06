@@ -1,5 +1,5 @@
 ---
-tags: python
+tags: python workflow
 title: Packaging Python Dependencies Using Conda
 --- 
 

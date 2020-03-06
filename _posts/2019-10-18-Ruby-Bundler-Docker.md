@@ -5,15 +5,9 @@ title: Dockerize Ruby Apps Without A System Ruby or Multiple Bundle Installs
 
 I recently started work on a Ruby on Rails microservices project. Docker containers are a great way to ship code. This makes it sensible to develop in a Docker container as well -- the development environment becomes (1) as close as possible to the production environment and (2) reproducible between team members. We spend less time wondering "but it worked on my machine..." Great!
 
-The [Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/) leads us to create a `Dockerfile` that includes a `bundle install` command. Read on to find out why that can be a problem! The problem below is caused by bootstrapping and working on a Ruby project in Docker without a system Ruby install, and not necessarily by the "Quickstart" -- I just link to it here because that's a common place to find a sensible `Dockerfile` for Ruby apps.
-
-### Adding a single gem requires full bundle install?
-
-If we `bundle install` in the `Dockerfile`, adding a new gem requires re-running -- from scratch! -- the entire `RUN bundle install` step of the build (see the [docs](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#leverage-build-cache)). Wouldn't it be nice to not have to do that?
-
 ## Solution!
 
-This solution I have found:
+The solution I have found:
 
 - `bundle install` all dependencies into a Docker volume.
 - Install dependencies on `run`, rather than on `build`!
