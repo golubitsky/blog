@@ -6,10 +6,6 @@ tags: programming design bill-evans music
 
 --Michelangelo
 
-I've been working on as much of a labor of love as can be found at a programming job: something that will make real users' lives better. Bonus: I'd be such a user. In short, our current deployment process could use some automation. As often happens once (what in retrospect turns out to be) a critical mass of component pieces of knowledge are acquired, a solution begins to present itself. Such a breakthrough occurred over the last couple of days: inspired by the intuition that the pieces really could be put together, I worked until 10pm on a Friday night and then spent another 4 hours on Saturday morning tweaking my creation -- as I say, a labor of love. I want to share what I've been thinking about recently, and how these ideas resurfaced during this work.
-
-## Abstractions
-
 It's been said that one of the hardest parts of programming (along with naming and cache invalidation) is choosing the right abstractions. The abstractions we pick are crucial to our ability to reason about a program. Generalizing too much, too little, or across concepts that don't really belong together -- such missteps will eventually compound the cognitive load of working with the program. The ultimate test for abstractions is whether or not they help us to make sense of the complexity inherent to the domain.
 
 We cannot expect to have started with the correct abstractions. During implementation we are bound to encounter inconsistencies between our original design (or operating model) and the reality of the domain that we come to understand in increasing detail. Such inconsistencies must be incorporated into our model if they decrease the cognitive load of working with the program -- through generous and unflinching refactorings.
@@ -26,9 +22,9 @@ In programming, too, the process of discovering the "right" abstractions proceed
 
 It's possible that there _is_ something objective about this "right" set of abstractions.
 
-I recall one of the ideas of Dr. William Moylan, ony of my excellent college professors. In his book _Understanding and Crafting the Mix: The Art of Recording_, he introduces the so-called _reference dynamic level_, present in any given music recording. "Dynamic" here refers to "soft" and "loud." He describes the _reference_ dynamic level as "the overall, conceptual dynamic level of the piece of music;" "even a 90-minute symphony will have only a single RDL." In my memory, he called it "the level at which the music 'lives'."
+I recall one of the ideas of Dr. William Moylan, ony of my excellent college professors. In his book _Understanding and Crafting the Mix: The Art of Recording_, he introduces the so-called _reference dynamic level_, present in any given piece of music. "Dynamic" here refers to "soft" and "loud." He describes the _reference_ dynamic level as "the overall, conceptual dynamic level of the piece of music;" "even a 90-minute symphony will have only a single RDL." In my memory, he called it "the level at which the music 'lives'."
 
-To paraphrase, it's sort of the "weighted average" of all the loudness levels of every single instrument in the recording, across the entire duration of the music... but a little bit more. "It's very zen," we liked to joke. Dr. Moylan taught us that, to our surprise, the RDL is objective: "the listener will recognize when they have identified the correct level. The level will cause all other dynamic relationships to be understood, to make sense."
+To paraphrase, it's sort of the "weighted average" of all the loudness levels of every sound source, across the entire duration of the music... but a little bit more. "It's very zen," we liked to joke. Dr. Moylan taught us that, to our surprise, the RDL is objective: "the listener will recognize when they have identified the correct level. The level will cause all other dynamic relationships to be understood, to make sense."
 
 It's possible that the "right" set of abstractions is similarly something that critical programmers will eventually agree on, within a similar confidence interval that centers on "the reality of the domain" being modeled.
 
@@ -40,7 +36,7 @@ In science, too, there is a continual process of clarification towards the most 
 
 That being said, while Einstein's theories are more precise and more broadly-applicable, they are, however, much harder for the layperson to grok than Newton's, which are taught in high-school.
 
-In programming there is the notion of "perfect is the enemy of good." Thus it can be with abstractions -- most situations don't call for a Grand Unified Abstraction -- and in fact writing such code might increase the cognitive load of working with the program beyond the optimal level.
+In programming there is the notion of "perfect is the enemy of good." Thus it can be with abstractions -- most situations don't call for a Grand Unified Abstraction -- and in fact writing such code will increase the cognitive load of working with the program.
 
 ## The "right" abstractions
 
@@ -48,7 +44,7 @@ Arriving at the "right" abstractions would yield a program that:
 
 - directly expresses the domain
 - solves a problem in the domain (probably why we needed a program to begin with!)
-- minimizes the technical complexity (aka "technical debt") introduced by the program itself (we didn't want a program just for fun, right?)
+- minimizes the technical complexity introduced by the program itself (we didn't want a program just for fun, right?)
   - technical complexity is distinct from the complexity inherent to the domain
 
 Most of all, such abstractions will "feel" right. Once you arrive at them, you will "feel" the clarity of the domain to have been expressed. Something like "of course it should be like this, why didn't I think of that sooner?"
