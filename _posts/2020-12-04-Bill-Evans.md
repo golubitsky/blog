@@ -8,8 +8,6 @@ A friend asked:
 
 > I honestly know very little of him! Where should I start?
 
-Off the top of my head:
-
 - [Very Early](https://www.youtube.com/watch?v=Q5txLDH7kkE)
 - [Someday My Prince Will Come](https://www.youtube.com/watch?v=EaCzgfIPmsk)
 - [Danny Boy](https://www.youtube.com/watch?v=Ie072W4L-iE), album: Time Remembered
