@@ -1,5 +1,5 @@
 ---
-tags: music
+tags: music bill-evans
 ---
 
 Bill Evans has been a huge inspiration this year. On the level of Mahler in years past.
