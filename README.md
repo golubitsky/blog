@@ -1,7 +1,4 @@
-# ml-blog
-
-A [blog](https://golubitsky.github.io/ml-blog/) about learning machine learning and data science.  
-And some other stuff.
+[live](https://golubitsky.github.io/blog/)
 
 ## Development
 
