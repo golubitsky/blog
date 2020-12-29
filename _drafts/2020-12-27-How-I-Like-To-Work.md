@@ -1,0 +1,21 @@
+---
+tags: programming
+---
+
+While it might not seem like it, based on my recent posts, I do spend a lot of time working as a software engineer.
+
+I prefer to work in a test-driven fashion (i.e. using TDD). That means I would like to pay -- up-front -- the cost of automating any test setup. Not only does this let me know I'm done building whatever I had set out to build, but it provides a quick way to -- at any moment -- answer the question "does this thing still work?" Ultimately I want to do less work, and less boring work. I find setting up the same exact test manually boring. I suppose I take inspiration from the masters (not necessarily in programming) who talk about developing your fundamentals -- the mastery comes later. In the current context, I view "the ability to know that my code still works" as the fundamental, and "providing new features to users at a sustainable pace" as mastery.
+
+I've heard some staunch arguments against test-driven development from James Coplien (I still haven't fully grokked his point against TDD; he is sort of arguing for a more holistic view of Testing in general; TODO: understand his points better?) and Rich Hickey (to loosely quote, "you don't drive on a highway by bumping into 'guardrails' in order to eventually go straight -- you use reason to get to where you want to go -- without bumping into anything, most of the time").
+
+The process of software development is ultimately a series of translations (`map` operations) of requirements -- from the users' intuition, to a series of documents, several attempts to arrive at the essence of what the users want. And then there might be a little bit of coding at the end. Sometimes we find out later in the whole process that users want something -- we might already be in production -- and then the users _really_ want something. Fast. That's where the tests come in. But first, this brings me to another point.
+
+In the case of issues in production (or any higher environment): for example, I want to know as soon as possible if there are unhandled exceptions. As in, I want to be spammed with alerts. And I want the whole team to be spammed with alerts. The notion is that we should know that there is a production issue before users have a chance to even think about reporting it. If that happens too frequently, tough. Build a better app. I've worked on a couple apps like this. Unfortunately I didn't work on them long enough to get to subsequent levels -- after the unhandled exceptions first start occurring less frequently and then eventually cease altogether -- this is also a "fundamental." This also leads to "mastery." Mastery in this case would refer to spending more time thinking about bigger issues than how to debug the latest production bug.
+
+Mastery is _not_ running around with your head on fire, with never enough time to raise concerns, never enough time to get to the bottom of issues, endless shortcuts. I've also worked in environments like this. This kind of work can be unsatisfying, unsustainable, and unproductive. It might be that at some more-encompassing view a lot _is_ getting done, and this really is the best we can do for now due to... existing commitments, past mistakes -- reality, in other words. It's hard to tell. I suppose there are multiple ways to arrive at mastery -- the method often described in startups is that sizeable technical debt is taken out in order to get to market first, then, with more resources, the debt is paid back. I guess it's called "scaling."
+
+Anyway, this was supposed to be about how _I_ like to work. So:
+
+- Testing first -- to get quick, ongoing feedback. This includes training users to think like this. Ultimately if we can get them to state their requirements in the form of an automated test (I mean, not _really_ -- but getting closer to this), there will be fewer translation steps during which something can be lost in translation. How many cycles are spent misunderstanding one another?
+- Monitoring -- I want a quick way to see the current, overall health of the application. I want to know about errors immediately.
+- CI/CD pipelines. Automate the boring, error-prone stuff. Kind of a big deal. I don't want deployments to be high-stress affairs.
