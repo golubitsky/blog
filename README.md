@@ -14,3 +14,8 @@ Update gems:
 ```sh
 docker-compose run --rm develop bundle update github-pages
 ```
+
+## TODO
+
+- [ ] Convert some old facebook posts into blog entries.
+- [ ] Convert some old wordpress\* posts into blog entries (maybe in gmail, or maybe even that account is still somewhere).
