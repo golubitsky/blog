@@ -35,10 +35,9 @@ The monument resonated also because it expressed a particular idealization of th
 
 The shaft erected is as described, calling to mind a Washington Monument with the top sheared coarsely off. Have a look at the surrounding region in the attached pictures.
 
-![]({{ site.baseurl }}/assets/2018-06-17-photo1.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo2.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo3.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo4.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo5.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo6.jpg")
-![]({{ site.baseurl }}/assets/2018-06-17-photo7.jpg")
+![]({{ site.baseurl }}/assets/2014-06-17-photo1.jpg)
+![]({{ site.baseurl }}/assets/2014-06-17-photo2.jpg)
+![]({{ site.baseurl }}/assets/2014-06-17-photo3.jpg)
+![]({{ site.baseurl }}/assets/2014-06-17-photo4.jpg)
+![]({{ site.baseurl }}/assets/2014-06-17-photo6.jpg)
+![]({{ site.baseurl }}/assets/2014-06-17-photo7.jpg)
