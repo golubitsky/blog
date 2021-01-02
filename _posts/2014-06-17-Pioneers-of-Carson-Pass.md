@@ -34,3 +34,11 @@ The monument resonated also because it expressed a particular idealization of th
 > ...There ought to be a shaft raised to Snow-Shoe Thompson; not of marble; not carved and not planted in the valley, but a rough shaft of basalt or of granite, massive and tall, with top ending roughly, as if broken short, to represent a life which was strong and true to the last. And this should be upreared on the summit of the mountains over which the strong man wandered so many years, as an emblem of that life which was worn out apparently without an object...
 
 The shaft erected is as described, calling to mind a Washington Monument with the top sheared coarsely off. Have a look at the surrounding region in the attached pictures.
+
+![]({{ site.baseurl }}/assets/2018-06-17-photo1.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo2.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo3.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo4.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo5.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo6.jpg")
+![]({{ site.baseurl }}/assets/2018-06-17-photo7.jpg")
