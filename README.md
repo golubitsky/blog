@@ -9,6 +9,8 @@ docker-compose build
 docker-compose up
 ```
 
+Live at http://localhost:4000/blog/
+
 Update gems:
 
 ```sh
