@@ -1,6 +1,6 @@
 ---
 tags: music
-title: "Drop 2" Voicings
+title: '"Drop 2" Voicings'
 ---
 
 In the [previous post]({{ "/2021/01/05/The-Buddhist-Tradition" | relative_url }}) I summarized a voicing that sounded good.
