@@ -39,6 +39,8 @@ In the smoothest voice leading:
 1. One voice from each pair (i.e. `1 and 5` and `3 and 7`) moves **down**, while the other stays.
 2. Then, the voices that have just moved stay. The other voices move **down**.
 
+<!-- TODO: comment on moving intervals for the moving voices -->
+
 ## Root in the bass
 
 <style>
