@@ -50,7 +50,7 @@ Anyway, the notes from The Buddhist Tradition.
 
 - Much of the literature of other sects has been lost or only survives in Chines or Tibetan translations; this one has been fully preserved in Ceylon (Sri Lanka). Written in Pali, a language related to Sanskrit, likely based on an ancient vernacular spoken in western part of India.
 - All things are composite.
-  - Corollary: they are also transient —— composition of aggregates is liable to change with time.
+  - Corollary: they are also transient — composition of aggregates is liable to change with time.
   - Things have no eternal Self or soul or abiding individuality.
 - Nature: sorrowful, transient, soulless.
 - There are 5 classes of things in the universe:

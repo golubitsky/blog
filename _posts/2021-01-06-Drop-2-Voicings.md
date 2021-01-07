@@ -5,14 +5,14 @@ title: '"Drop 2" Voicings'
 
 In the [previous post]({{ "/2021/01/05/The-Buddhist-Tradition" | relative_url }}) I summarized a voicing that sounded good.
 
-Today, I recognized that I had in a way re-invented the wheel. I had been thinking of this voicing as built:
+Today, I recognized that I had in a way re-invented the wheel. I had been thinking of this voicing as:
 
 - start on any 7th chord tone as the lowest voice and proceed up
 - skip one chord tone
 - add two chord tones in order
 - add the skipped chord tone
 
-Well, here's another way to think about this voicing —— as always in music, symmetries abound:
+Well, here's another way to think about this voicing — as always in music, symmetries abound:
 
 - start on any 7th chord tone and proceed _down_
 - skip one chord tone
@@ -23,7 +23,7 @@ Both of these algorithms arrive at the same result. The difference is that the l
 
 # 2-5-1 "Drop 2" Voicings
 
-In each of the algorithms above, which both arrive at the same result, we can start on any chord tone. There are 4 chord tones in a 7th chord. The one for "Third in the bass" is reproduced from the previous post, except I've removed the `b9` from the `V`, so as to accentuate the symmetries in voice leading. I'll also generalize and use a generic `ii` chord -- i.e. not calling out a specific `b5`, because the voicing pattern can be generalized to 2-5-1s of any quality.
+In each of the algorithms above, which both arrive at the same result, we can start on any chord tone. There are 4 chord tones in a 7th chord. The one for "Third in the bass" is reproduced from the previous post, except I've removed the `b9` from the `V`, so as to accentuate the symmetries in voice leading. I'll also generalize and use a generic `ii` chord — i.e. not calling out a specific `b5`, because the voicing pattern can be generalized to 2-5-1s of any quality.
 
 Arrows (`-->`) indicate pitch changes.
 
