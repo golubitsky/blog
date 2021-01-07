@@ -2,7 +2,7 @@
 
 ## Development
 
-Spin up the dev server:
+Spin up the dev server; live reload is enabled:
 
 ```sh
 docker-compose build
