@@ -1,5 +1,6 @@
 ---
 tags: music buddhism
+title: The Buddhist Tradition (0)
 ---
 
 I was in Tim's Used Books the other day and picked up three books:
