@@ -19,6 +19,9 @@ docker-compose run --rm develop bundle update github-pages
 
 ## TODO
 
+- [ ] Add comments somehow. Desirable without ads.
+  - Could roll my own using GCP cloud functions + NoSQL—[it's been done before](https://www.smashingmagazine.com/2020/08/comment-system-firebase/).
+  - Or [$60/year](https://fastcomments.com/traffic-pricing).
 - [ ] Convert some old facebook posts into blog entries.
 - [ ] Convert some old wordpress\* posts into blog entries (maybe in gmail, or maybe even that account is still somewhere).
 - [ ] Musical notation.
