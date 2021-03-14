@@ -1,3 +1,7 @@
+---
+tags: machine-learning
+---
+
 Notation used in Andrew Ng course:
 
 |Symbol|Meaning|
@@ -10,14 +14,14 @@ Notation used in Andrew Ng course:
 |$$h_{\theta}$$|    hypothesis |
 |$$\alpha$$|        learning rate|
 
-# Linear Regression
+## Linear Regression
 The objective of linear regression is to minimize the **cost function**
 
 \begin{equation}
   J(\theta) = 
     \frac{1}{2m}
     \sum_{i = 1}^{m} 
-      (h_{\theta}(x^{(i)}) - y^{(i)}))^2
+      (h_{\theta}(x^{(i)}) - y^{(i)})^2
 \end{equation}
 
 where the **hypothesis** $$h_{\theta}(x)$$ is given as the linear model
@@ -34,17 +38,16 @@ In order to minimize the cost function $$J(\theta)$$, each step of **gradient de
   \theta_j := \theta_j - \alpha 
                           \frac{1}{m}
                           \sum_{i = 1}^{m} 
-                            (h_{\theta}(x^{(i)}) - y^{(i)}))x^{(i)}_j
+                            (h_{\theta}(x^{(i)}) - y^{(i)})x^{(i)}_j
 \end{equation}
 
-
-
-# Feature scaling and mean normalization
+## Feature scaling and mean normalization
 Goal: gradient descent converges more quickly.
-Ideally, Approximately -1 .. 1 range and Features are ~= same scale (order of magnitude)
+
+Ideally, all features have the values in approximately the `-1 .. 1` range and features are ~= same scale (order of magnitude)
 This is not an exact requirement.
 
-Mean normalization
+### Mean normalization
 
 For each feature $$i$$
 \begin{equation}
@@ -54,18 +57,18 @@ where $$s$$ is either the range of the values or the standard deviation of the f
 
 Feature scaling is accomplished by the denominator; mean normalization by the numerator.
 
-# How To Choose Learning Rate
+## How to choose learning rate
 
 Plot the number of iterations vs the value of the cost function $$J(\theta)$$. $$J(\theta)$$ should decrease after every iteration.
 
 If $$J(\theta)$$ increasing, probably $$\alpha$$ is too large.
 If $$\alpha$$ is small enough, $$J(\theta)$$ must converge, but $$\alpha$$ should not be too small -- it will be very slow.
 
-# Features and Polynomial Regression
+## Features and polynomial regression
 
-Our hypothesis doesn't need to be linear in order to use multivariate linear regression -- the "linear" in the title comes from "linear in parameters, not necessarily linear in features. We can use the machinery of linear regression to fit a polynomial model by engineering features with degrees higher or lower than 1 if we think that will yield a more accurate model. Feature scaling becomes important when using feature engineering.
+Our hypothesis doesn't need to be linear in order to use multivariate linear regression — the "linear" in the title comes from "linear in parameters, not necessarily linear in features. We can use the machinery of linear regression to fit a polynomial model by engineering features with degrees higher or lower than 1 if we think that will yield a more accurate model. Feature scaling becomes important when using feature engineering.
 
-# Normal Equation
+## Normal Equation
 
 Method to solve for $$\theta$$ analytically. Can solve for the derivative of the cost function equal to 0. For multivariate linear regression, we should do the same thing for the partial derivative for each feature equal to 0.
 
@@ -75,16 +78,19 @@ Don't need to do feature scaling.
 
 Can be much faster than linear regression.
 
-## Versus Gradient Descent
-Pro
+### Versus Gradient Descent
+#### Pro
+
 * Don't need to choose $$\alpha$$
 * Don't need to iterate
-Con
-* Need to compute $${X^TX}^{-1}$$ which can be slow if $$n$$ is large (i.e. > 10000) -- cost is roughly $$O(N^3)$$.
+
+#### Con
+
+* Need to compute $${X^TX}^{-1}$$ which can be slow if $$n$$ is large (i.e. > 10000) — cost is roughly $$O(N^3)$$.
 * Does not work for other complex algorithms (not linear regression)
 
-## Non-Invertibility of $$X^TX$$
+### Non-Invertibility of $$X^TX$$
 * Redundant features (linearly dependent) like meters squared and feet squared.
-* Too many features (e.g. m \leq n) -- delete features or use regularization.
+* Too many features (e.g. $$m \leq n$$) — delete features or use regularization.
 
 Pseudo inverse (`pinv`) should work, even if inverse (`inv`) doesn't work.
