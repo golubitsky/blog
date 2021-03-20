@@ -1,5 +1,6 @@
 ---
-tags: machine-learning
+layout: page
+title: ML glossary
 ---
 
 There may be other ML glossaries (e.g. [google](https://developers.google.com/machine-learning/glossary)), but this one will be mine, for terms that I have encountered.
