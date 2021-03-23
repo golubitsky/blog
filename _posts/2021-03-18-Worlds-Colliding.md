@@ -4,7 +4,7 @@ tags: music bill-evans mahler bernstein tchaikovsky
 
 So many wonderful tunes has Bill Evans introduced me to. In a sense, he has been a deep educator to me, as to many others.
 
-As I was listening to his interpretation of [Some Other Time](https://youtu.be/k8S8REPAsyg) — which, incidentally, sounds so much like one of Bill Evans' own compositions: [Peace Piece](https://www.youtube.com/watch?v=Nv2GgV34qIg) — and here's [Bill Evans performing _Some Other Time_ it with Tony Bennett](https://youtu.be/06ssRQ7K1hQ) — I learned that this song was [written by none other than Leonard Bernstein](https://www.youtube.com/watch?v=A9bLMqztl0Y).
+As I was listening to his interpretation of [Some Other Time](https://youtu.be/k8S8REPAsyg) — which, incidentally, sounds so much like one of Bill Evans' own compositions: [Peace Piece](https://www.youtube.com/watch?v=Nv2GgV34qIg) — and here's [Bill Evans performing _Some Other Time_ it with Tony Bennett](https://youtu.be/06ssRQ7K1hQ) — and here's [another interpretation w/Monica Zetterlund](https://www.youtube.com/watch?v=qHHJvNuJtEk), in this one you can really hear the on-the-edge balancing act between tongue-in-cheek and seriousness (watch her expressions!) — I learned that this song was [written by none other than Leonard Bernstein](https://www.youtube.com/watch?v=A9bLMqztl0Y).
 
 Leonard Bernstein, one of the great American conductors and music educators, was one of the champions of Mahler. He was recording cycles of Mahler symphonies before it was tradition. He was buried with the score to Mahler's Symphony No. 5. He essentially [built a world-view of the 20th century with Mahler at its foundation](https://youtu.be/kPGstQUbpHQ?t=4871).
 
