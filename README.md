@@ -19,10 +19,15 @@ docker-compose run --rm develop bundle update github-pages
 
 ## TODO
 
+- [ ] Solution to serve images
+  - [ ] Prototype via Google Drive?
+  - [ ] Prototype via S3 bucket or similar.
+- [ ] Books main page or similar.
+- [ ] Listening main page or similar.
 - [ ] Add comments somehow. Desirable without ads.
   - Could roll my own using GCP cloud functions + NoSQL—[it's been done before](https://www.smashingmagazine.com/2020/08/comment-system-firebase/).
-     - Also see [Ned's](https://github.com/ruggeri/ruggeri.github.io) that uses AWS.
-     - [terraform + lambda + api gateway](https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway?in=terraform/aws)
+    - Also see [Ned's](https://github.com/ruggeri/ruggeri.github.io) that uses AWS.
+    - [terraform + lambda + api gateway](https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway?in=terraform/aws)
   - Or [$60/year](https://fastcomments.com/traffic-pricing).
 - [ ] Convert some old facebook posts into blog entries.
 - [ ] Convert some old wordpress\* posts into blog entries (maybe in gmail, or maybe even that account is still somewhere).
