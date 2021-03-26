@@ -19,8 +19,10 @@ docker-compose run --rm develop bundle update github-pages
 
 ## TODO
 
-- [ ] Solution to serve images
-  - [ ] Prototype via Google Drive?
+- [x] Solution to serve images
+  - [x] Prototype via Google Drive
+    - Works using `https://drive.google.com/uc?export=view&id=<id>`
+    - To get id: Right-click in Drive -> get link.
   - [ ] Prototype via S3 bucket or similar.
 - [ ] Books main page or similar.
 - [ ] Listening main page or similar.
