@@ -67,3 +67,26 @@ img {
 blockquote {
   letter-spacing: 0.1px;
 }
+
+// Links on the main page
+
+.post-list-heading {
+  // Don't display "Posts" title
+  display: none;
+}
+
+.post-link {
+  font-size: 24px;
+}
+
+ul.post-list > li {
+  // Less spacing between each post link.
+  margin: 0;
+}
+
+// Individual posts
+
+.post-title {
+  // Smaller titles.
+  font-size: 34px;
+}

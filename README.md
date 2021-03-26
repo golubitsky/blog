@@ -17,6 +17,10 @@ Update gems:
 docker-compose run --rm develop bundle update github-pages
 ```
 
+### CSS
+
+Add custom styles to `assets/main.scss`.
+
 ## TODO
 
 - [x] Solution to serve images
