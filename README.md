@@ -23,6 +23,7 @@ Add custom styles to `assets/main.scss`.
 
 ## TODO
 
+- [ ] Automatically generate tags? [Clustering](https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04)?
 - [x] Solution to serve images
   - [x] Prototype via Google Drive
     - Works using `https://drive.google.com/uc?export=view&id=<id>`
