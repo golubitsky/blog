@@ -22,7 +22,7 @@ In programming, too, the process of discovering the "right" abstractions proceed
 
 It's possible that there _is_ something objective about this "right" set of abstractions.
 
-I recall one of the ideas of Dr. William Moylan, ony of my excellent college professors. In his book _Understanding and Crafting the Mix: The Art of Recording_, he introduces the so-called _reference dynamic level_, present in any given piece of music. "Dynamic" here refers to "soft" and "loud." He describes the _reference_ dynamic level as "the overall, conceptual dynamic level of the piece of music;" "even a 90-minute symphony will have only a single RDL." In my memory, he called it "the level at which the music 'lives'."
+I recall one of the ideas of Dr. William Moylan, one of my excellent college professors. In his book _Understanding and Crafting the Mix: The Art of Recording_, he introduces the so-called _reference dynamic level_, present in any given piece of music. "Dynamic" here refers to "soft" and "loud." He describes the _reference_ dynamic level as "the overall, conceptual dynamic level of the piece of music;" "even a 90-minute symphony will have only a single RDL." In my memory, he called it "the level at which the music 'lives'."
 
 To paraphrase, it's sort of the "weighted average" of all the loudness levels of every sound source, across the entire duration of the music... but a little bit more. "It's very zen," we liked to joke. Dr. Moylan taught us that, to our surprise, the RDL is objective: "the listener will recognize when they have identified the correct level. The level will cause all other dynamic relationships to be understood, to make sense."
 
