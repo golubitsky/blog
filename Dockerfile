@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM docker.io/library/ruby:alpine
 
 RUN mkdir /app
 WORKDIR /app
