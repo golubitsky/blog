@@ -4,11 +4,9 @@ services:
     build: .
     volumes:
       - .:/app
-      - local_bundle:/local_bundle
     ports:
       - 4000:4000
       - 35729:35729
-    command: bundle exec jekyll serve --host 0.0.0.0
-
+    command: bundle exec jekyll serve -H 0.0.0.0 -P 4000 --livereload
 volumes:
   local_bundle:

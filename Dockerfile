@@ -1,12 +1,13 @@
-FROM docker.io/library/ruby:alpine
+FROM docker.io/library/ruby:slim
+
+RUN apt-get update && apt-get install make gcc build-essential -y
 
 RUN mkdir /app
 WORKDIR /app
-COPY Gemfile* /app/
+COPY Gemfile* ./
 
-# mount this in
-ENV BUNDLE_PATH /local_bundle
+RUN bundle install
 
-COPY . /app/
+COPY . .
 
-ENTRYPOINT [ "./entrypoint.sh" ]
+CMD [ "bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0" ]
