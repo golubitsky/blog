@@ -3,7 +3,7 @@ tags: music
 title: The Study of Counterpoint
 ---
 
-From Johann Jesph Fux's Gradus Ad Parnassum, translated and edited by Alfred Mann.
+From Johann Joseph Fux's Gradus Ad Parnassum, translated and edited by Alfred Mann.
 
 ## Introduction
 
