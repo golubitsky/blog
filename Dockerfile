@@ -1,4 +1,5 @@
-FROM docker.io/library/ruby:alpine
+FROM docker.io/library/ruby:2.7
+# GitHub Pages doesn't work with Ruby 3.
 
 RUN mkdir /app
 WORKDIR /app
@@ -8,5 +9,3 @@ COPY Gemfile* /app/
 ENV BUNDLE_PATH /local_bundle
 
 COPY . /app/
-
-ENTRYPOINT [ "./entrypoint.sh" ]
