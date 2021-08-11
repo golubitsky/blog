@@ -1,5 +1,5 @@
 ---
-tags: meta
+tags: meta programming testing tdd agile
 title: I Attended A Meetup At Which Uncle Bob Spoke
 --- 
 
