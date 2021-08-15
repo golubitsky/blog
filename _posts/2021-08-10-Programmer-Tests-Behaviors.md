@@ -33,7 +33,7 @@ My current takeaway: mocking still seems less applicable in smaller services, as
 
 But for now, I don't see any reason to change my general approach to mocking only at the architectural boundary.
 
-Another way to phrase Mancuso's idea: it's possible that in larger systems it makes sense to consider certain submodules to be architecturally bounded.
+Another way to phrase Mancuso's idea: it's possible that in larger systems it makes sense to consider certain submodules to be architecturally bounded. In further support of this, I see that Uncle Bob uses the language "_significant_ architectural boundaries" (emphasis mine) in [this blog post](https://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html).
 
 ## My current approach to programmer tests
 
