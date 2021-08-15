@@ -14,7 +14,7 @@ Programmer tests should
 
 The focus is not on the "size of the unit"; it is rather on testing the behavior of a program, without exposing its implementation details.
 
-## To mock or not to mock
+## To mock or not to mock?
 
 In this light, conceivable reasons to use mock implementations in tests:
 
@@ -24,6 +24,16 @@ In this light, conceivable reasons to use mock implementations in tests:
 My journey into testing and TDD began as a mockist (AKA of the "London" school, detailed in the excellent _Growing Object-Oriented Software, Guided by Tests_, by Steve Freeman and Nat Pryce), and only later, after meeting Uncle Bob, did I start to gravitate to the classicist school. During that brief meeting, Uncle Bob explained to me the difference between the two schools, as I wrote [at the end of this earlier post]({{ "2019/03/14/Meetup-Uncle-Bob" | relative_url }})).
 
 Over the last couple of years, as I've written more and more tests of _behaviors_, I've come to appreciate the power of such "black box" tests, which expose nothing about the implementation to the tests — they allow us to make sweeping refactors of the internal structure of the code without having to change the tests.
+
+### Looking ahead
+
+I recently watched [Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg). He describes a more nuanced decision process w.r.t. the question "to mock or not to mock?" He suggests to combine the classicist and London schools according to the design requirements — avoid mocks when the association of modules under test is characterized as a "composition" (i.e. each submodule is an implementation detail, though perhaps a larger one that is cleaner to extract) and use mocks when the association is characterized as an "aggregation" (i.e. each submodule represents a distinct behavior).
+
+My current takeaway: mocking still seems less applicable in smaller services, as I described above. And most of what I work on these days is smaller services. In a larger system, however, it's possible that mocking can be used according to the ideas in this talk.
+
+But for now, I don't see any reason to change my general approach to mocking only at the architectural boundary.
+
+Another way to phrase Mancuso's idea: it's possible that in larger systems it makes sense to consider certain submodules to be architecturally bounded.
 
 ## My current approach to programmer tests
 
