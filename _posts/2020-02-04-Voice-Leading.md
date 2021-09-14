@@ -1,5 +1,5 @@
 ---
-tags: music bill-evans mahler
+tags: music bill-evans mahler coltrane
 title: Voice Leading
 ---
 
