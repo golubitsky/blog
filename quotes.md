@@ -13,7 +13,7 @@ title: Quotes
 
 > Persons who have peculiar talent for art, draw instinctively, and get on almost without teaching, though never without toil.
 
-— _The Elements of Drawing_, Ruskin, p. 27
+— _The Elements of Drawing_ (p. 27), Ruskin
 
 > To play much better — that's all I'm interested in; so I teach. And as the eldest member of the class that also says that I'm the dumbest, because I've been in the class the longest. I'm teaching right now so that somebody might luckily come up and show me the right thing and then when they show it to me I'm gonna forget about teaching and everything; see, I'll graduate from the class then.
 
@@ -21,4 +21,4 @@ title: Quotes
 
 > I would not wish to live in any different century, nor to have worked for any other.
 
-— _On the Aesthetic Education of Man_, letter #2, Schiller
+— _On the Aesthetic Education of Man_ (second letter), Schiller
