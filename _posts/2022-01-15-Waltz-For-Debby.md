@@ -22,7 +22,7 @@ It is a joy to walk along that trail.
 
 1. Play a beautiful piece in all 12 keys — in the process, form a "map" of the piece
 2. Improvise over the piece using the "map"
-3. The notion is not to play Bill Evans or to play Rachmaninoff, but to master the building blocks with which they composed their music
+3. The notion is not to play Bill Evans or to play Rachmaninoff or Debussy, but to master the building blocks with which they composed their music
 
 Practicing little recurring atomic blocks, such as turnarounds, in all 12 keys is an aid to the above, as are a multitude of other topics that can be studied independently in music.
 
