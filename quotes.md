@@ -22,3 +22,7 @@ title: Quotes
 > I would not wish to live in any different century, nor to have worked for any other.
 
 — _On the Aesthetic Education of Man_ (second letter), Schiller
+
+> Production and ritual are mutually exclusive.
+
+— _The disappearance of ritual_ ("From Duelling to Drone Wars", p. 75), Byung-Chul Han
