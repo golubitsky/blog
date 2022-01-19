@@ -2,7 +2,7 @@
 tags: programming monitoring jazz piano professionalism dataism philosophy
 ---
 
-A fun post today!
+A fun post today! TL;DR: Man's purpose is beauty. Tools are useful. Thinking (still) helps. I think that's the point?
 
 ### Professionalism
 
