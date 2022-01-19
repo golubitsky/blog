@@ -16,7 +16,7 @@ There is also a seriousness that Bill Evans spoke of: to play beautiful music, o
 
 ### Dataism
 
-Earlier today, on my lunch break, I read a short, fascinating essay called "From Myth to Dataism" (by Byung-Chul Han in _The disappearance of rituals_). What is "dataism"? It's a relatively new "-ism" to denote the emerging era of data-driven metrics, processing, and insight.
+Earlier today, on my lunch break, I read a short, fascinating essay called "From Myth to Dataism" (by Byung-Chul Han in _The disappearance of rituals_). What is "dataism"? It's a relatively new "-ism" to denote the emerging era of data-driven metrics, processing, insight (and, perhaps, of "cyborgs" — that is, of cybernetic organisms — in the sense that _the human being is data-driven_; see also: Donna Haraway).
 
 In this essay we trace the broad shift across time:
 
