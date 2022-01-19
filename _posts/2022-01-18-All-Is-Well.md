@@ -43,3 +43,17 @@ In order to have any hope of operating a microservices architecture in productio
 The goal with all of this monitoring is to use the real-time system metrics to create actionable narratives around the questions that we must be able to answer. It is a fallacy to build an enormous distributed system that does not support this type of introspection.
 
 But the good news is that we can get there. We have the tools (we use Splunk at work, which is awesome!).
+
+### On my birthday, continued
+
+I spoke with my Dad's partner. She imparted some (Russian) wisdom.
+
+> Красота правит миром
+
+Some philosophers thought so. It could be translated "beauty governs the world". (I am with [Schiller](https://plato.stanford.edu/entries/schiller/#LettAestEduc) on this one: in the best case, it is true.)
+
+> Пусть будет солнце, пусть буду я.
+
+Thus wrote a child in the sand. It could be translated "let there be sun, let there be me."
+
+My Dad suggested that simply being "healthy and strong" (здоровым и сильным) encompasses and makes that quote redundant.
