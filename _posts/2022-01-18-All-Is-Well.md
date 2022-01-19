@@ -52,7 +52,7 @@ I spoke with my Dad's partner. She imparted some (Russian) wisdom.
 
 Some philosophers thought so. It could be translated "beauty governs the world". (I am with [Schiller](https://plato.stanford.edu/entries/schiller/#LettAestEduc) on this one: in the best case, it is true.)
 
-> Пусть будет солнце, пусть буду я.
+> Пусть будет солнце, пусть буду я
 
 Thus wrote a child in the sand. It could be translated "let there be sun, let there be me."
 
