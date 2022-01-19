@@ -30,7 +30,7 @@ In this essay we trace the broad shift across time:
   - "The human being is no longer the sovereign subject of knowledge, the originator of knowledge. _Knowledge is now produced mechanically_.- "The human being itself is reduced to a data set, a variable that can be calculated and manipulated."
   - "The proponents of dataism would argue that humans invented thinking because they cannot calculate fast enough, and that the age of thinking will prove to be a short historical interlude."
 
-Thinking is seen as non-linear, playful: "Thinking has a character of play. Under the compulsion of work and production, it becomes alienated from its essence."
+Thinking is seen for its non-linear, narrative function: "Thinking has a character of play. Under the compulsion of work and production, it becomes alienated from its essence."
 
 ### My day job (I _do_ work as a programmer!)
 
