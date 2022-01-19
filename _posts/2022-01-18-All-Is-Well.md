@@ -6,11 +6,11 @@ A fun post today!
 
 ### Professionalism
 
-As I practice today, on my birthday, I reflect on what it is to be a professional. To my mind comes Bill Evans's notion of improvisation over a formal structure — essentially, that we must always know where we are within that structure, and to move through the structure within a system that we understand.
+As I practice today, on my birthday, I reflect on what it is to be a professional. To my mind comes Bill Evans's notion of improvisation over a formal structure — essentially, that we must always know where we are within that structure, and to move through the structure using a system that we understand.
 
-As I continue my practice and study I see how some musical ideas I had arrived at earlier in my life fit into a broader system. In my earlier incarnation, I had stumbled blissfully upon sounds with which I resonated and I held on to those few sounds or groupings of sound. But I did not wield these sounds within a system through which I could move freely.
+As I continue my practice and study I see how some musical ideas I had arrived at earlier in my life fit into a broader system. In my earlier incarnation, I had stumbled blissfully upon sounds with which I resonated and I held on to those few sounds or groupings of sound. But I did not wield these sounds within a system using which I could move freely — I could move along the few paths I had found, but I could not "venture freely" (this is actually a deep subject; because to the outside observer, I _could_ and did freely improvise, but I had often felt constrained by my limitations — and I suppose that it is this way to the very end, and in the best case, we do our best).
 
-In the most idealized sense, the professional wields sounds within a system. There is a place for the playful, joyful discovery; but that is not what a professional does.
+In the most idealized sense, the professional wields sounds within a system. There is a place for the playful, joyful discovery; but the professional is not _limited_ to that. And so the professional must "wield" or "command" a system.
 
 There is also a seriousness that Bill Evans spoke of: to play beautiful music, one must be completely, continuously _present_.
 
@@ -23,7 +23,7 @@ In this essay we trace the broad shift across time:
 - Mythology - philosophy as agonistic, ritualistic _play_
 - Plato - transition from _myth_ to _truth_
   - "along the path towards work, thinking gradually distances itself from its origin in play"
-- Kant - Engightenment
+- Kant - Enlightenment
   - Subordination of play to work and production (of knowledge).
   - A la a Copernican Revolution, "Kant's universe is centered around a free, autonomous subject as the institution that provides the forms and laws of knowledge."
 - Dataism
