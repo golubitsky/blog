@@ -26,3 +26,13 @@ title: Quotes
 > Production and ritual are mutually exclusive.
 
 — _The disappearance of ritual_ ("From Duelling to Drone Wars", p. 75), Byung-Chul Han
+
+> ... the importance of contrapuntal organization in the works of Chopin or Schubert
+
+> The relation of species counterpoint to the voice leading of composition resembles the connection between a fundamental scientific or philosophical concept and its manifold elaborations and developments.
+
+— _Counterpoint in Composition_ (pp. xvi and xviii), Salzer and Schachter
+
+> It is an evil when the drama of a life does not continue in others for reason of their deafness or ignorance.
+
+— _Finite and Infinite Games_ (p. 32), James P. Carse
