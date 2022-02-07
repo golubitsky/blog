@@ -83,5 +83,5 @@ As the table indicates, each of these chords has various functions. The brute-fo
 
 ### Inspiration
 
-Inspiration for the _Rhythm_ section: Gabriel Cruiser.  
+Inspiration for the _Rhythm_ section: Gabriel Cruser.  
 Inspiration for the _Harmony_ section: _The Harmony of Bill Evans, Volume 2_ (chapters 1 and 2), by Jack Reilly.
