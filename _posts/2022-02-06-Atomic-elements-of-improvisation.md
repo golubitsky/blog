@@ -65,9 +65,9 @@ There are 4 permutations of triads, each in 3 inversions.
 There are 7 permutations of 7th chords (omitting the MMM construction), each in 4 inversions.  
 There are 12 keys (physically — 15 if we include the viable enharmonic equivalents).
 
-There are (4 \* 3) + (7 \* 4) "40 close-position voicings" available for each note.
+There are (4 \* 3) + (7 \* 4) 40 "close-position voicings" available for each note.
 
-Thus, there are (12 \* 40) **480 physical "close-position voicings" available** on the piano.
+Thus, there are (12 \* 40) **480 physical "close-position voicings" available on the piano**, composed of triads and 7th chords in all inversions across all keys.
 
 That is a brute-force method of practicing all the physical "close-position voicings" that are available. As the table indicates, each of these chords has various functions. That would be another way of practicing. And then of course the complexity increases as we introduce various "voicings".
 
