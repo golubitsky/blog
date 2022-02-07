@@ -51,7 +51,7 @@ In the table columns below:
 | minor        | mM  | ii, iii, vi    | iv, v, i        | i, iv     | i, ii, vi |
 | major        | Mm  | I, IV, V       | ♭III, ♭VI, ♭VII | V, ♭VI    | IV, V     |
 | augmented    | MM  |                |                 | ♭III+     | ♭III+     |
-| diminished 7 | mmm |                |                 | viiᵒ      | viiᵒ      |
+| diminished 7 | mmm |                |                 | viiᵒ⁷     | viiᵒ⁷     |
 | dominant 7   | Mmm | V⁷             | ♭VII⁷           | V⁷        | IV⁷, V⁷   |
 | minor 7      | mMm | ii⁷, iii⁷, vi⁷ | iv⁷, v⁷, i⁷     | iv⁷       | ii⁷       |
 | half-dim 7   | mmM | viiø           | iiø             | iiø       | viø, viiø |
