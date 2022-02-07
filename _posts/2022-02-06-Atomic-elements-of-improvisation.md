@@ -7,7 +7,7 @@ I was showing someone how I approach programming. We can either think of a probl
 
 Bottom-up study of the atomic elements of improvisation is possible, and of course must be paired with "top-down" study of complete pieces of music. My own experience of bottom-up study is that it is always painful to start it, but that it always proves enormously fruitful musically.
 
-## Bottom-up study of atomic elements of improvisation
+## Bottom-up study
 
 ### Rhythm
 
