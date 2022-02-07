@@ -69,7 +69,7 @@ There are (4 \* 3) + (7 \* 4) 40 "close-position voicings" available for each no
 
 Thus, there are (12 \* 40) **480 physical "close-position voicings" available on the piano**, composed of triads and 7th chords in all inversions across all keys.
 
-That is a brute-force method of practicing all the physical "close-position voicings" that are available. As the table indicates, each of these chords has various functions. That would be another way of practicing. And then of course the complexity increases as we introduce various "voicings".
+That is a brute-force method of practicing all the physical "close-position voicings" that are available.
 
 At this moment, I see the following ways of practicing. Cycle through 1:
 
@@ -78,6 +78,8 @@ At this moment, I see the following ways of practicing. Cycle through 1:
 - Key (across all chords and inversions)
 
 Only practice can show which of these are useful.
+
+As the table indicates, each of these chords has various functions. The brute-force practicing misses the point of a tonal _system_ (beyond the present scope). And then of course the complexity increases as we introduce various non-closed position voicings.
 
 ### Inspiration
 
