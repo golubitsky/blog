@@ -37,21 +37,27 @@ Finally, practice polyrhythms such as 3 against 4 and 4 against 3. Systematizing
 
 ### Harmony
 
-Regarding the Western tonal system. There are different ways to approach this.
+In the table columns below:
 
-| name         | thirds | major          | natural         | harmonic  | melodic (all natural also available) |
-| ------------ | ------ | -------------- | --------------- | --------- | ------------------------------------ |
-| diminished   | mm     | viiᵒ           | iiᵒ             | iiᵒ, viiᵒ | viiᵒ                                 |
-| minor        | mM     | ii, iii, vi    | iv, v, i        | i, iv     | i, ii, vi                            |
-| major        | Mm     | I, IV, V       | ♭III, ♭VI, ♭VII | V, ♭VI    | IV, V                                |
-| augmented    | MM     |                |                 | ♭III+     | ♭III+                                |
-| diminished 7 | mmm    |                |                 | viiᵒ      | viiᵒ                                 |
-| dominant 7   | Mmm    | V⁷             | ♭VII⁷           | V⁷        | IV⁷, V⁷                              |
-| minor 7      | mMm    | ii⁷, iii⁷, vi⁷ | iv⁷, v⁷, i⁷     | iv⁷       | ii⁷                                  |
-| half-dim 7   | mmM    | viiø           | iiø             | iiø       | viø, viiø                            |
-| major 7 +5   | MMm    |                |                 | ♭III△+5   | ♭III△+5                              |
-| major 7      | MmM    | I△, IV△        | ♭III△, ♭VI△     | ♭VI△      |
-| min +Maj7    | mMM    |                |                 | i△        | i△                                   |
+- "3s" = how to construct the chord by stacking minor (m) or major (M) thirds
+- The subsequent 4 columns express the function of a given chord in the major and each of the 3 minor scales
+- Note: all natural minor chords are also available in the descending melodic minor.
+
+The 4 scales form the basis of the Western tonal system.
+
+| name         | 3s  | major          | natural         | harmonic  | melodic   |
+| ------------ | --- | -------------- | --------------- | --------- | --------- |
+| diminished   | mm  | viiᵒ           | iiᵒ             | iiᵒ, viiᵒ | viiᵒ      |
+| minor        | mM  | ii, iii, vi    | iv, v, i        | i, iv     | i, ii, vi |
+| major        | Mm  | I, IV, V       | ♭III, ♭VI, ♭VII | V, ♭VI    | IV, V     |
+| augmented    | MM  |                |                 | ♭III+     | ♭III+     |
+| diminished 7 | mmm |                |                 | viiᵒ      | viiᵒ      |
+| dominant 7   | Mmm | V⁷             | ♭VII⁷           | V⁷        | IV⁷, V⁷   |
+| minor 7      | mMm | ii⁷, iii⁷, vi⁷ | iv⁷, v⁷, i⁷     | iv⁷       | ii⁷       |
+| half-dim 7   | mmM | viiø           | iiø             | iiø       | viø, viiø |
+| major 7 +5   | MMm |                |                 | ♭III△+5   | ♭III△+5   |
+| major 7      | MmM | I△, IV△        | ♭III△, ♭VI△     | ♭VI△      |           |
+| min +Maj7    | mMM |                |                 | i△        | i△        |
 
 Of note: minor keys use every available harmonic relationship; major keys do not.
 
