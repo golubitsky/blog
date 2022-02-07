@@ -3,7 +3,7 @@ title: Atomic Elements of Improvisation
 tags: philosophy music programming
 ---
 
-I was showing someone how I approach programming. We can either think of a problem from either the "top-down" or "bottom-up" perspective. In "bottom-up" we identify the building blocks needed to eventually build the solution — in programming, this translates into writing the low-level functions (or other abstractions) needed to solve the higher-level problem. In "top-down" we, instead, assume that we'll fill in the low-level details as we go, and choose to focus on the "skeleton" of the solution first.
+I was showing someone how I approach programming. We can think of a problem from either the "top-down" or "bottom-up" perspective. In "bottom-up" we identify the building blocks needed to eventually build the solution — in programming, this translates into writing the low-level functions (or other abstractions) needed to solve the higher-level problem. In "top-down" we, instead, assume that we'll fill in the low-level details as we go, and choose to focus on the "skeleton" of the solution first.
 
 Bottom-up study of the atomic elements of improvisation is possible, and of course must be paired with "top-down" study of complete pieces of music. My own experience of bottom-up study is that it is always painful to start it, but that it always proves enormously fruitful musically.
 
@@ -65,9 +65,9 @@ There are 4 permutations of triads, each in 3 inversions.
 There are 7 permutations of 7th chords (omitting the MMM construction), each in 4 inversions.  
 There are 12 keys (physically — 15 if we include the viable enharmonic equivalents).
 
-Thus, there are (4 \* 3) + (7 \* 4) "40 close-position voicings" available for each note.
+There are (4 \* 3) + (7 \* 4) "40 close-position voicings" available for each note.
 
-There are 12 notes. Thus, there are (12 \* 40 =) **480 physical "close-position voicings" available** on the piano.
+Thus, there are (12 \* 40) **480 physical "close-position voicings" available** on the piano.
 
 That is a brute-force method of practicing all the physical "close-position voicings" that are available. As the table indicates, each of these chords has various functions. That would be another way of practicing. And then of course the complexity increases as we introduce various "voicings".
 
