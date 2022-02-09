@@ -41,4 +41,4 @@ title: Quotes
 
 > \[Alan\] Kay taught us that good design form reflects human mental models.
 
-- James Coplien, LinkedIn post, 2022-02-09 ([Scientific American article written by Kay](http://worrydream.com/refs/Kay%20-%20Computer%20Software%20-%20SciAm.pdf))
+— James Coplien, LinkedIn post, 2022-02-09 (I found [Alan Kay's Scientific American article](http://worrydream.com/refs/Kay%20-%20Computer%20Software%20-%20SciAm.pdf) and [Alan Kay's list of old books new programmers should read](https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read/answer/Alan-Kay-11?share=1))
