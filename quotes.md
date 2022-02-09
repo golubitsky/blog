@@ -36,3 +36,9 @@ title: Quotes
 > It is an evil when the drama of a life does not continue in others for reason of their deafness or ignorance.
 
 — _Finite and Infinite Games_ (p. 32), James P. Carse
+
+> CS folks have long sought "high level coding" as a way of expressing something that clearly begs expressing. I find that I can use simple C to frame out even the grandest concepts. It should be concrete, yet general.
+
+> \[Alan\] Kay taught us that good design form reflects human mental models.
+
+- James Coplien, LinkedIn post, 2022-02-09
