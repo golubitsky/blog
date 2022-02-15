@@ -1,6 +1,6 @@
 ---
 title: Atomic Elements of Improvisation
-tags: music philosophy piano programming
+tags: music philosophy piano programming george-russell
 ---
 
 I was showing someone how I approach programming. We can think of a problem from either the "top-down" or "bottom-up" perspective. In "bottom-up" we identify the building blocks needed to eventually build the solution — in programming, this translates into writing the low-level functions (or other abstractions) needed to solve the higher-level problem. In "top-down" we, instead, assume that we'll fill in the low-level details as we go, and choose to focus on the "skeleton" of the solution first.
@@ -83,7 +83,7 @@ One perspective to consider would be modulation (across multiple keys, i.e. tona
 
 And then of course the complexity increases as we introduce non-closed position voicings — I do believe that a systematic "relationship" (at minimum, physically, at the piano) with these voicings — and free movement among them — can only be built on a solid foundation of closed position voicings.
 
-The eventual aim of this effort was at one point expressed by Miles Davis to George Russell: "I want to learn all the chord changes. How can I go about doing this?" (_Making of Kind of Blue :Miles Davis and His Masterpiece_, Eric Nisenson)
+The eventual aim of this effort was at one point expressed by Miles Davis to George Russell: "I want to learn all the chord changes. How can I go about doing this?" (_Making of Kind of Blue: Miles Davis and His Masterpiece_, Eric Nisenson)
 
 ### Inspiration
 
