@@ -1,5 +1,5 @@
 ---
-title: Brisk Walk Playlist no. 1
+title: Brisk Walk Playlist no. 1; George Russell
 tags: music exercise jazz bill-evans george-russell
 ---
 
