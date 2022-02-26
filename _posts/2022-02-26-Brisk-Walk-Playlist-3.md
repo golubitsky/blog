@@ -11,7 +11,7 @@ To frame my experience and admiration of McCoy Tyner's music, I thought of my ex
 
 Both of these pianists transcended "jazz" or else redefined "jazz".
 
-Both remained true "pianists" — and did not become "keyboardists". There's nothing wrong with electric pianos and synthesizers, but unlike others of their generation, their prolific recorded output was composed almost entirely of performances at the acoustic piano.
+Both remained true "pianists" — and did not become "keyboardists". There's nothing wrong with electric pianos and synthesizers, but unlike others of their era (in particular, Herbie Hancock), their prolific recorded output was composed almost entirely of performances at the acoustic piano.
 
 ### McCoy Tyner
 
