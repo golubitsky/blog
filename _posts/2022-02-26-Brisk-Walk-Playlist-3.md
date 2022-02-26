@@ -17,7 +17,7 @@ Both remained true "pianists" — and did not become "keyboardists". There's not
 
 My experience: torrential, evoking some kind of elemental power or influence. This elemental-ness reminds me of Stravinsky (below). An incredible amount of notes in the right hand and left-hand voicings on the brink of breaking with tonality, but still within it.
 
-Excellent examples: _Enlightenment_, _Fly With The Wind_.
+Excellent examples: [Enlightenment Suite, part 3](https://www.youtube.com/watch?v=psfHjIVd8VI), [Fly With The Wind](https://www.youtube.com/watch?v=UZIXDTH-sLA)
 
 ### Bill Evans
 
