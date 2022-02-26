@@ -5,7 +5,7 @@ tags: exercise music bill-evans mccoy-tyner stravinsky wagner mahler
 
 Today I was listening to McCoy Tyner's album _Trident_. A sunny, freezing day after a medium-size snowstorm. Some kids sledding.
 
-# My experiences of certain musicians and music
+To frame my experience and admiration of McCoy Tyner's music, I thought of my experiences of certain other musicians and music.
 
 ## Modal Pianists
 
@@ -31,7 +31,7 @@ There are broader parallels between this break and European culture. It did not 
 
 Tonal system: loosening the rules of tonality, decoupling from the tonic as the center of gravity
 
-My experience: untouchable, godlike, impenetrable, masterful. For the broad experience of these qualities — _The Ring Cycle_. For the summary, the _Tristan und Isolde Overture_. Here appears the famous "Tristan" chord, whose irresolution came to define the departure from classical Western harmony — there was no resolution, only seemingly endless wandering and tension, and then, after the tension is built up and released, only more tension. The resolution comes only at the end of the entire opera.
+My experience: untouchable, godlike, impenetrable, masterful. For the broad experience of these qualities — _The Ring Cycle_. For the summary, the [Tristan und Isolde Prelude](https://www.youtube.com/watch?v=bex_S61AI-8). Here appears the famous "Tristan" chord, whose irresolution came to define the departure from classical Western harmony — there was no resolution, only seemingly endless wandering and tension, and then, after the tension is built up and released, only more tension. The resolution comes only at the end of the entire opera.
 
 ### Mahler
 
