@@ -1,5 +1,5 @@
 ---
-title: Brisk Walk Playlist no. 2; Principles
+title: Brisk Walk Playlist no. 2; principles
 tags: music bill-evans exercise refactoring design principles TDD
 ---
 
