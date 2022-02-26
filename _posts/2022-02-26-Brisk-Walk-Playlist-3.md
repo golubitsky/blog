@@ -21,7 +21,7 @@ Excellent examples: [Enlightenment Suite, part 3](https://www.youtube.com/watch?
 
 ### Bill Evans
 
-My experience: analytical, composed, elegant; Evans could also be torrential (listen to any recording of _Nardis_ from 1980), but his essence to me is during the quiet, tender moments of beauty (as in _Waltz for Debby_ or his interpretation of _Someday My Prince Will Come_) grounded firmly in classical harmony.
+My experience: analytical, composed, elegant; Evans could also be torrential to some extent (e.g. [a recording of _Nardis_ from 1980](https://www.youtube.com/watch?v=_Vglbknf1D4)), but his essence to me is during the quiet, tender moments of beauty (as in _Waltz for Debby_ or his interpretation of _Someday My Prince Will Come_) grounded firmly in classical harmony.
 
 ## The break with tonality
 
