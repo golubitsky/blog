@@ -45,7 +45,7 @@ title: Quotes
 
 > I don't want to work on a team ever again that doesn't do test-driven development day to day; it's by far the most effective practice that's surfaced during my time as a software developer.
 
-— Dave Farley, [Martin Fowler On The Fundamentals Of Software Development | The Engineering Room Ep. 1](https://youtu.be/0TwoubGSXpc) 1:04:07
+— Dave Farley, [Martin Fowler On The Fundamentals Of Software Development \| The Engineering Room Ep. 1](https://youtu.be/0TwoubGSXpc) 1:04:07
 
 > For most of the kind of commercial software that we work on at ThoughtWorks, TDD is an essential.
 
