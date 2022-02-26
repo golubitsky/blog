@@ -42,3 +42,11 @@ title: Quotes
 > \[Alan\] Kay taught us that good design form reflects human mental models.
 
 — James Coplien, LinkedIn post, 2022-02-09 (I found [Alan Kay's Scientific American article](http://worrydream.com/refs/Kay%20-%20Computer%20Software%20-%20SciAm.pdf) and [Alan Kay's list of old books new programmers should read](https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read/answer/Alan-Kay-11?share=1))
+
+> I don't want to work on a team ever again that doesn't do test-driven development day to day; it's by far the most effective practice that's surfaced during my time as a software developer.
+
+— Dave Farley, [Martin Fowler On The Fundamentals Of Software Development | The Engineering Room Ep. 1](https://youtu.be/0TwoubGSXpc) 1:04:07
+
+> For most of the kind of commercial software that we work on at ThoughtWorks, TDD is an essential.
+
+— Martin Fowler, same as previous quote
