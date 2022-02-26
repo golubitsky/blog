@@ -1,6 +1,6 @@
 ---
 title: Brisk Walk Playlist no. 2; Principles
-tags: music bill-evans exercise refactoring design principles
+tags: music bill-evans exercise refactoring design principles TDD
 ---
 
 Last couple days I've been listening to
