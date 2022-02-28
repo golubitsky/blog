@@ -50,3 +50,11 @@ title: Quotes
 > For most of the kind of commercial software that we work on at ThoughtWorks, TDD is an essential.
 
 — Martin Fowler, same as previous quote
+
+> Clean code honors the deep roots of wisdom beneath our broader culture, or our culture as it once was, or should be, and _can_ be with attentiveness to detail.
+
+> You should name a variable using the same care with which you name a first-born child.
+
+> Quality is the result of a million selfless acts of care—not just of any great method that descends from the heavens. That these acts are simple doesn't mean that they are simplistic, and it hardly means that they are easy. They are nonetheless the fabric of greatness and, more so, of beauty, in any human endeavor. To ignore them is not yet to be fully human.
+
+James Coplien, forward to _Clean Code_ by Robert Martin (pp. xxi and xxii)
