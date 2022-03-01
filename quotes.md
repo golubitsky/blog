@@ -58,3 +58,15 @@ Martin Fowler, same as previous quote
 > Quality is the result of a million selfless acts of care—not just of any great method that descends from the heavens. That these acts are simple doesn't mean that they are simplistic, and it hardly means that they are easy. They are nonetheless the fabric of greatness and, more so, of beauty, in any human endeavor. To ignore them is not yet to be fully human.
 
 James Coplien, forward to _Clean Code_ by Robert Martin (pp. xxi and xxii)
+
+> For as long as
+> space endures
+> and for as long as
+> living beings remain,
+> until then
+> may I too
+> abide
+> to dispel
+> the misery of the world.
+
+attributed to Shantideva, spoken by HH Dalai Lama, [One of My Favorite Prayers](https://www.youtube.com/watch?v=9EQVj2MmtDo)
