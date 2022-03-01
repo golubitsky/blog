@@ -59,14 +59,14 @@ Martin Fowler, same as previous quote
 
 James Coplien, forward to _Clean Code_ by Robert Martin (pp. xxi and xxii)
 
-> For as long as
-> space endures
-> and for as long as
-> living beings remain,
-> until then
-> may I too
-> abide
-> to dispel
+> For as long as<br>
+> space endures<br>
+> and for as long as<br>
+> living beings remain,<br>
+> until then<br>
+> may I too<br>
+> abide<br>
+> to dispel<br>
 > the misery of the world.
 
-attributed to Shantideva, spoken by HH Dalai Lama, [One of My Favorite Prayers](https://www.youtube.com/watch?v=9EQVj2MmtDo)
+attributed to Shantideva, spoken by H.H. The Dalai Lama, [One of My Favorite Prayers](https://www.youtube.com/watch?v=9EQVj2MmtDo)
