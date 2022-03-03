@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Misha Golubitsky. Welcome to my blog about learning machine learning and data science; and about music and also generally about anything I resonate with. Check out my [résumé]({{ site.baseurl }}/assets/Mikhail Golubitsky Resume.pdf "Resume").
+Hello! My name is Misha Golubitsky.
+
+### 2022
+
+I ran out of space on SoundCloud so I setup an account on https://hearthis.at/golubitsky/.
+
+### 2018 (or so)
+
+Welcome to my blog about learning machine learning and data science; and about music and also generally about anything I resonate with. Check out my [résumé]({{ site.baseurl }}/assets/Mikhail Golubitsky Resume.pdf "Resume").
 
 I was born in St. Petersburg and I grew up in Boston. I played [piano](https://soundcloud.com/golubitsky/20170624_morning), trombone, and [composed music](https://soundcloud.com/golubitsky/evolution).
 Then I became a recording engineer. I [recorded](https://soundcloud.com/golubitsky/mahler-94-excerpt) the music of Mahler (who later became, and remains to this day, my favorite composer) performed by an orchestra with a leading American conductor at the helm, and a cool [fusion jazz band](https://soundcloud.com/golubitsky/live-jazz-band-recording-2014) in LA.
