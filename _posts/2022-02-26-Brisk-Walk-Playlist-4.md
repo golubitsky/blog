@@ -42,3 +42,9 @@ From Wikipedia, we know that John Coltrane searched far and wide, not only withi
 From Wikipedia we also know that Coltrane's association with Bill Evans had led to some of his discoveries:
 
 > Bill Evans was an avid reader, in particular philosophy and humorous books. His shelves held works by Plato, Voltaire, Whitehead, Santayana, Freud, Margaret Mead, Sartre and Thomas Merton; and he had a special fondness for Thomas Hardy's work. He was fascinated with Eastern religions and philosophies including Islam, Zen, and Buddhism. It was Evans who introduced John Coltrane to the Indian philosophy of Krishnamurti.
+
+### Conservative and liberal
+
+I rather like the notions of conservative as "to conserve what good has been achieved already" and liberal as "to be open to the fact that the best has not been achieved".
+
+Both have their place. Both are constructive.
