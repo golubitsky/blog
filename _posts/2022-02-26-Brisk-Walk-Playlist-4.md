@@ -48,3 +48,7 @@ From Wikipedia we also know that Coltrane's association with Bill Evans had led 
 I rather like the notions of conservative as "to conserve what good has been achieved already" and liberal as "to be open to the fact that the best has not been achieved".
 
 Both have their place. Both are constructive.
+
+> Yin and yang can be thought of as **complementary (rather than opposing)** forces that interact to form a dynamic system in which the whole is greater than the assembled parts.
+
+emphasis is mine, source: https://en.wikipedia.org/wiki/Yin_and_yang
