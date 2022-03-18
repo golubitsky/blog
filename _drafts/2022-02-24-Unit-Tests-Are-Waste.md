@@ -1,5 +1,5 @@
 ---
-tags: TDD
+tags: tdd
 ---
 
 TODO
