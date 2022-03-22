@@ -1,5 +1,5 @@
 ---
-tags: programming design bill-evans music
+tags: programming design bill-evans music patterns
 ---
 
 > A program is a frozen representation of an idea, a snapshot of a structure that once existed in a programmer's imagination.

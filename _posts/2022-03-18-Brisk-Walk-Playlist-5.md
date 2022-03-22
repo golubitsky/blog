@@ -1,6 +1,6 @@
 ---
 title: Brisk Walk Playlist no. 5; patterns, vision of the keyboard
-tags: exercise music robert-glasper jazz
+tags: exercise music robert-glasper jazz patterns
 ---
 
 [Robert Glasper Trio - Blues Skies](https://www.youtube.com/watch?v=lYXWbcKW_bw).

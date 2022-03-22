@@ -1,6 +1,6 @@
 ---
 title: "Clair de lune, bebop, chromaticism, romanticism"
-tags: debussy music piano bebop jazz romanticism mahler
+tags: debussy music piano bebop jazz romanticism mahler patterns
 ---
 
 Over the last couple of months, I've found inspiration within my musical practice in two major areas: Debussy's _Clair de lune_ and David Baker's short little book called _How to play bebop 1 - The Bebop Scales and Other Scales in Common Use_.
