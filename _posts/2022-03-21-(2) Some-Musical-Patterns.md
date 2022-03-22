@@ -50,7 +50,7 @@ I spent a bunch of time confusing myself by thinking that one of the above patte
 
 | intervals | chord tones | scale tones |
 | --------- | ----------- | ----------- |
-| ↓H ↓H ↑m3 | `7 ᵒ7 5 11` | `7 ♭7 6 1`  |
+| ↓m2 ↓m2 ↑m3 | `7 ᵒ7 5 11` | `7 ♭7 6 1`  |
 
 I'm actually very proud of myself for getting this; there was a time when I could not figure this out!
 
