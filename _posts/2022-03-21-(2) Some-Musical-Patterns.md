@@ -16,21 +16,29 @@ After a few weeks of practicing in all 12 keys, today I note the following patte
 
 ### Descending Patterns
 
-- The first 3 rows and the next 5 rows form, respectively, two separate "super scales" (perhaps "synthetic scales"?).
+- Rows composed of whole-tones
+  - 1, 2, and 3 form a scale.
+  - 1 and 2 form a complete whole-tone scale; there is a half-step between rows 2 and 3.
+- Rows 4, 5, 6, 7, and 8 form a scale. This one could be useful. Covers a wide range of colors. Suggests mixolydian bebop scale at first.
+- Rows composed of half-tones
+  - 8: diatonic
+  - 9: airy, palatable dissonance
+  - 10: dissonant, esp. on `♭iiiᵒ`; parallel fifths with bass
+- Row 11 originally confused me with Soulive (see below).
 
-| intervals | chord tones   | scale tones    | comments                                                                             |
-| --------- | ------------- | -------------- | ------------------------------------------------------------------------------------ |
-| W W W     | `5 9 ♭9 1`    | `5 4 ♭3 ♭2`    | whole-tones only                                                                     |
-| W W W     | `7 ♭5 11 3`   | `7 6 5 4`      | whole-tones only, forms scale with preceding row                                     |
-| W W W     | `3 M7 7 13`   | `3 2 1 ♭7`     | whole-tones only, forms scale with preceding row, but not a perfect whole tone scale |
-| H W H     | `1 ♭6 5 5`    | `1 7 6 ♭6`     |                                                                                      |
-| W H H     | `5 9 9 9`     | `5 4 3 ♭3`     | forms super 2 octave scale with preceding row                                        |
-| W H H     | `9 ♭♭7 13 13` | `2 1 7 ♭7`     | forms super 2 octave scale with preceding row                                        |
-| H H W     | `13 11 11 3`  | `6 ♭6 5 4`     | forms super 2 octave scale with preceding row                                        |
-| H H H     | `3 1 1 1`     | `3 ♭3 2 ♭2`    | half-tones only; completely diatonic forms super 2 octave scale with preceding row   |
-| H H H     | `♯11 9 9 9`   | `♯11 4 3 ♭3`   | half-tones only; airy, palatable dissonance                                          |
-| H H H     | `7 P5 5 5`    | `7 ♭7 6 ♭6`    | half-tones only; dissonant, esp. on `♭iiiᵒ`; parallel fifths with bass               |
-| H H (W)   | `5 ♭3 ♭3 (9)` | `5 ♯11 4 (♭3)` | this is the one that originally confused me with Soulive (see below)                 |
+| #   | intervals | chord tones   | scale tones    |
+| --- | --------- | ------------- | -------------- |
+| 1   | W W W     | `5 9 ♭9 1`    | `5 4 ♭3 ♭2`    |
+| 2   | W W W     | `7 ♭5 11 3`   | `7 6 5 4`      |
+| 3   | W W W     | `3 M7 7 13`   | `3 2 1 ♭7`     |
+| 4   | H W H     | `1 ♭6 5 5`    | `1 7 6 ♭6`     |
+| 5   | W H H     | `5 9 9 9`     | `5 4 3 ♭3`     |
+| 6   | W H H     | `9 ♭♭7 13 13` | `2 1 7 ♭7`     |
+| 7   | H H W     | `13 11 11 3`  | `6 ♭6 5 4`     |
+| 8   | H H H     | `3 1 1 1`     | `3 ♭3 2 ♭2`    |
+| 9   | H H H     | `♯11 9 9 9`   | `♯11 4 3 ♭3`   |
+| 10  | H H H     | `7 P5 5 5`    | `7 ♭7 6 ♭6`    |
+| 11  | H H (W)   | `5 ♭3 ♭3 (9)` | `5 ♯11 4 (♭3)` |
 
 ### Ascending Patterns
 
@@ -40,9 +48,9 @@ TODO!
 
 I spent a bunch of time confusing myself by thinking that one of the above patterns could be found at the beginning of [Soulive's Turn It Out](https://youtu.be/2XP4foJZbw4). It turns out that this classic composition begins with a loosely related progression: `I△ ♭iiᵒ ii⁷ Vsus♭9`, also leveraging passing diminished chords. The melody — using this other progression — goes like this:
 
-| intervals | chord tones | scale tones | comments |
-| --------- | ----------- | ----------- | -------- |
-| ↓H ↓H ↑m3 | `7 ᵒ7 5 11` | `7 ♭7 6 1`  |          |
+| intervals | chord tones | scale tones |
+| --------- | ----------- | ----------- |
+| ↓H ↓H ↑m3 | `7 ᵒ7 5 11` | `7 ♭7 6 1`  |
 
 I'm actually very proud of myself for getting this; there was a time when I could not figure this out!
 
