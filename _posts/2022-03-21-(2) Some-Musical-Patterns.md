@@ -5,12 +5,11 @@ tags: music chords scales patterns soulive
 
 On the 27th page of [Phil DeGreg's Jazz Keyboard Harmony](https://phildegreg.com/book/) I find the common chord progression (or turnaround) `I△ ♭iiiᵒ ii⁷ ♭II△`.
 
-After a few weeks of practicing in all 12 keys, today I note the following patterns:
+After a few weeks of practicing in all 12 keys, today I note the following patterns.
 
-- I use the same chord progression, above.
 - The `chord tones` are at least _somewhat_ diatonic to the chord and associated scales. This could be more systematic, but basically I added those that I could "bear" in abstraction.
 - The `scale tones` refer to the scale of the `I` chord.
-- `intervals` are always either whole-tones (W) or half-tones (H).
+- `intervals` are always either whole-tones (W) or half-tones (H), unless indicated otherwise.
 - parentheses denote optional notes
 - NOTE: It is not clear how best to refer to the chord tones in a diminished 7 chord.
 
