@@ -25,23 +25,31 @@ After a few weeks of practicing in all 12 keys, today I note the following patte
   - 10: dissonant, esp. on `♭iiiᵒ`; parallel fifths with bass
 - Row 11 originally confused me with Soulive (see below).
 
-| #   | intervals | chord tones   | scale tones    |
-| --- | --------- | ------------- | -------------- |
-| 1   | W W W     | `5 9 ♭9 1`    | `5 4 ♭3 ♭2`    |
-| 2   | W W W     | `7 ♭5 11 3`   | `7 6 5 4`      |
-| 3   | W W W     | `3 M7 7 13`   | `3 2 1 ♭7`     |
-| 4   | H W H     | `1 ♭6 5 5`    | `1 7 6 ♭6`     |
-| 5   | W H H     | `5 9 9 9`     | `5 4 3 ♭3`     |
-| 6   | W H H     | `9 ♭♭7 13 13` | `2 1 7 ♭7`     |
-| 7   | H H W     | `13 11 11 3`  | `6 ♭6 5 4`     |
-| 8   | H H H     | `3 1 1 1`     | `3 ♭3 2 ♭2`    |
-| 9   | H H H     | `♯11 9 9 9`   | `♯11 4 3 ♭3`   |
-| 10  | H H H     | `7 P5 5 5`    | `7 ♭7 6 ♭6`    |
-| 11  | H H (W)   | `5 ♭3 ♭3 (9)` | `5 ♯11 4 (♭3)` |
+| #   | intervals | chord tones   | scale tones   |
+| --- | --------- | ------------- | ------------- |
+| 1   | W W W     | `5 9 ♭9 1`    | `5 4 ♭3 ♭2`   |
+| 2   | W W W     | `7 ♭5 11 3`   | `7 6 5 4`     |
+| 3   | W W W     | `3 (M)7 7 13` | `3 2 1 ♭7`    |
+| 4   | H W H     | `1 ♭13 5 5`   | `1 7 6 ♭6`    |
+| 5   | W H H     | `5 9 9 9`     | `5 4 3 ♭3`    |
+| 6   | W H H     | `9 ♭♭7 13 13` | `2 1 7 ♭7`    |
+| 7   | H H W     | `13 11 11 3`  | `6 ♭6 5 4`    |
+| 8   | H H H     | `3 1 1 1`     | `3 ♭3 2 ♭2`   |
+| 9   | H H H     | `♯11 9 9 9`   | `♯4 4 3 ♭3`   |
+| 10  | H H H     | `7 P5 5 5`    | `7 ♭7 6 ♭6`   |
+| 11  | H H (W)   | `5 ♭3 ♭3 (9)` | `5 ♯4 4 (♭3)` |
 
 ### Ascending Patterns
 
-TODO!
+| #   | intervals | chord tones    | scale tones  |
+| --- | --------- | -------------- | ------------ |
+| 1   | W W H     | `1 (M)7 9 3`   | `1 2 3 4`    |
+| 2   | H H H     | `9 1 9 3`      | `2 ♭3 3 4`   |
+| 3   | H W H     | `3 9 11 5`     | `3 4 5 ♭6`   |
+| 4   | W H H     | `♯11 11 5 ♭13` | `♯4 ♯5 6 ♭7` |
+| 5   | W W H     | `5 ♭5 13 7`    | `5 6 7 1`    |
+| 6   | W H H     | `13 ♭13 7 (1)` | `6 7 1 (♭2)` |
+| 7   | H W H     | `7 ♭♭7 1 9`    | `7 1 2 ♭3`   |
 
 ## Another progression, from _Soulive - Turn It Out_
 
