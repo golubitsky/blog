@@ -1,6 +1,6 @@
 ---
 title: "Schoenberg: Theory Of Harmony (1)"
-tags: music schoenberg mahler rachmaninoff debussy coltrane
+tags: music schoenberg mahler rachmaninoff debussy coltrane george-russell
 ---
 
 A month or so ago I started reading from Schoenberg's Theory of Harmony. The Preface to the first edition is signed "Vienna, July 1911", conspicuously just two months after Mahler died and was buried – in Vienna. Mahler's death had devastated Schoenberg; he had been one of Mahler's "top students" — although clearly already masterful by this time. In the first edition there is a profuse dedication to Mahler about how Schoenberg didn't believe his contemporaries had sufficiently praised Mahler, and then in a subsequent edition, published some ten years later, he had decided that people had, by that point, come to praise Mahler enough; in the edition I have, the dedication reads simply "To the hallowed memory of GUSTAV MAHLER".
@@ -83,12 +83,14 @@ The harmonics are actually just integer multiples of the fundamental frequency. 
 3. After _c_ the next strongest tone is _g_, because it occurs earlier in the series, therefore more often than the other tones. If we think of this _g_ as a real tone, it then has overtones itself (as a tone actually played); and at the same time this _g_, together with its overtones, presupposes the _C_. The overtones of the overtones also contribute to the sound.
 4. Consequently: an actual tone (the _g_) appears as dependent upon a tone a fifth below.
 
-**Unfortunately I cannot follow that "consequently".** But Schoenberg uses this "consequently" to introduce the concept of "tonal gravity". The notion is (shown for 2 notes, but applies to any 2 notes a fifth apart):
+**Unfortunately I cannot follow that "consequently".** But Schoenberg uses this "consequently" to introduce the concept of "gravity". The notion is (shown for 2 notes, but applies to any 2 notes a fifth apart):
 
 - G "depends" on C
 - C exerts "gravity" on G
 
 From here we see that the first 5 harmonics (each of which account for 3 individual notes) of each of the subdominant (e.g., _F_), the fundamental (_C_), and the dominant (_G_)... together form the major scale.
+
+"Tonal gravity" would go on to play a bigger role in 20th century music theory. It is attributed to George Russell, so I was surprised to find mention of it far earlier. Schoenberg promises to "speak often of this characteristic" and to "draw a number of conclusions from it".
 
 ## The power of consonance
 
