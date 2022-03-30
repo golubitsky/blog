@@ -17,7 +17,7 @@ and
 
 As writes Schoenberg,
 
-> It is indeed our duty to reflect over and over again upon the mysterious origins of the powers of art. And again and again to begin at the beginning; again and again to examine anew for ourselves and attempt to organize anew for ourselves. Regarding nothing as given by the phenomena. These we may more rightly regard as eternal than the laws we believe we have found.
+> It is indeed our duty to reflect over and over again upon the mysterious origins of the powers of art. And again and again to begin at the beginning; again and again to examine anew for ourselves and attempt to organize anew for ourselves. Regarding nothing as given but the phenomena. These we may more rightly regard as eternal than the laws we believe we have found.
 
 And so, in such a spirit, I begin by paying respect to Mahler, once more.
 
