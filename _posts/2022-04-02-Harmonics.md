@@ -27,7 +27,7 @@ These 3 chords -- all a 5th apart, and which, again, are all available in a harm
 
 ## Consonant-dissonant continuum
 
-Guided by Schoenberg's notion that "the expressions 'consonance' and 'dissonance' are false" (and are, instead, a continuum, based on how far away a tone is from the fundamental, I've experimented also with major chords around the circle of fifths in relation to the fundamental:
+Guided by Schoenberg's notion that "the expressions 'consonance' and 'dissonance' are false" (and are, instead, a continuum, based on how far away a tone is from the fundamental, I've experimented also with **major chords around the circle of fifths in relation to the fundamental**.
 
 - `Dissonant?` is very unscientific -- just my gut reaction to playing the major chord in the middle register above the fundamental in the bass. Following Schoenberg, this could probably be quantified by measuring the total "harmonic distance" of each of the three notes in the chord from the fundamental. That would be interesting to see.
 
