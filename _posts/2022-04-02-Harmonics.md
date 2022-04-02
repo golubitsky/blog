@@ -23,7 +23,7 @@ Another interesting aspect of the harmonic series -- chords available in the har
 - minor v (e.g. e)
 - Major II (e.g. B) -- contains the #11, AKA the leading done of the harmonically-related melodic minor scale
 
-These 3 chords -- all a 5th apart, and which, again, are all available in a harmonic series _together compose the harmonically-related melodic minor scale_.
+These 3 chords -- all a 5th apart, and which, again, are all available in a harmonic series -- _together compose the harmonically-related melodic minor scale_.
 
 ## Consonant-dissonant continuum
 
