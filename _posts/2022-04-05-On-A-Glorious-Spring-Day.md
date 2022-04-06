@@ -19,3 +19,7 @@ Why was Schoenberg compelled to _ostensibely_ leave the path of his hallowed men
 Mahler did not write books, but Schoenberg did.
 
 Onward.
+
+#### Addendum
+
+I also listened to Bernstein conduct Mahler 2. Glorious is the word.
