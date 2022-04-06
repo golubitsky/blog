@@ -22,4 +22,4 @@ Onward.
 
 #### Addendum
 
-I also listened to Bernstein conduct Mahler 2. Glorious is the word.
+I also listened to Bernstein conduct _Mahler 2_. Glorious is the word.
