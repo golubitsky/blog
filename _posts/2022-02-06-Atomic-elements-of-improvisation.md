@@ -1,6 +1,6 @@
 ---
 title: Atomic Elements of Improvisation
-tags: music philosophy piano programming george-russell
+tags: music philosophy piano programming george-russell eric-nisenson
 ---
 
 I was showing someone how I approach programming. We can think of a problem from either the "top-down" or "bottom-up" perspective. In "bottom-up" we identify the building blocks needed to eventually build the solution — in programming, this translates into writing the low-level functions (or other abstractions) needed to solve the higher-level problem. In "top-down" we, instead, assume that we'll fill in the low-level details as we go, and choose to focus on the "skeleton" of the solution first.
