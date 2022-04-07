@@ -70,3 +70,7 @@ James Coplien, forward to _Clean Code_ by Robert Martin (pp. xxi and xxii)
 > the misery of the world.
 
 attributed to Shantideva, spoken by H.H. The Dalai Lama, [One of My Favorite Prayers](https://www.youtube.com/watch?v=9EQVj2MmtDo)
+
+> We're in the business of producing side effects, but we should not use side effects as the tools to do our work.
+
+—Russ Olson, [Expert Talk: Functional Programming • Russ Olsen & Christian Romney • GOTO 2022](https://www.youtube.com/watch?v=AbCWHZljhkM&list=PLEx5khR4g7PJozVmHNpQTVrk1QRC7YaJu)
