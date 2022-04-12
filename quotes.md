@@ -78,3 +78,7 @@ title: Quotes
 > If you can't trust you teammates to make changes carefully, then your version control system is not going to fix that for you. The real answer is to figure out how to make your colleages more trustworthy.
 
 —Dave Farley, [You NEED To Stop Using Pull Requests](https://youtu.be/ASOSEiJCyEM?t=745)
+
+> When we do read code, we find that some of it gets written becuase of machine limitations, some because of language limitations, some because of programmer limitations, some because of historical accidents, and some because of specifications--both essential and inessential.
+
+—Gerald M. Weinberg, _The Psychology of Computing_, p. 13
