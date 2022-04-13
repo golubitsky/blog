@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: tonal gravity, 2-5-1s, bebop scale"
-tags: music piano gato-barbieri schoenberg barry-harris
+tags: music piano gato-barbieri schoenberg barry-harris tonal-gravity
 ---
 
 I continue to believe that it's the basics that matter. Below:
