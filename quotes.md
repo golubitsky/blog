@@ -82,3 +82,7 @@ title: Quotes
 > When we do read code, we find that some of it gets written becuase of machine limitations, some because of language limitations, some because of programmer limitations, some because of historical accidents, and some because of specifications--both essential and inessential.
 
 —Gerald M. Weinberg, _The Psychology of Computing_, p. 13
+
+> Bertrand Russell wrote in _The Philosophy of Logical Atomism_ that "Everything is vague to a degree you do not realise till you have tried to make it precise." On most projects event today, writing code is the first time that we try to make the solution really precise.
+
+—Gojko Adzic, _Bridging the Communication Gap_, p. 12
