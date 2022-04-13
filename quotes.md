@@ -79,9 +79,13 @@ title: Quotes
 
 —Dave Farley, [You NEED To Stop Using Pull Requests](https://youtu.be/ASOSEiJCyEM?t=745)
 
-> When we do read code, we find that some of it gets written becuase of machine limitations, some because of language limitations, some because of programmer limitations, some because of historical accidents, and some because of specifications--both essential and inessential.
+> When we do read code, we find that some of it gets written because of machine limitations, some because of language limitations, some because of programmer limitations, some because of historical accidents, and some because of specifications--both essential and inessential.
 
-—Gerald M. Weinberg, _The Psychology of Computing_, p. 13
+—Gerald M. Weinberg, _The Psychology of Computer Programming_, p. 13
+
+> As is usual with programming disasters, nobody recognized it as such."
+
+—Gerald M. Weinberg, The Psychology of Computer Programming, p. 17
 
 > Bertrand Russell wrote in _The Philosophy of Logical Atomism_ that "Everything is vague to a degree you do not realise till you have tried to make it precise." On most projects event today, writing code is the first time that we try to make the solution really precise.
 
