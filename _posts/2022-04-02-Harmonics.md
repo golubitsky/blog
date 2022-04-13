@@ -33,19 +33,19 @@ Guided by Schoenberg's notion that "the expressions 'consonance' and 'dissonance
 
 | (T) # of 5ths away | Quality (F=(R)oot)   | Quality (T=R) | Dissonant? |
 | :----------------- | :------------------- | ------------- | ---------- |
-| 6 down             | I don't know haha    | M#11 (F=#11)  | 3          |
-| 5 down             | Mb9sus(sus6); (T=b9) | M7 (F=M7)     | 2          |
+| 6 down             | I don't know haha    | M♯11 (F=♯11)  | 3          |
+| 5 down             | M♭9sus(sus6); (T=♭9) | M7 (F=M7)     | 2          |
 | 4 down             | m(sus6) (T=sus6)     | M (F=3)       | 1          |
 | 3 down             | m7 (T=m3)            | M6 (F=6)      | 1          |
 | 2 down             | m7sus9 (T=m7)        | Madd9 (F=9)   | 1          |
 | 1 down             | Msus6 (T=sus4)       | M (F=5)       | 1          |
 | (F)undamental      | M (T=R)              | M (F=R)       | 0          |
 | 1 up               | M7add9 (T=5)         | M add4 (F=4)  | 1          |
-| 2 up               | M69#11 (T=9)         | dom7 (F=b7)   | 1          |
-| 3 up               | M13b9 (T=13)         | M#9 (F=#9)    | 2          |
-| 4 up               | M7#5 (T=3)           | Madd#5 (F=#5) | 2          |
-| 5 up               | dim, add M7(T=M7)    | Mb9 (F=b9)    | 4          |
-| 6 up (= 1st row)   | I don't know haha    | M#11 (F=#11)  | 3          |
+| 2 up               | M69♯11 (T=9)         | dom7 (F=b7)   | 1          |
+| 3 up               | M13♭9 (T=13)         | M♯9 (F=♯9)    | 2          |
+| 4 up               | M7♯5 (T=3)           | Madd♯5 (F=♯5) | 2          |
+| 5 up               | dim, add M7(T=M7)    | M♭9 (F=♭9)    | 4          |
+| 6 up (= 1st row)   | I don't know haha    | M♯11 (F=♯11)  | 3          |
 
 ## Practicing polyrhythms, left hand independence, and the harmonic series
 
