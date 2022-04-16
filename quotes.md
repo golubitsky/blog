@@ -98,3 +98,7 @@ title: Quotes
 > Working from specifications does not guarantee that the project will deliver the desired business value.
 
 —Gojko Adzic, _Bridging the Communication Gap_, p. 15
+
+> As formality increases, tests and requirements become indistinguishable. At the limit, tests and requirements are equivalent.
+
+—Robert C. Martin, Grigori Melnik [Tests and Requirements, Requirements and Tests: A Möbius Strip](http://gmelnik.com/papers/Melnik-Martin-Tests-and-Requirements-The-Moebius-Strip-IEEE-Software-2008.pdf), quoted by Gojko Adzic, _Bridging the Communication Gap_, p. 26
