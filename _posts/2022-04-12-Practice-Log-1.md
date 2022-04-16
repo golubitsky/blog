@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: tonal gravity, 2-5-1s, bebop scale"
-tags: music piano gato-barbieri schoenberg barry-harris tonal-gravity
+tags: music piano gato-barbieri schoenberg barry-harris tonal-gravity coltrane eric-nisenson
 ---
 
 I continue to believe that it's the basics that matter. Below:
@@ -83,6 +83,10 @@ Something like this:
 - To get descending intervals 1) rename "up" to "down"; 2) rename "with" to "against" 3) rename "against" to "with".
 - Again, "with gravity" means up 4ths/down 5ths; "against gravity" means down 4ths/up 5ths.
 - One can imagine that there _would_ be value in finding symmetries in such a way.
+
+I imagine Coltrane's _Giant Steps_ might offer some insight on this question; as Eric Nisenson wrote on page 86 of _The Making of Kind of Blue_, it signaled the culmination of the bebop era, and by extension of conventional harmony in Jazz, thereby having some measure of equivalence to the era of Mahler -> Schoenberg:
+
+> At the time of _Kind of Blue_, Coltrane felt that he had not yet brought his obsession with conventional harmony to its ultimate point. With the tune "Giant Steps" he did so, and now the bebop era had finally come to its close.
 
 ## 2-5-1s in the left hand with bebop scale in the right hand
 
