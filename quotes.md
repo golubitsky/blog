@@ -90,3 +90,11 @@ title: Quotes
 > Bertrand Russell wrote in _The Philosophy of Logical Atomism_ that "Everything is vague to a degree you do not realise till you have tried to make it precise." On most projects event today, writing code is the first time that we try to make the solution really precise.
 
 —Gojko Adzic, _Bridging the Communication Gap_, p. 12
+
+> I think we have a social responsibility to make a lean world that's broadly contributing to the value of society rather than a few individuals here and there.
+
+—James Coplien, [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021](https://youtu.be/Va8QedfiC9k?t=2783)
+
+> Working from specifications does not guarantee that the project will deliver the desired business value.
+
+—Gojko Adzic, _Bridging the Communication Gap_, p. 15
