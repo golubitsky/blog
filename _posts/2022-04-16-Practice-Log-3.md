@@ -144,10 +144,6 @@ That vamp at the end is a really, really classic sound. Turns out we can walk up
 
 The coda of _Naima_ is essentially this scale, omitting the 4th scale degree chord.
 
-## Coltrane Substitutions
-
-_Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution).
-
 # Appendix: "A" and "B" position voicings
 
 Mark Levine, in the _The Jazz Piano Book_ (bottom of p. 46) refers to the following voicings of dominant 7 chords (and this is how I was taught by [Anthony Mele](https://www.uml.edu/fahss/music/faculty/mele-anthony.aspx)):
@@ -162,7 +158,13 @@ Within traditional harmony, these voicings fruitfully apply to at least two othe
 - "A" voicing `m3` above the root forms a `minor 6 (major 7)` — based on mel. minor scale starting on the root — chord tones `♭3 5 6 9`
 - "A" voicing `m2` above the root forms a `sus flat 9` — based on mel. minor scale `M2` _below_ the root — chord tones `♭9 11 5 1`
 
-# A Passion for Jazz
+# Loose Ends
+
+## Coltrane Substitutions
+
+_Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution).
+
+## A Passion for Jazz
 
 [A Passion for Jazz](https://www.apassion4jazz.net) maintains an excellent list of jazz quotes.
 
