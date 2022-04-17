@@ -47,10 +47,6 @@ TODO: there's question about this chord. Note the other TODO below. Could it be 
 
 A simple `A♭ major 7` — the pedal resolves, and the melody is the `5`, an `E♭` — incidentally, what _was_ the pedal!
 
-## Coltrane Substitutions
-
-See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution)
-
 ### Bar 5 - 8
 
 Repeat bars 1 - 4.
@@ -143,3 +139,7 @@ That vamp at the end is a really, really classic sound. Turns out we can walk up
 | `5 7 1 3 5`   | `I△`     |
 
 The coda of _Naima_ is essentially this scale, omitting the 4th scale degree chord.
+
+## Coltrane Substitutions
+
+See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution)
