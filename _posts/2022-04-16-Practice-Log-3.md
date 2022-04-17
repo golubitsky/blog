@@ -95,7 +95,7 @@ Melody goes down a major third to `E♭` — our friend, the pedal from Bars 1 -
 
 At first I thought this was an `E△/B♭`, but there is clearly _no_ `B`. So this isn't right.
 
-What it sounds most like, is the "A" position rootless voicing construction (see Appendix below) that forms a `B♭ half-diminished 7`, with the melody on the `11` of that chord.
+What it sounds most like, is the "A" position rootless voicing construction (see _Appendix_ below) that forms a `B♭ half-diminished 7`, with the melody on the `11` of that chord.
 
 Not only is that `11` _the `E♭` pedal from Bars 1 - 8_, but this half-diminished 7 appears to function as a "dominant" chord to the upcoming `E♭ sus 13` — which of course is _not_ the tonic — the eventual tonic that we will get to, only at the last measure (following in the footsteps of _Tristan und Isolde_), is `A♭`! And so, this chord _can_ be thought of as the `ii half-diminished 7` leading to the `V sus 13` leading to the `I major seven`! Eureka.
 
@@ -126,8 +126,6 @@ Repeat bars 51 and 52 _a third time_...
 But, instead of ending on the `I` in bar 58, begin an ascent in the melody where each note lasts 2 beats, up the `A♭` major scale: `E♭ F G A♭ B♭ C` until finally ending on the `E♭` in Bar 61.
 
 Over this ascent starting on bar 58, the chords vamp, alternating every two beats between `A♭ major 7` and the dominant `E♭ sus 13` until finally, in bar 61, the pedal drops out, there is only the `A♭ major 7` with the melody holding a fermata on the `Eb` — the `5` — what _had been_ the pedal.
-
-# Coda: reflections
 
 That vamp at the end is a really, really classic sound. Turns out we can walk up the mixolydian scale, alternating between the `I` and `V`:
 
