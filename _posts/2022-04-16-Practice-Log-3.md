@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: Naima"
-tags: music piano coltrane wynton-kelly bill-evans tonal-gravity
+tags: music piano coltrane wynton-kelly bill-evans tonal-gravity jazz
 ---
 
 [Naima](https://www.youtube.com/watch?v=bPAC6zt_1ZM), from [Giant Steps](https://en.wikipedia.org/wiki/Giant_Steps).
@@ -141,3 +141,18 @@ The coda of _Naima_ is essentially this scale, omitting the 4th scale degree cho
 ## Coltrane Substitutions
 
 _Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution).
+
+# A Passion for Jazz
+
+[A Passion for Jazz](https://www.apassion4jazz.net) maintains an excellent list of jazz quotes.
+
+- [https://www.apassion4jazz.net/quotations.html](Ackert - Blanchard)
+- [https://www.apassion4jazz.net/quotations2.html](Bley - Coleman)
+- [https://www.apassion4jazz.net/quotations3.html](Coltrane - Duke)
+- [https://www.apassion4jazz.net/quotations4.html](Earland - Gershwin)
+- [https://www.apassion4jazz.net/quotations5.html](Getz - Hawkins)
+- [https://www.apassion4jazz.net/quotations6.html](Harris - Konitz)
+- [https://www.apassion4jazz.net/quotations7.html](Krall - Masekela)
+- [https://www.apassion4jazz.net/quotations8.html](Mancini - Overton)
+- [https://www.apassion4jazz.net/quotations9.html](Parker - Shew)
+- [https://www.apassion4jazz.net/quotations10.html](Shepp - Zwerin)
