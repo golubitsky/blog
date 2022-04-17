@@ -1,13 +1,13 @@
 ---
 title: "Practice Log: Naima"
-tags: music piano coltrane wynton-kelly bill-evans tonal-gravity jazz
+tags: music piano coltrane wynton-kelly bill-evans tonal-gravity jazz wagner
 ---
 
 [Naima](https://www.youtube.com/watch?v=bPAC6zt_1ZM), from [Giant Steps](https://en.wikipedia.org/wiki/Giant_Steps).
 
 While listening, I wondered — what if Bill Evans had played this piece? I couldn't find recordings. Wynton Kelly was the pianist on the original recording (linked above).
 
-An harmonic analysis of the whole recording.
+A harmonic analysis of the whole recording. Subtlety abounds.
 
 ## Bars 1-8 (A section, [0:00](https://youtu.be/bPAC6zt_1ZM?t=0))
 
@@ -20,6 +20,8 @@ Melody starts on the `13` of `E♭ sus 13` — a `C`.
 ### Bar 2
 
 Melody moves (down a 5th) to the `9` of `E♭ minor 9` — an `F`.
+
+TODO: playing this chord doesn't sound "right". Needs more thought.
 
 ### Bar 3
 
@@ -75,7 +77,7 @@ Repeat bars 9 and 10.
 
 ### Bar 13
 
-Like bar 9, `B♭ sus ♭9`, but melody is on the `D♭` — either the 1) `9` of the `B` or 2) `♭3` of the pedal `B♭`, or — perhaps this makes the most sense 3) `5` of the underlying `G♭ major scale`.
+`B♭ alt 7` — clearly over the `A minor melodic scale` — the most "out" sound of this piece — the melody is on the `♯9`, the `D♭`.
 
 ### Bar 14
 
@@ -91,7 +93,11 @@ This is _close_ to the chord from bar 10, but it's not the same.
 
 Melody goes down a major third to `E♭` — our friend, the pedal from Bars 1 - 8.
 
-If the `B♭` pedal weren't there, this would be an `E major 7` (analogous to bar 3, beats 1 and 2, but a 5th up), with the melody playing the major 7 - a `D♯`. But the `B♭` pedal _is_ there, and so, again, I don't know how to name this chord if not as the "slash" chord `E△7/B♭`.
+At first I thought this was an `E△/B♭`, but there is clearly _no_ `B`. So this isn't right.
+
+What it sounds most like, is the "A" position rootless voicing construction (see Appendix below) that forms a `B♭ half-diminished 7`, with the melody on the `11` of that chord.
+
+Not only is that `11` _the `E♭` pedal from Bars 1 - 8_, but this half-diminished 7 appears to function as a "dominant" chord to the upcoming `E♭ sus 13` — which of course is _not_ the tonic — the eventual tonic that we will get to, only at the last measure (following in the footsteps of _Tristan und Isolde_), is `A♭`! And so, this chord _can_ be thought of as the `ii half-diminished 7` leading to the `V sus 13` leading to the `I major seven`! Eureka.
 
 ## Bars 17 - 20 (A section recap, [1:05](https://youtu.be/bPAC6zt_1ZM?t=65))
 
@@ -141,6 +147,20 @@ The coda of _Naima_ is essentially this scale, omitting the 4th scale degree cho
 ## Coltrane Substitutions
 
 _Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution).
+
+# Appendix: "A" and "B" position voicings
+
+Mark Levine, in the _The Jazz Piano Book_ (bottom of p. 46) refers to the following voicings of dominant 7 chords (and this is how I was taught by [Anthony Mele](https://www.uml.edu/fahss/music/faculty/mele-anthony.aspx)):
+
+- "A" position: `7 9 3 13`
+- "B" position: `3 13 7 9`
+
+Within traditional harmony, these voicings fruitfully apply to at least two other root notes, where the "A" voicing is built on some interval above the root:
+
+- "A" voicing `m7` above the root forms a `dominant 7` — based on the root — using the mixolydian scale — chord tones `7 9 3 13`.
+- "A" voicing `TT` above the root forms a `half-diminished 7` — based on mel. minor scale starting `m3` _above_ the root - chord tones `♭5 7 1 11`
+- "A" voicing `m3` above the root forms a `minor 6 (major 7)` — based on mel. minor scale starting on the root — chord tones `♭3 5 6 9`
+- "A" voicing `m2` above the root forms a `sus flat 9` — based on mel. minor scale `M2` _below_ the root — chord tones `♭9 11 5 1`
 
 # A Passion for Jazz
 
