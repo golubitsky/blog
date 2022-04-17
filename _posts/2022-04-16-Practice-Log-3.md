@@ -9,6 +9,10 @@ While listening, I wondered — what if Bill Evans had played this piece? I cou
 
 A harmonic analysis of the whole recording. Subtlety abounds.
 
+For voicings, in general, avoid 5ths — sometimes based on the pedal, and sometimes in the chords above (i.e. the ones before the "slash").
+
+I tuned to `A=442`.
+
 ## Bars 1-8 (A section, [0:00](https://youtu.be/bPAC6zt_1ZM?t=0))
 
 Bass pedal on the dominant `E♭`. Even during the tonic `A♭` chords, the pedal persists.
@@ -21,7 +25,7 @@ Melody starts on the `13` of `E♭ sus 13` — a `C`.
 
 Melody moves (down a 5th) to the `9` of `E♭ minor 9` — an `F`.
 
-TODO: playing this chord doesn't sound "right". Needs more thought.
+It is crucial to avoid the 5th of the chord (the `B♭`).
 
 ### Bar 3
 
@@ -31,17 +35,29 @@ If the pedal weren't there, this would be an `A major 7` chord, with the melody 
 
 But the `E♭` pedal _is_ there.
 
-Another way to think of these first three chords is as `pedal + major 7 chord with root an interval above the pedal)`: where the intervals are, respectively `m7`, `m3`, `TT`; or even more simply, a major chord in all cases, with the melody playing the major 7.
+`E♭ Locrian` scale (based on the 7th degree of the `E major scale`) contains both the `A major 7` _and_ the `E♭` pedal. It makes sense that it's a weird one, because this is a weird sound.
 
-In this way — disregarding the pedal — the root motion for the first 4 bars is: `A♭: 4 ♭7 ♭2 5 1` or `E♭: ♭7 ♭3 ♭5 1; A♭: 1` — outlining/suggesting the chords `E♭ half diminished` and `A♭ major`.
-
-But of course there's that pesky `E♭ dominant 7 alt` chord on Bar 3 beats 3 and 4. If we ignore it, then the interesting pattern of tonal gravity emerges (this is no longer complete support of the melody of _Naima_ on that second half of Bar 3, but it's close): `D♭△ G♭△ A△ D△ A♭△`. There are now two groups of tonal gravity motion, and all the chords are major 7 chords.
+So this ends up being an `E♭ half-diminished 7`.
 
 #### Beats 3 and 4
 
-We are closer to resolution — the chord is finally built on the pedal `E♭`, it's hard to hear the exact voicing, but it's an `E♭ dominant 7 alt`, with the melody sounding the `♯9` (`F♯`), with perhaps a `♭9` also present, I can't decide.
+We are closer to resolution — the chord is again built on the pedal `E♭`, it's hard to hear the exact voicing, but since a `C` clashes with the voicing, I hear this is _not_ an `E♭ half-whole octatonic scale`. Instead, it's built on the `E melodic minor scale`.
 
-TODO: there's question about this chord. Note the other TODO below. Could it be a major 7 construction over the `E♭` (as also alluded to above)?
+And so this _must_ be an `E♭ dominant 7 alt`, with the melody sounding the `♯9` (`F♯`) and the `1` (`E♭`).
+
+What makes it really hard to hear is the continued `E♭ pedal` with the really close piano voicings — just 3 notes each, all using the same `m2 M3` voicing:
+
+- Bar 3 (beats 1 and 2): `G♯ A C♯`
+- Bar 3 (beats 3 and 4): `F♯ G B` — this voicing is essential to the sound
+- Bar 4: `G A♭ C`
+
+##### Tonal gravity tangent
+
+Another way to think of these first three/four chords is as `pedal + major 7 chord with root an interval above the pedal)`: where the intervals are, respectively `m7`, `m3`, `TT`.
+
+However if we ignore the pedal altogether, what emerges is root motion as two sets of `major 7` chords moving with tonal gravity (this is no longer _complete_ support of the melody of _Naima_ on that second half of Bar 3, but it's close): `D♭△ G♭△ A△ D△` — this kind of "wants" to resolve to a `D♭△` (not to the `A♭△` in _Naima_).
+
+This also sounds an awful lot like the whole-tone/thirds/Giant Steps situation...
 
 ### Bar 4
 
@@ -57,11 +73,11 @@ Bass pedal on the `B♭`, a 5th up from the first 8 bars — against tonal grav
 
 ### Bar 9
 
-Melody starts on the root `1` of a `B♭ sus ♭9`.
-
-This chord can be analyzed as the `III` chord on the Phrygian mode of `G♭`.
+Melody starts on the root `1` of a `B♭ sus ♭9`. It comes from the `III` Phrygian mode of `G♭ major scale`.
 
 Else, it is simply a `B major 7` over a `B♭` — hence the suggested `sus`pensions — of the `♭9 -> 1` and `4 -> 3` and `♭6 -> 5` — it's basically the most suspended chord relative to the `B♭` major chord whose root is the pedal.
+
+But I think given that this recording is post-_Kind of Blue_ it is safe to assume that Coltrane must have been leaning towards the modal analysis.
 
 ### Bar 10
 
@@ -69,7 +85,7 @@ Else, it is simply a `B major 7` over a `B♭` — hence the suggested `sus`pens
 
 Melody goes — from the root of the pedal in bar 9 — to the root of the "over" chord — the `G`.
 
-How to analyze it/name the chord (other than as a "slash" chord)? It's not easy. It fits into no major or minor scale. If anything, it is a diminished harmony, based on the symmetric octatonic scale — the `B♭ half-whole octatonic scale` is one such scale. It seems more fruitful to analyze it in that scale than to find a name for it within traditional harmony. But then Coltrane was playing on the edge of traditional harmony and modal harmony during this period. In any case, it's certainly an off-color sound.
+How to analyze it/name the chord (other than as a "slash" chord)? This is a diminished harmony, based on the symmetric octatonic scale — the `G half-whole octatonic scale` is one such scale. It seems more fruitful to analyze it in that scale than to find a name for it within traditional harmony. But then Coltrane was playing on the edge of traditional harmony and modal harmony during this period. In any case, it's certainly an off-color sound.
 
 ### Bars 11 - 12
 
@@ -77,27 +93,38 @@ Repeat bars 9 and 10.
 
 ### Bar 13
 
-`B♭ alt 7` — clearly over the `A minor melodic scale` — the most "out" sound of this piece — the melody is on the `♯9`, the `D♭`.
+`B♭ alt 7` — clearly over the `B minor melodic scale` — the most "out", the most "dissonant" sound of this piece — the melody is on the `♯9`, the `D♭`.
 
 ### Bar 14
 
-Continued `B♭ sus ♭9`, but melody goes down a minor 3rd to the `B♭`, either 1) `major 7` of the `B` or 2) root of the pedal `B♭` or 3) `3` of the underlying `G♭ major` scale.
+Continued `B♭ sus ♭9`, but melody goes down a minor 3rd to the `B♭`, either 1) `major 7` of the `B` or 2) root of the pedal `B♭` or 3) `3` of the underlying `G♭ major scale`.
 
 ### Bar 15
 
-Melody goes down a minor third to the `13` of `B♭ sus 13` — a `G` (sounds analogous to bar 1, but a 5th up)
-
-This is _close_ to the chord from bar 10, but it's not the same.
+Melody goes down a minor third to the `13` of `B♭ sus 13` — a `G`. Sounds analogous to bar 1, but a 5th up — this is _much_ less dissonant compared to where we came from — almost a "home" sound, except a 5th up.
 
 ### Bar 16
 
 Melody goes down a major third to `E♭` — our friend, the pedal from Bars 1 - 8.
 
-At first I thought this was an `E△/B♭`, but there is clearly _no_ `B`. So this isn't right.
+At first I thought this was an `E△/B♭`, but there is clearly _no_ `B` in the recording.
 
 What it sounds most like, is the "A" position rootless voicing construction (see _Appendix_ below) that forms a `B♭ half-diminished 7`, with the melody on the `11` of that chord.
 
-Not only is that `11` _the `E♭` pedal from Bars 1 - 8_, but this half-diminished 7 appears to function as a "dominant" chord to the upcoming `E♭ sus 13` — which of course is _not_ the tonic — the eventual tonic that we will get to, only at the last measure (following in the footsteps of _Tristan und Isolde_), is `A♭`! And so, this chord _can_ be thought of as the `ii half-diminished 7` leading to the `V sus 13` leading to the `I major seven`! Eureka.
+Not only is that `11` _the `E♭` pedal from Bars 1 - 8_, but this half-diminished 7 _appears_ to function as "dominant" to the upcoming `E♭ sus 13` — which of course is _not_ the tonic — the eventual tonic that we will get to, only at the last measure (following in the footsteps of _Tristan und Isolde_), is `A♭`! And so, this chord _can_ be thought of as the `ii half-diminished 7` leading to the `V sus 13` leading to the `I major seven`! Eureka. The scale is the `II` of the `D♭ melodic minor scale`.
+
+On another hand, even though there is no `B` in the sound, the `A♭ harmonic minor scale` could also work here?
+
+### Scales used in B Section
+
+To recap, the scales used in the `B section` — all with a `B♭` pedal:
+
+- Bars 9/11: B♭ phrygian (G♭ major)
+- Bars 10/12: G half-whole octatonic scale
+- Bar 13: B♭ altered/diminished whole-tone (B melodic minor)
+- Bar 14: B♭ phrygian (G♭ major)
+- Bar 15: B♭ mixolydian (E♭ major)
+- Bar 16: D♭ melodic minor (_or_ A♭ harmonic minor?)
 
 ## Bars 17 - 20 (A section recap, [1:05](https://youtu.be/bPAC6zt_1ZM?t=65))
 
