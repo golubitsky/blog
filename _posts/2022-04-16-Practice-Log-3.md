@@ -9,9 +9,7 @@ While listening, I wondered — what if Bill Evans had played this piece? I cou
 
 An harmonic analysis of the whole recording.
 
-TODO: add links for the timestamps.
-
-## Bars 1-8 (A section, 0:00)
+## Bars 1-8 (A section, [0:00](https://youtu.be/bPAC6zt_1ZM?t=0))
 
 Bass pedal on the dominant `E♭`. Even during the tonic `A♭` chords, the pedal persists.
 
@@ -51,7 +49,7 @@ A simple `A♭ major 7` — the pedal resolves, and the melody is the `5`, an `E
 
 Repeat bars 1 - 4.
 
-## Bars 9-16 (B Section, 0:32)
+## Bars 9-16 (B Section, [0:32](https://youtu.be/bPAC6zt_1ZM?t=32))
 
 Bass pedal on the `B♭`, a 5th up from the first 8 bars — against tonal gravity.
 
@@ -95,29 +93,29 @@ Melody goes down a major third to `E♭` — our friend, the pedal from Bars 1 -
 
 If the `B♭` pedal weren't there, this would be an `E major 7` (analogous to bar 3, beats 1 and 2, but a 5th up), with the melody playing the major 7 - a `D♯`. But the `B♭` pedal _is_ there, and so, again, I don't know how to name this chord if not as the "slash" chord `E△7/B♭`.
 
-## Bars 17 - 20 (A section recap, 1:05)
+## Bars 17 - 20 (A section recap, [1:05](https://youtu.be/bPAC6zt_1ZM?t=65))
 
 A shortened recap of the A section, as one 4-bar repetition.
 
-## Bars 21 - 40 (Piano solo over AABA, 1:22)
+## Bars 21 - 40 (Piano solo over AABA, [1:22](https://youtu.be/bPAC6zt_1ZM?t=82))
 
 Piano solo over bars 1 - 20.
 
-## Bars 41 - 48 (B section, 2:46)
+## Bars 41 - 48 (B section, [2:46](https://youtu.be/bPAC6zt_1ZM?t=166))
 
-## Bars 49 - 52 (A section, 3:21)
+## Bars 49 - 52 (A section, [3:21](https://youtu.be/bPAC6zt_1ZM?t=201))
 
 A shortened recap of the A section, as one 4-bar repetition.
 
 Some differences? TODO: compare against the Eb sharp 9.. could it be be a G major 7 over Eb earlier (above) ?
 
-## Bars 53 - 56 (Pre-coda, 3:38)
+## Bars 53 - 56 (Pre-coda, [3:38](https://youtu.be/bPAC6zt_1ZM?t=218))
 
-Repeat bars 51 and 52 twice.
+Repeat bars 51 and 52 twice. (This would be another `A section` but the first 2 bars are subbed out for the last 2 bars)
 
-## Bars 57 - 61 (Coda, 3:55)
+## Bars 57 - 61 (Coda, [3:55](https://youtu.be/bPAC6zt_1ZM?t=235))
 
-Repeat bars 51 and 52 _again_...
+Repeat bars 51 and 52 _a third time_...
 
 But, instead of ending on the `I` in bar 58, begin an ascent in the melody where each note lasts 2 beats, up the `A♭` major scale: `E♭ F G A♭ B♭ C` until finally ending on the `E♭` in Bar 61.
 
@@ -142,4 +140,4 @@ The coda of _Naima_ is essentially this scale, omitting the 4th scale degree cho
 
 ## Coltrane Substitutions
 
-See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution)
+_Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substitution](https://en.wikipedia.org/wiki/Coltrane_changes#Coltrane_substitution).
