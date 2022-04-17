@@ -126,3 +126,20 @@ Repeat bars 51 and 52 _again_...
 But, instead of ending on the `I` in bar 58, begin an ascent in the melody where each note lasts 2 beats, up the `A♭` major scale: `E♭ F G A♭ B♭ C` until finally ending on the `E♭` in Bar 61.
 
 Over this ascent starting on bar 58, the chords vamp, alternating every two beats between `A♭ major 7` and the dominant `E♭ sus 13` until finally, in bar 61, the pedal drops out, there is only the `A♭ major 7` with the melody holding a fermata on the `Eb` — the `5` — what _had been_ the pedal.
+
+# Coda: reflections
+
+That vamp at the end is a really, really classic sound. Turns out we can walk up the mixolydian scale, alternating between the `I` and `V`:
+
+| Scale Degrees | Chord    | Chord degrees |
+| :------------ | -------- | ------------- |
+| `5 7 1 3 5`   | `I△`     |               |
+| `6 1 3 4 6`   | `Vsus13` | `2 4 6 7 9`   |
+| `7 1 3 5 7`   | `I△`     |
+| `1 3 4 6 1`   | `Vsus13` | `4 6 7 9 11`  |
+| `2 3 5 7 2`   | `I△9`    |
+| `3 4 6 1 3`   | `Vsus13` | `6 7 9 11 13` |
+| `4 6 1 2 4`   | `Vsus`   | `7 9 11 5 7`  |
+| `5 7 1 3 5`   | `I△`     |
+
+The coda of _Naima_ is essentially this scale, omitting the 4th scale degree chord.
