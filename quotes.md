@@ -102,3 +102,8 @@ title: Quotes
 > As formality increases, tests and requirements become indistinguishable. At the limit, tests and requirements are equivalent.
 
 —Robert C. Martin, Grigori Melnik [Tests and Requirements, Requirements and Tests: A Möbius Strip](http://gmelnik.com/papers/Melnik-Martin-Tests-and-Requirements-The-Moebius-Strip-IEEE-Software-2008.pdf), quoted by Gojko Adzic, _Bridging the Communication Gap_, p. 26
+
+> Q: What is your favourite colour?<br>
+> A: General harmony.
+
+—Paul Cézanne, from "A questionnaire, _Mes Confidences_", _Cézanne by himself_ edited by Richard Kendall (p. 31)
