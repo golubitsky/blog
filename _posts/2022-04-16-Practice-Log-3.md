@@ -193,13 +193,13 @@ _Countdown_ and _Giant Steps_ sound very similar. See also: [Coltrane Substituti
 
 [A Passion for Jazz](https://www.apassion4jazz.net) maintains an excellent list of jazz quotes.
 
-- [https://www.apassion4jazz.net/quotations.html](Ackert - Blanchard)
-- [https://www.apassion4jazz.net/quotations2.html](Bley - Coleman)
-- [https://www.apassion4jazz.net/quotations3.html](Coltrane - Duke)
-- [https://www.apassion4jazz.net/quotations4.html](Earland - Gershwin)
-- [https://www.apassion4jazz.net/quotations5.html](Getz - Hawkins)
-- [https://www.apassion4jazz.net/quotations6.html](Harris - Konitz)
-- [https://www.apassion4jazz.net/quotations7.html](Krall - Masekela)
-- [https://www.apassion4jazz.net/quotations8.html](Mancini - Overton)
-- [https://www.apassion4jazz.net/quotations9.html](Parker - Shew)
-- [https://www.apassion4jazz.net/quotations10.html](Shepp - Zwerin)
+- [Ackert - Blanchard](https://www.apassion4jazz.net/quotations.html)
+- [Bley - Coleman](https://www.apassion4jazz.net/quotations2.html)
+- [Coltrane - Duke](https://www.apassion4jazz.net/quotations3.html)
+- [Earland - Gershwin](https://www.apassion4jazz.net/quotations4.html)
+- [Getz - Hawkins](https://www.apassion4jazz.net/quotations5.html)
+- [Harris - Konitz](https://www.apassion4jazz.net/quotations6.html)
+- [Krall - Masekela](https://www.apassion4jazz.net/quotations7.html)
+- [Mancini - Overton](https://www.apassion4jazz.net/quotations8.html)
+- [Parker - Shew](https://www.apassion4jazz.net/quotations9.html)
+- [Shepp - Zwerin](https://www.apassion4jazz.net/quotations10.html)
