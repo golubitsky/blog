@@ -14,7 +14,7 @@ Live at http://localhost:4000/blog/
 Update gems:
 
 ```sh
-docker-compose run --rm develop bundle update github-pages
+docker compose run --rm develop bundle update github-pages
 ```
 
 ### CSS
