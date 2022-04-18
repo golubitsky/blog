@@ -9,11 +9,11 @@ title: Quotes
 
 > If we can get away without distributing our data, we will always choose a single-server approach.
 
-—_NoSQL Distilled_, Sadalage, Fowler
+—Sadalage, Fowler, _NoSQL Distilled_
 
 > Persons who have peculiar talent for art, draw instinctively, and get on almost without teaching, though never without toil.
 
-—_The Elements of Drawing_ (p. 27), Ruskin
+—Ruskin, _The Elements of Drawing_ (p. 27)
 
 > To play much better — that's all I'm interested in; so I teach. And as the eldest member of the class that also says that I'm the dumbest, because I've been in the class the longest. I'm teaching right now so that somebody might luckily come up and show me the right thing and then when they show it to me I'm gonna forget about teaching and everything; see, I'll graduate from the class then.
 
@@ -21,21 +21,21 @@ title: Quotes
 
 > I would not wish to live in any different century, nor to have worked for any other.
 
-—_On the Aesthetic Education of Man_ (second letter), Schiller
+—Schiller, _On the Aesthetic Education of Man_ (second letter)
 
 > Production and ritual are mutually exclusive.
 
-—_The disappearance of ritual_ ("From Duelling to Drone Wars", p. 75), Byung-Chul Han
+—Byung-Chul Han, _The disappearance of ritual_ ("From Duelling to Drone Wars", p. 75),
 
 > ... the importance of contrapuntal organization in the works of Chopin or Schubert
 
 > The relation of species counterpoint to the voice leading of composition resembles the connection between a fundamental scientific or philosophical concept and its manifold elaborations and developments.
 
-—_Counterpoint in Composition_ (pp. xvi and xviii), Salzer and Schachter
+—Salzer and Schachter, _Counterpoint in Composition_ (pp. xvi and xviii)
 
 > It is an evil when the drama of a life does not continue in others for reason of their deafness or ignorance.
 
-—_Finite and Infinite Games_ (p. 32), James P. Carse
+—James P. Carse, _Finite and Infinite Games_ (p. 32)
 
 > CS folks have long sought "high level coding" as a way of expressing something that clearly begs expressing. I find that I can use simple C to frame out even the grandest concepts. It should be concrete, yet general.
 
@@ -102,6 +102,10 @@ title: Quotes
 > As formality increases, tests and requirements become indistinguishable. At the limit, tests and requirements are equivalent.
 
 —Robert C. Martin, Grigori Melnik [Tests and Requirements, Requirements and Tests: A Möbius Strip](http://gmelnik.com/papers/Melnik-Martin-Tests-and-Requirements-The-Moebius-Strip-IEEE-Software-2008.pdf), quoted by Gojko Adzic, _Bridging the Communication Gap_, p. 26
+
+> Yet the capacity for contemplation need not be bound to imperishable Being. Especially whatever is floating, inconspicuous, or fleeting reveals itself only to deep, contemplative attention. Likewise, it is only contemplative lingering that has access to phenomena that are long and slow. Paul Cézanne, a master of deep, contemplative attention, once remarked that he could _see_ the fragrance of things. This visualization of fragrances requires profound attention. In the contemplative state, one steps outside oneself, so to speak, and immerses oneself in the surroundings. Merleau-Ponty describes Cézanne's mode of contemplatively observing a landscape as a kind of externalization or de-interiorization: "He would start by discovering the geological structure of the landscape; then, according to Mme Cézanne, he would halt and gaze, eyes dilated. . . . "The landscape thinks itself in me," he said, "and I am its consciousness."
+
+—Byung-Chul Han, _The Burnout Society_ ("Profound Boredom", p. 14)
 
 > Q: What is your favourite colour?<br>
 > A: General harmony.
