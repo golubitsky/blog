@@ -1,5 +1,5 @@
 ---
-title: What managers are expected to do
+title: 'Software: what managers are expected to do; the term "agile"'
 tags: programming software agile
 ---
 
