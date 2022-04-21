@@ -27,7 +27,7 @@ He explained: all you need to do to be "agile" is — **recursively, throughout
 
 - What
   - Find out where you are
-  - Take a small step toward this goal
+  - Take a small step toward your goal
   - Adjust your understanding based on what you learned
   - Repeat
 - How
