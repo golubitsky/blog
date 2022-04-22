@@ -111,3 +111,7 @@ title: Quotes
 > A: General harmony.
 
 —Paul Cézanne, from "A questionnaire, _Mes Confidences_", _Cézanne by himself_ edited by Richard Kendall (p. 31)
+
+> TDD explained in one sentence: Build a habit of refactoring safely and often.
+
+—Kyle Griffin Aretae, [LinkedIn post](https://www.linkedin.com/posts/kyle-aretae_tdd-explained-in-one-sentence-with-words-activity-6923344347191005184-ee-B?utm_source=linkedin_share&utm_medium=member_desktop_web), 2022-04-22
