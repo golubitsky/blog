@@ -115,3 +115,7 @@ title: Quotes
 > TDD explained in one sentence: Build a habit of refactoring safely and often.
 
 —Kyle Griffin Aretae, [LinkedIn post](https://www.linkedin.com/posts/kyle-aretae_tdd-explained-in-one-sentence-with-words-activity-6923344347191005184-ee-B?utm_source=linkedin_share&utm_medium=member_desktop_web), 2022-04-22
+
+> Teams often consider requirements as something carved in stone that has to match exactly what customers demand. In fact, customers will often accept a different solution if it solves the problem, especially if it is a lot cheaper and easier to implement.
+
+—Gojko Adzic, _Bridging the Communication Gap_, pp. 30-31
