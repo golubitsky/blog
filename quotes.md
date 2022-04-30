@@ -119,3 +119,7 @@ title: Quotes
 > Teams often consider requirements as something carved in stone that has to match exactly what customers demand. In fact, customers will often accept a different solution if it solves the problem, especially if it is a lot cheaper and easier to implement.
 
 —Gojko Adzic, _Bridging the Communication Gap_, pp. 30-31
+
+> Often the original proponent of a theory or technique understands its promise, its liabilities, and its proper domain more clearly than his later disciples. Less gifted, more fervent, their very fervor leads to rigidity, misapplication, oversimplification.
+
+—Frederick P. Brooks, Jr., _The Design of Design_, p. 31
