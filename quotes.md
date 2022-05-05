@@ -123,3 +123,7 @@ title: Quotes
 > Often the original proponent of a theory or technique understands its promise, its liabilities, and its proper domain more clearly than his later disciples. Less gifted, more fervent, their very fervor leads to rigidity, misapplication, oversimplification.
 
 —Frederick P. Brooks, Jr., _The Design of Design_, p. 31
+
+> Do not try to imitate the old masters. Seek what they sought.
+
+—Matsuo Basho, quoted by Bryan Liles in his talk [Test all the f\*\*\*ing time](https://www.youtube.com/watch?v=iwUR0kOVNs8)
