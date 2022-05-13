@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: blues scale, walking bass, minor chords"
-tags: music piano
+tags: music piano herbie-hancock
 ---
 
 - minor chords in second inversion can be built on _many_ (but not all) degrees of the blues scale
