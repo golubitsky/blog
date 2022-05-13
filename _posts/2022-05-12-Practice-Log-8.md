@@ -1,5 +1,5 @@
 ---
-title: "Practice Log: George on my Mind/Get Me To The Church On Time"
+title: "Practice Log: George On My Mind/Get Me To The Church On Time"
 tags: music piano ray-charles my-fair-lady
 ---
 
