@@ -17,4 +17,4 @@ And life was good.
 
 Recently, have been toying with major scale constructions of (ascending) `3 5 1 2` and (inverted) `2 3 5 1`. Really beautiful simple open sound.
 
-Also there is the related `1 2 5 7`.
+Also there is the related `1 2 5 7` (doesn't really work in any inversions...).
