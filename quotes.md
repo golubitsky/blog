@@ -127,3 +127,7 @@ title: Quotes
 > Do not try to imitate the old masters. Seek what they sought.
 
 —Matsuo Basho, quoted by Bryan Liles in his talk [Test all the f\*\*\*ing time](https://www.youtube.com/watch?v=iwUR0kOVNs8)
+
+> Great teams make great engineers.
+
+—Charity Majors
