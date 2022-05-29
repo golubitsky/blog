@@ -1,6 +1,6 @@
 ---
 title: "Technical Debt"
-tags: programming software
+tags: programming software monitoring microservices
 ---
 
 For the last several years, I've worked on an inherited microservices system. The team has worked to, over time, in small steps, to eventually radically refactor the core functionality — so that it is much more maintainable from a code-quality perspective. Though it may have been at one point, I do not consider code quality to be a major item of technical debt.
