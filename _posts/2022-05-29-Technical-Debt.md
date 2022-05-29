@@ -3,7 +3,7 @@ title: "Technical Debt"
 tags: programming software monitoring microservices
 ---
 
-For the last several years, I've worked on an inherited microservices system. The team has worked to, over time, in small steps, to eventually radically refactor the core functionality — so that it is much more maintainable from a code-quality perspective. Though it may have been at one point, I do not consider code quality to be a major item of technical debt.
+For the last several years, I've worked on an inherited microservices system. My early and continued contribution to this effort has been to [champion incremental refactoring](https://golubitsky.github.io/refactoring). This has led to large-scale emergent improvements to the structure of the business logic in our core service. Though it may have been at one point, I do not consider code quality to be a major item of technical debt.
 
 It turns out that not only has the code been inherited, but also the cultural norms and thought processes. Although the original development team is no longer with the organization, we do, after all, work within the same organization that allowed this mess to be created in the first place. And that makes solving some of the items below more difficult. The biggest items of technical debt that I see are:
 
