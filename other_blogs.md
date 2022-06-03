@@ -14,4 +14,5 @@ title: Other blogs
 - [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) — information about mob programming
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
   - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+- [Microservices Architecture Journey at Airbnb](https://qeunit.com/blog/airbnbs-microservices-architecture-journey-to-quality-engineering)
 - [Testing Microservices: You’re Thinking About (Environment) Isolation All Wrong](https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef)
