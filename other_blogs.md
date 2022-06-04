@@ -5,6 +5,7 @@ title: Other blogs
 
 - [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
   - [TDD, Where Did It All Go Wrong - Ian Cooper (YouTube)](https://www.youtube.com/watch?v=EZ05e7EMOLM) — my favorite talk on TDD
+  - [TDD Process Smells - Tim Ottinger & Jeff Langr](http://agileinaflash.blogspot.com/2009/03/tdd-process-smells.html)
 - [The Four Elements of Simple Design (introduced by Kent Beck in the 1990s)](https://gist.github.com/O-I/cf6eecc3c27200fdce652fc6f88d1a60)
 - [The Engineer/Manager Pendulum - Charity Majors](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
