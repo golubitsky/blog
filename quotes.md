@@ -131,3 +131,7 @@ title: Quotes
 > Great teams make great engineers.
 
 —Charity Majors
+
+> I think of continuous delivery as a kind of second-generation extreme programming approach, firmly grounded in the techniques of test-driven development.
+
+—Dave Farley, [The Difference Between Continuous Delivery & Continuous Deployment, 3:19](https://youtu.be/7SNbDWob6cI?t=199)
