@@ -135,3 +135,7 @@ title: Quotes
 > I think of continuous delivery as a kind of second-generation extreme programming approach, firmly grounded in the techniques of test-driven development.
 
 —Dave Farley, [The Difference Between Continuous Delivery & Continuous Deployment, 3:19](https://youtu.be/7SNbDWob6cI?t=199)
+
+> Science may be thought of as the process of learning which ways of looking at things yield invariant laws.
+
+G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 203
