@@ -16,7 +16,7 @@ title: Other blogs
   - [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/)
   - [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
   - [AgileIsrael 2017 Bug zero - Arlo Belshee](https://www.youtube.com/watch?v=ImfWkxE7CJ8)
-- [Software Profession Resources](https://trello.com/b/1lfMkCOh/software-profession-resources) — there are many columns, including about extreme programming, TDD, refactoring
+- [Software Profession Resources - Austin Chadwick et al](https://trello.com/b/1lfMkCOh/software-profession-resources) — there are many columns, including about extreme programming, TDD, refactoring
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
 
 #### Workflow
