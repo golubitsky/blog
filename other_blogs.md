@@ -21,3 +21,4 @@ title: Other blogs
 - [Testing Microservices: You’re Thinking About (Environment) Isolation All Wrong](https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef)
 - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
+- [3 Rs of Software Architecture (Readability, Reliability, Refactorability)](https://github.com/ryanmcdermott/3rs-of-software-architecture)
