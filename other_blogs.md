@@ -18,6 +18,7 @@ title: Other blogs
   - [AgileIsrael 2017 Bug zero - Arlo Belshee](https://www.youtube.com/watch?v=ImfWkxE7CJ8)
 - [Software Profession Resources - Austin Chadwick et al](https://trello.com/b/1lfMkCOh/software-profession-resources) — there are many columns, including about extreme programming, TDD, refactoring
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
+- [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
 
 #### Workflow
 
