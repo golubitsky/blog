@@ -130,11 +130,33 @@ title: Quotes
 
 > Great teams make great engineers.
 
+> I’ve never seen a team of absolutely miserable engineers creating a product that delights their users. And I’ve never seen a company with absolutely miserable users, where their engineers enjoyed their work."
+
+—Charity Majors, 11:08 and 2:55 in [It is Time to Fulfill the Promise of Continuous Delivery (YouTube)](https://www.youtube.com/watch?v=8t1mwQYawOI)
+
 —Charity Majors
 
 > I think of continuous delivery as a kind of second-generation extreme programming approach, firmly grounded in the techniques of test-driven development.
 
 —Dave Farley, [The Difference Between Continuous Delivery & Continuous Deployment, 3:19](https://youtu.be/7SNbDWob6cI?t=199)
+
+> Every model is ultimately the expression of one thing we think we hope to understand in terms of another that we think we do understand.”
+
+> Science is the study of those things that can be reduced to the study of other things.”
+
+> Every significant thinker in science has drawn upon useful analogies for simplifying certain stages of thought.”
+
+> We want to understand and communicate the ways in which thinkers in all fields use analogies and, when necessary, convert them into models.”
+
+G.M. Weinberg, _An Introduction to General Systems Thinking_, p. 28-31
+
+> It isn't what we don't know that gives us trouble, it's what we know that ain't so.
+
+quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 43
+
+> Metaphor is like function. Instead of ‘My love is like a red, red rose…’ we could write ‘loved one = f(rose, …)’ which states that loved one is like a rose, in some unspecified way f.”
+
+G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 142
 
 > Science may be thought of as the process of learning which ways of looking at things yield invariant laws.
 
