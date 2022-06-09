@@ -40,3 +40,7 @@ title: Other blogs
 - [Testing Microservices: You’re Thinking About (Environment) Isolation All Wrong](https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef)
 - [Logs vs Structured Events - Charity Majors](https://charity.wtf/2019/02/05/logs-vs-structured-events/) — distributed systems logging — instead of logging and error levels, send _one_ "blob" representing all the context about a request; send the blob at end of request (whether successful or unsuccessful)
   - [Structured Events Are The Basis of Observability](https://www.honeycomb.io/resources/structured-events-are-the-basis-of-observability-thanks)
+
+#### I'd like to learn more
+
+- https://convox.com/
