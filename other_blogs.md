@@ -20,6 +20,7 @@ title: Other blogs
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
 - [Systems Thinking Examples - JP Ovaska](https://jpovaska.com/category/systems-thinking-examples/)
 - [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
+- [TDD on the Front End - Geepaw Hill](https://www.geepawhill.org/2020/03/11/tdd-on-the-front-end/) — the notion is to not test frameworks (which call our code) — move all the business logic out of the framework
 
 #### Workflow
 
@@ -29,6 +30,7 @@ title: Other blogs
 - [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
 - [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
+- [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
 
 #### People
 
