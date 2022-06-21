@@ -161,3 +161,15 @@ G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 142
 > Science may be thought of as the process of learning which ways of looking at things yield invariant laws.
 
 G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 203
+
+> The medicine person's primary allegiance is not to the human community, but to the earthly web of relations in which the community is embedded—it is from this that his or her power to alleviate human illness derives.
+
+> Countless anthropologists have managed to overlook the ecological dimension of the shaman's craft, while writing at great length of the shaman's rapport with "supernatural" entities. We can attribute much of this oversight to the modern, civilized assumption that the natural world is largely determinate and mechanical, and that that which is regarded as mysterious, powerful, and beyond human ken must therefore be of some other, nonphysical realm _above_ nature, "supernatural."
+
+> Magic in its perhaps most primordial sense, is the experience of existing in a world made up of multiple intelligences, the intuition that every form one perceives—from the swallow swooping overhead to the fly on a blade of grass, and indeed the blade of grass itself—is an _experiencing_ form, an entity with its own predilections and sensations, albeit sensations that are very different from our own.
+
+> It is likely that the "inner world" of our Western psychological experience, like the supernatural heaven of Christian belief, originates in the loss of our ancestral reciprocity with the animate earth.
+
+> It is not by sending his awareness out beyond the natural world that the shaman makes contact with the purveyors of life and health, nor by journeying into his personal psyche; rather, it is by propelling his awareness laterally, outward into the depths of a landscape at once both sensuous and psychological, the living dream that we share with the soaring hawk, the spider, and the stone silently sprouting lichens on its coarse surface.
+
+David Abram, _The Spell of the Sensuous_, p. 8-10
