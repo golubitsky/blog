@@ -24,6 +24,8 @@ title: Other blogs
 - [The 3 Types of Unit Test in TDD - David Farley (YouTube)](https://www.youtube.com/watch?v=W40mpZP9xQQ) — the core, comprehensive point is at 8:40
 - [Uncle Bob on TDD (YouTube)](https://www.youtube.com/watch?v=GvAzrC6-spQ) — short and sweet
 - [Does TDD Really Lead to Good Design? - Sandro Mancuso (YouTube)](https://www.youtube.com/watch?v=KyFVA4Spcgg)
+- [Why Isn't Functional Programming the Norm? - Richard Feldman (YouTube)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+  - [Alan Kay did not invent objects - Hillel Wayne](https://www.hillelwayne.com/post/alan-kay/)
 
 #### Workflow
 
