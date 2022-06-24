@@ -10,6 +10,10 @@ title: Other blogs
 - [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
 - [TDD, Where Did It All Go Wrong - Ian Cooper (YouTube)](https://www.youtube.com/watch?v=EZ05e7EMOLM) — my favorite talk on TDD
 - [TDD Process Smells - Tim Ottinger & Jeff Langr](http://agileinaflash.blogspot.com/2009/03/tdd-process-smells.html)
+- [TDD on the Front End - Geepaw Hill](https://www.geepawhill.org/2020/03/11/tdd-on-the-front-end/) — the notion is to not test frameworks (which call our code) — move all the business logic out of the framework
+- [The 3 Types of Unit Test in TDD - David Farley (YouTube)](https://www.youtube.com/watch?v=W40mpZP9xQQ) — the core, comprehensive point is at 8:40
+- [Uncle Bob on TDD (YouTube)](https://www.youtube.com/watch?v=GvAzrC6-spQ) — short and sweet
+- [Does TDD Really Lead to Good Design? - Sandro Mancuso (YouTube)](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - [The Four Elements of Simple Design (introduced by Kent Beck in the 1990s)](https://gist.github.com/O-I/cf6eecc3c27200fdce652fc6f88d1a60)
 - [3 Rs of Software Architecture (Readability, Reliability, Refactorability)](https://github.com/ryanmcdermott/3rs-of-software-architecture)
 - Arlo Belshee
@@ -20,10 +24,7 @@ title: Other blogs
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
 - [Systems Thinking Examples - JP Ovaska](https://jpovaska.com/category/systems-thinking-examples/)
 - [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
-- [TDD on the Front End - Geepaw Hill](https://www.geepawhill.org/2020/03/11/tdd-on-the-front-end/) — the notion is to not test frameworks (which call our code) — move all the business logic out of the framework
-- [The 3 Types of Unit Test in TDD - David Farley (YouTube)](https://www.youtube.com/watch?v=W40mpZP9xQQ) — the core, comprehensive point is at 8:40
-- [Uncle Bob on TDD (YouTube)](https://www.youtube.com/watch?v=GvAzrC6-spQ) — short and sweet
-- [Does TDD Really Lead to Good Design? - Sandro Mancuso (YouTube)](https://www.youtube.com/watch?v=KyFVA4Spcgg)
+
 - [Why Isn't Functional Programming the Norm? - Richard Feldman (YouTube)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
   - [Alan Kay did not invent objects - Hillel Wayne](https://www.hillelwayne.com/post/alan-kay/)
 
