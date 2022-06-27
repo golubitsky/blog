@@ -148,7 +148,7 @@ title: Quotes
 
 > We want to understand and communicate the ways in which thinkers in all fields use analogies and, when necessary, convert them into models.”
 
-G.M. Weinberg, _An Introduction to General Systems Thinking_, p. 28-31
+—G.M. Weinberg, _An Introduction to General Systems Thinking_, p. 28-31
 
 > It isn't what we don't know that gives us trouble, it's what we know that ain't so.
 
@@ -156,11 +156,11 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 > Metaphor is like function. Instead of ‘My love is like a red, red rose…’ we could write ‘loved one = f(rose, …)’ which states that loved one is like a rose, in some unspecified way f.”
 
-G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 142
+—G.M. Weinberg, _An Introduction To General Systems Thinking_, p. 142
 
 > Science may be thought of as the process of learning which ways of looking at things yield invariant laws.
 
-G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 203
+—G.M. Weinberg, _An Introduction To General Systems Thinking_, p. 203
 
 > The medicine person's primary allegiance is not to the human community, but to the earthly web of relations in which the community is embedded—it is from this that his or her power to alleviate human illness derives.
 
@@ -172,4 +172,8 @@ G. M. Weinberg, _An Introduction To General Systems Thinking_, p. 203
 
 > It is not by sending his awareness out beyond the natural world that the shaman makes contact with the purveyors of life and health, nor by journeying into his personal psyche; rather, it is by propelling his awareness laterally, outward into the depths of a landscape at once both sensuous and psychological, the living dream that we share with the soaring hawk, the spider, and the stone silently sprouting lichens on its coarse surface.
 
-David Abram, _The Spell of the Sensuous_, p. 8-10
+—David Abram, _The Spell of the Sensuous_, p. 8-10
+
+> Has object-oriented programming peaked? Is it something that is no longer going to be the future? I think the answer to that is 'yes'.
+
+—Richard Feldman, [The Next Paradigm Shift in Programming (YouTube)](https://youtu.be/6YbK8o9rZfI?t=2451)
