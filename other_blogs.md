@@ -52,6 +52,7 @@ title: Other blogs
 #### I'd like to learn more
 
 - https://convox.com/
+- [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
 #### Data
 
