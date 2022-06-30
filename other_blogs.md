@@ -25,8 +25,11 @@ title: Other blogs
 - [Systems Thinking Examples - JP Ovaska](https://jpovaska.com/category/systems-thinking-examples/)
 - [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
 
+#### Programming languages
+
 - [Why Isn't Functional Programming the Norm? - Richard Feldman (YouTube)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
   - [Alan Kay did not invent objects - Hillel Wayne](https://www.hillelwayne.com/post/alan-kay/)
+- [Design Principles Behind Smalltalk - Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) — very deep; interesting usage of the term _method_
 
 #### Workflow
 
