@@ -177,3 +177,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Has object-oriented programming peaked? Is it something that is no longer going to be the future? I think the answer to that is 'yes'.
 
 —Richard Feldman, [The Next Paradigm Shift in Programming (YouTube)](https://youtu.be/6YbK8o9rZfI?t=2451)
+
+> Harmony — balance — does not mean fixity of inactive factors, but equilibrium of the most intense energies.
+
+— Arnold Schoenberg, Theory of Harmony (1911, 1922, tr. 1978), p. 31
