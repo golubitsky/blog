@@ -24,6 +24,7 @@ title: Other blogs
 - [An open source developer's guide to systems programming - Alex Bunardzic](https://opensource.com/article/22/4/systems-programming?sc_cid=7016000000127ECAAY)
 - [Systems Thinking Examples - JP Ovaska](https://jpovaska.com/category/systems-thinking-examples/)
 - [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
+- [Basics of the Unix Philosophy (ch. 1 from The Art of Unix Programming - Eric Steven Raymond)](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 
 #### Programming languages
 
