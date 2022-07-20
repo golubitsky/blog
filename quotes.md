@@ -180,4 +180,8 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 > Harmony — balance — does not mean fixity of inactive factors, but equilibrium of the most intense energies.
 
-— Arnold Schoenberg, Theory of Harmony (1911, 1922, tr. 1978), p. 31
+—Arnold Schoenberg, Theory of Harmony (1911, 1922, tr. 1978), p. 31
+
+> Free from what? What is that to Zarathustra! But your eyes should announce to me brightly: free for what?
+
+-Friedrich Nietzsche, Thus Spoke Zarathustra (originally published in German, in 1883)
