@@ -60,6 +60,7 @@ title: Other blogs
 
 - https://convox.com/
 - [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
+- https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))
 
 #### Data
 
