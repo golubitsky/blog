@@ -38,6 +38,7 @@ title: Other blogs
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
   - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
   - [Heuristics for Effective Software Development Organizations - Allen Holub](https://holub.com/heuristics/)
+  - [5 Minute DevOps: Upgrading the Agile Manifesto — Bryan Finster](https://bdfinst.medium.com/5-minute-devops-upgrading-the-agile-manifesto-1dba5f6ef931)
 - [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
 - [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
