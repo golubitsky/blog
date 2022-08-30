@@ -43,6 +43,7 @@ title: Other blogs
 - [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
 - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
+- [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
 
 #### People
 
