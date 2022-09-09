@@ -5,7 +5,7 @@ tags: music schoenberg mahler rachmaninoff debussy coltrane george-russell tonal
 
 A month or so ago I started reading from Schoenberg's Theory of Harmony. The Preface to the first edition is signed "Vienna, July 1911", conspicuously just two months after Mahler died and was buried – in Vienna. Mahler's death had devastated Schoenberg; he had been one of Mahler's "top students" — although clearly already masterful by this time. In the first edition there is a profuse dedication to Mahler about how Schoenberg didn't believe his contemporaries had sufficiently praised Mahler, and then in a subsequent edition, published some ten years later, he had decided that people had, by that point, come to praise Mahler enough; in the edition I have, the dedication reads simply "To the hallowed memory of GUSTAV MAHLER".
 
-It is not just any book about harmony or some esoteric technical subject — Schoenberg was a smart dude. He writes wholistically, philosophically. He writes about the folly of studying theory without actually _doing_ the art — and also he writes "against comfort" —
+It is not just any book about harmony or some esoteric technical subject — Schoenberg was a smart dude. He writes holistically, philosophically. He writes about the folly of studying theory without actually _doing_ the art — and also he writes "against comfort" —
 
 > I hope my pupils will commit themselves to searching! Because they will know that one searches for the sake of searching. That finding, which is indeed the goal, can easily put an end to striving.
 
