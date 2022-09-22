@@ -1,6 +1,6 @@
 ---
-tags: music bill-evans mahler coltrane
 title: Voice Leading
+tags: music bill-evans mahler coltrane what-kind-of-fool-am-i
 ---
 
 I've gotten back into practicing keyboard regularly.

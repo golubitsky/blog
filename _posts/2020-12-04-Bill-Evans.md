@@ -1,5 +1,5 @@
 ---
-tags: music bill-evans
+tags: music bill-evans what-kind-of-fool-am-i
 ---
 
 Bill Evans has been a huge inspiration this year. On the level of Mahler in years past.
