@@ -22,7 +22,7 @@ Towards the universal:
 
 > If I'm born in order to know only America, Japan, Bali, and India but not all the other things, then what are they made for? What are they for?
 
-> We are all transistors in the literal sense ... If we're too much involved with our personal ego, desires, interests, people, whatever it is, then these rays become focused on us as individuals with our tiny private problems. But when we more and more forget ourselves—I mean try to make ourselves pure in the state of reception and transmission—then this current passes through ... The current goes through you, and then it goes to the others through you.
+> We are all transistors in the literal sense ... If we're too much involved with our personal ego, desires, interests, people, whatever it is, then these rays become focused on us as individuals with our tiny private problems. But when we more and more forget ourselves—I mean try to make ourselves pure in the state of reception and transmission—then this current passes through. And if you then ahve a special talent—that you have no merits for, it's just given to you—to work in sound, light, or in gestures as a dancer, then you can use what you have in order to concretize what comes through you, and then that communication is possible. You become a focus. The current goes through you, and then it goes to the others through you.
 
 > They make music in small groups at night in the forest .. they are really trying to catch waves from distant stars.
 
@@ -30,7 +30,7 @@ Towards the universal:
 
 > I think that very particular discoveries and events can only occur when a man is completely alone ... on the other hand we've found this new meaning of the group. And there is feedback between the two. The group cannot develop if there isn't an individual self-discovery developing, on the part of both the individual members and in particular of the one who draws the group together.
 
-On periodicity, rhythm, repetition and uniqueness:
+On periodicity, rhythm, repetition and uniqueness — the notion of a universal "[fundamental](https://en.wikipedia.org/wiki/Fundamental_frequency)" and "partials" of that universal is particularly mind-bending:
 
 > Periodicity is one aspect, of the very large and the very small. It should always be shown in a musical activity as being just one aspect of the universe. We have the large periodicities of the year, of the month or the moon, of the day, and also of the cosmic year. There is a fundamental periodicity of the whole cosmos when it explodes and contracts—it _breathes_, God _breathes_ all the time, naturally, periodically, as far as we can think. This is the fundamental of the universe, and all the other things are partials of this fundamental—the galactic years and the years of the sun systems ... going down to the atoms and even the particles of the atoms, there is always periodicity. ... Actually, within this periodicity, no day is the same.
 
