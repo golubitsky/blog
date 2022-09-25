@@ -13,7 +13,11 @@ Listening:
   - [Tritonal & Henry Dark - Shivohum](https://www.youtube.com/watch?v=0MXlE1ZHHgc) — I got into this track a couple years ago. It contains a mantra at its core:
     - "Brahma, Vishnu, Maheshwara, Shivoham Shivoham Shivaya" which (roughly) means "creator, preserver, destroyer, I am that, I am that, innerself"
 
-Reading from _Stockhausen, Conversations with the composer_, quoting directly from Part 1 (1971):
+Reading from _Stockhausen, Conversations with the composer_, quoting directly from Part 1 (1971). A prelude:
+
+> I recall a meeting with a young girl after having played _Hymnen_ in Mexico City in 1968. She was about twelve years old. ... She said, "I have one question, Mr. Stockhausen. Do you think that we have to go through this degree of destruction before we're reborn?" She said it in particular about the Fourth Region. And that young girl touched me in the inner of my being. I said, "I think so." So she must must have felt something very important that the music woke up in her.
+
+Towards the universal:
 
 > If I'm born in order to know only America, Japan, Bali, and India but not all the other things, then what are they made for? What are they for?
 
