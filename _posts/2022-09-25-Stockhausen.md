@@ -30,9 +30,13 @@ Towards the universal:
 
 > I think that very particular discoveries and events can only occur when a man is completely alone ... on the other hand we've found this new meaning of the group. And there is feedback between the two. The group cannot develop if there isn't an individual self-discovery developing, on the part of both the individual members and in particular of the one who draws the group together.
 
-> Periodicity is one aspect, of the very large and the very small. It should always be shown in a musical activity as being just one aspect of the universe. We have the large periodicities of the year, of the month or the moon, of the day, and also of the cosmic year. There is a fundamental periodicity of the whole cosmos when it explodes and contracts—it _breathes_, God _breathes_ all the time, naturally, periodically, as far as we can think. This is the fundamental of the universe, and all the other things are partials of this fundamental—the galactic years and the years of the sun systems ... going down to the atoms and even the particles of the atoms, ther eis always periodicity. ... Actually, within this periodicity, no day is the same.
+On periodicity, rhythm, repetition and uniqueness:
 
-> When the music has stopped, then we are modulated, and to some extent the old periodicities start to regain the rhyuthms that they had before, but they are _never_ the same, no matter what comes through us. We _are_ modulated once and forever.
+> Periodicity is one aspect, of the very large and the very small. It should always be shown in a musical activity as being just one aspect of the universe. We have the large periodicities of the year, of the month or the moon, of the day, and also of the cosmic year. There is a fundamental periodicity of the whole cosmos when it explodes and contracts—it _breathes_, God _breathes_ all the time, naturally, periodically, as far as we can think. This is the fundamental of the universe, and all the other things are partials of this fundamental—the galactic years and the years of the sun systems ... going down to the atoms and even the particles of the atoms, there is always periodicity. ... Actually, within this periodicity, no day is the same.
+
+> When the music has stopped, then we are modulated, and to some extent the old periodicities start to regain the rhythms that they had before, but they are _never_ the same, no matter what comes through us. We _are_ modulated once and forever.
+
+On what is natural and artifical:
 
 > [The technology of the synthesizer] is an extension of man. It's part of us. It is we. You cannot divide it from us. How can you divide an oyster from its shell? Or let's say a violin player from his violin? Then he's no longer a violin player.
 
@@ -45,6 +49,8 @@ On time, the moment, eternity:
 > The Japanese have a completely different _time_ than we Europeans have. The Japanese have a far larger time scale at the bottom ... at the very fast and the very slow regions they have more octaves, so to speak, than we do.
 
 > We can imagine eternity, an eternal duration. And that led me to the concept of the _moment form_, where a moment lasts not just an instant but it can last an eternity if it isn't changing.
+
+Discovering the "inner life" of a sound, in a moment:
 
 > Every sound has an inner life. You can enlarge this in the way you listen to it if the shape of a given sound doesn't move too fast away from you; this then allows you the possibility to listen vertically and not to expect that only harmonic or rhythmic change will be significant.
 
@@ -64,7 +70,7 @@ Identifying with a sound _is_ meditation:
 
 > The greatest thing would be if I could discover the whole world within me and be one after another, from moment to moment, a different being, so that one being within me comes to the top and then another.
 
-Three basic qualities of musical formation: lyrical, dramatic, epic:
+Three basic qualities of musical formation — lyrical, dramatic, epic:
 
 > There are three basic qualities of musical formation: the lyrical, which is the instant, the here and now, the dramatic, which is development, with precise beginning and ending, climaxes, high points and low points; and epic, which is the juxtaposition of different moments, as in a variation form or the traditional form of the suite—that's an epic form, you can always add a new section, a new chapter so to speak. There's no strong directionalism as in a dramatic form, but it's also not static; within a given moment it goes somewhere, it describes some event. And I want all the three.
 
@@ -88,13 +94,15 @@ In a conversation with the musican Kontarsky, who was among those who did not un
 
 > And that's what I call intuitive music, when a player, through a certain meditative concentration, becomes a wonderful instrument and starts resonation. Because I think the music is always there. The more open you are, the more you open yourself to this new music by throwing out all the images, all the automatic brain processes—it always wants to manifest itself.
 
-On natural forces conducting sound:
+On sound conducted by "natural forces":
 
 > Years ago in Paris I was present at an event at which the French sculptor Schoeffer, together with Pierre henry, made a construction of light and sound on the Eiffel Tower, where the humidity of the air, the speed of the wind, and the temperature all were analyzed, turned into sound information, and were heard through large speakers: the different parameters of the sound were conducted by the natural forces. Well, this is then simply a translation of what you experience anyway if you're attentive. ... It was just like wind chimes, somehow nice.
 
 Reminds of Schoenberg's quote about harmony as "equilibrium of the most intense energies" (see [previous post]({{ "/2022/07/18/About-complexity" | relative_url }})):
 
 > So many composers think that you can take any sound and use it. That's true insofar as you really can take it and integrate it and ultimately create some kind of harmony and balance. Otherwise it atomizes ... us and then we're depressed when we go home. You can include many different forces in a piece, but when they start destroying each other and there's no harmony established between the different forces, then you've failed. You must be capable of really integrating the elements and not just expose them and see what happens. ... And then when people listen to this music, they will become what the music is.
+
+On Cubism, multiple perspectives:
 
 > I don't see any paintings yet which really follow [Paul Klee's] great discovery of showing in one painting one object which is seen from five, six, or seven different perspectives at the same time—the multiple perspectives within one composition.
 
