@@ -26,6 +26,7 @@ title: Other blogs
 - [Simple Made Easy - Rich Hickey (YouTube)](https://www.youtube.com/watch?v=SxdOUGdseq4) — one of the best talks ever. State complects value and time (~35:40).
 - [Basics of the Unix Philosophy (ch. 1 from The Art of Unix Programming - Eric Steven Raymond)](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 - [ISO 25010: software product evaluation model](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
+- [Ward Cunningham on "technical debt" (YouTube)](https://www.youtube.com/watch?v=pqeJFYwnkjE)
 
 #### Programming languages
 
