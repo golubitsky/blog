@@ -36,7 +36,7 @@ On periodicity, rhythm, repetition and uniqueness — the notion of a universal
 
 > When the music has stopped, then we are modulated, and to some extent the old periodicities start to regain the rhythms that they had before, but they are _never_ the same, no matter what comes through us. We _are_ modulated once and forever.
 
-On what is natural and artifical:
+On what is natural and artificial:
 
 > [The technology of the synthesizer] is an extension of man. It's part of us. It is we. You cannot divide it from us. How can you divide an oyster from its shell? Or let's say a violin player from his violin? Then he's no longer a violin player.
 
