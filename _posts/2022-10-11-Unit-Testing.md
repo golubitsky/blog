@@ -1,5 +1,5 @@
 ---
-title: Types of unit tests, and some other thoughts on TDD
+title: My unit testing strategy, and some other thoughts on software
 tags: tdd testing programming
 ---
 

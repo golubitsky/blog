@@ -3,7 +3,7 @@ title: "An Introduction to Zen Buddhism"
 tags: music stockhausen mahler bernstein buddhism
 ---
 
-I [recently bumped into]({{ "/2022/09/25/Stockhausen" | relative_url }})) some interviews given by the composer Karlheinz Stockhausen.
+I [recently bumped into]({{ "/2022/09/25/Stockhausen" | relative_url }}) some interviews given by the composer Karlheinz Stockhausen.
 
 His mention of D.T. Suzuki's point about the composer's synthesizer music being "natural" because it comes from his "inner conviction" inspired me to learn about this D.T. Suzuki and I ended up acquiring a copy of his classic _An Introduction to Zen Buddhism_. Originally published in 1914, these essays served as a first introduction to the subject to many Westerners.
 
