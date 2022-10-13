@@ -15,7 +15,7 @@ Make an effort to understand everything you’re doing and ask questions if you 
 
 Think very critically about the way you design a test. Think about what you're testing. Think about how to test it in the most direct, minimal way — in isolation — to truly prove the target behavior. You'll go a long way if you focus on designing the right tests — this will lead you to designing a system that Makes Sense.
 
-Strive to write code that is self-consistent. First at the function-level, then at the module-level, then service-level. Think about nature — it is always self-consistent because it simply "obeys the laws of physics" or, even more simply, "is". That's the best kind of code. Usually human-made creations (including our code) aren't that way. We've done extremely well if we have written something that is self-consistent, like nature.
+Strive to write code that is self-consistent. First at the function-level, then at the module-level, then service-level. Think about [nature]({{ "/2022/07/18/About-complexity" | relative_url }}) — it is always self-consistent because it simply "obeys the laws of physics" or, even more simply, "is". That's the best kind of code. Usually human-made creations (including our code) aren't that way. We've done extremely well if we have written something that is self-consistent, like nature.
 
 Reading good code improves one's understanding — not clouds it. Code should express your model of the domain — how you view the problem. If you're not writing clear-enough code, you haven't understood the problem or the domain well enough. Usually that means you have to ask more questions.
 
