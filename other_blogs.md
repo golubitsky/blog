@@ -27,6 +27,7 @@ title: Other blogs
 - [Basics of the Unix Philosophy (ch. 1 from The Art of Unix Programming - Eric Steven Raymond)](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 - [ISO 25010: software product evaluation model](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
 - [Ward Cunningham on "technical debt" (YouTube)](https://www.youtube.com/watch?v=pqeJFYwnkjE)
+- [On Untestable Software - Blake Norrish](https://medium.com/slalom-build/on-untestable-software-6e64c34bfbad) — "Quality Engineering is the active and intentional creation of testable systems. ... In order to do quality engineering, you need to intentionally and explicitly use quality assurance expertise to build testable systems."
 
 #### Programming languages
 
