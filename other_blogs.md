@@ -28,6 +28,7 @@ title: Other blogs
 - [ISO 25010: software product evaluation model](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
 - [Ward Cunningham on "technical debt" (YouTube)](https://www.youtube.com/watch?v=pqeJFYwnkjE)
 - [On Untestable Software - Blake Norrish](https://medium.com/slalom-build/on-untestable-software-6e64c34bfbad) — "Quality Engineering is the active and intentional creation of testable systems. ... In order to do quality engineering, you need to intentionally and explicitly use quality assurance expertise to build testable systems."
+- Towards a Model-Driven Organization, [part 1](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-1) and [part 2](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-2) — Christian Kaul — alignment between "reality, data, and language" — in the footsteps of domain-driven design
 
 #### Programming languages
 
