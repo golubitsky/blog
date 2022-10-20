@@ -29,6 +29,7 @@ title: Other blogs
 - [Ward Cunningham on "technical debt" (YouTube)](https://www.youtube.com/watch?v=pqeJFYwnkjE)
 - [On Untestable Software - Blake Norrish](https://medium.com/slalom-build/on-untestable-software-6e64c34bfbad) — "Quality Engineering is the active and intentional creation of testable systems. ... In order to do quality engineering, you need to intentionally and explicitly use quality assurance expertise to build testable systems."
 - Towards a Model-Driven Organization, [part 1](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-1) and [part 2](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-2) — Christian Kaul — alignment between "reality, data, and language" — in the footsteps of domain-driven design
+- From Brad Appleton: "Program Development by Step-wise Refinement" ([scan](https://dl.acm.org/doi/10.1145/362575.362577), [html](http://sunnyday.mit.edu/16.355/wirth-refinement.html)) by the legendary Niklaus Wirth (April 1971). Wirth is basically in the "CS Hall of Fame" right alongside the likes of Knuth, Parnas, Dijkstra, etc.
 
 #### Programming languages
 
