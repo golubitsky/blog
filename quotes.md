@@ -185,3 +185,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Free from what? What is that to Zarathustra! But your eyes should announce to me brightly: free for what?
 
 -Friedrich Nietzsche, Thus Spoke Zarathustra (originally published in German, in 1883)
+
+> The first step toward becoming a good software designer is to realize that working code isn’t enough. It’s not acceptable to introduce unnecessary complexities in order to finish your current task faster. The most important thing is the long-term structure of the system.
+
+John Ousterhout, A Philosophy of Software Design, p. 14
