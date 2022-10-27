@@ -188,8 +188,20 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 > Once complexity has accumulated, it is hard to eliminate, since fixing a single dependency or obscurity will not, by itself, make a big difference. In order to slow the growth of complexity, you must adopt a "zero tolerance" philosophy.
 
-John Ousterhout, A Philosophy of Software Design, p. 11
+John Ousterhout, A Philosophy of Software Design (2018), p. 11
 
 > The first step toward becoming a good software designer is to realize that working code isn’t enough. It’s not acceptable to introduce unnecessary complexities in order to finish your current task faster. The most important thing is the long-term structure of the system.
 
 John Ousterhout, A Philosophy of Software Design, p. 14
+
+> One of the most important elements of software design is determining who needs to know what, and when.
+
+John Ousterhout, A Philosophy of Software Design, p. 43
+
+> "One dress and one bowl, under a tree and on a stone" graphically describes the monk's life in India. Compared with this, the modern Zen monk must be said to be abundantly supplied. Still his wants are reduced to a minimum and none can fail to lead a simple, perhaps the simplest, life if he models his after the life of a Zen monk. The desire to possess is considered by Buddhism to be one of the worst passions with which mortals, are apt to be obsessed. What, in fact, causes so much misery in the world is the universal impulse of acquisition. As power is desired, the strong always tyrannize over the weak; as wealth is coveted, the rich and poor are always crossing swords of bitter enmity. International wars rage, social unrest ever increases, unless this impulse to get and to hold is completely uprooted. Cannot society be reorganized upon an entirely different basis from what we have been used to see from the beginning of history? Cannot we ever hope to stop the massing of wealth and the accumulation of power merely from the desire for individual or national aggrandizement? Despairing of the utter irrationality of human affairs, Buddhist monks have gone to the other extreme and cut themselves off even from reasonable and perfectly innocent enjoyments of life. However, the Zen ideal of putting a monk's belongings into a tiny box is his mute protest, though so far ineffective, against the present order of society.
+
+D. T. Suzuki, An Introduction to Zen Buddhism (1914), p. 120 (1991 Grove Press)
+
+> When a lioness gives birth to her cubs it is proverbially believed that after three days she pushes them over a precipice to see if they can climb back to her. Those that fail to meet this test are no longer cared about. Whether this is true or not, something like it is aimed at by the Zen master, who will often treat his monks with every manner of seeming unkindness.
+
+D. T. Suzuki, An Introduction to Zen Buddhism, p. 123
