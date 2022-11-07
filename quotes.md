@@ -73,7 +73,7 @@ title: Quotes
 
 > We're in the business of producing side effects, but we should not use side effects as the tools to do our work.
 
-—Russ Olson, [Expert Talk: Functional Programming • Russ Olsen & Christian Romney • GOTO 2022](https://www.youtube.com/watch?v=AbCWHZljhkM&list=PLEx5khR4g7PJozVmHNpQTVrk1QRC7YaJu)
+—Russ Olsen, [Expert Talk: Functional Programming • Russ Olsen & Christian Romney • GOTO 2022](https://www.youtube.com/watch?v=AbCWHZljhkM&list=PLEx5khR4g7PJozVmHNpQTVrk1QRC7YaJu) [t=476](https://youtu.be/AbCWHZljhkM?t=476)
 
 > If you can't trust you teammates to make changes carefully, then your version control system is not going to fix that for you. The real answer is to figure out how to make your colleages more trustworthy.
 
