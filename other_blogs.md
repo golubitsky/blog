@@ -50,6 +50,7 @@ title: Other blogs
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
 - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
+- [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
 
 #### People
 
