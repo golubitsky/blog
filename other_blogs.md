@@ -65,6 +65,8 @@ title: Other blogs
   - [Structured Events Are The Basis of Observability](https://www.honeycomb.io/resources/structured-events-are-the-basis-of-observability-thanks)
 - [I test in prod - Charity Majors](https://increment.com/testing/i-test-in-production/)
 - [Testing in the Twenties - Tim Bray](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
+- [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
+- [An Introduction to Contract Testing — Bas Dijkstra](https://www.ontestautomation.com/an-introduction-to-contract-testing-part-1-meet-the-players/)
 
 #### I'd like to learn more
 
