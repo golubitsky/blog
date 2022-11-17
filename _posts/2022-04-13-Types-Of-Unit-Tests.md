@@ -1,6 +1,6 @@
 ---
 title: Types of unit tests, and some other thoughts on TDD
-tags: tdd testing programming
+tags: tdd testing programming dave-farley
 ---
 
 I wish to collect some thoughts on test-driven development (TDD).

@@ -31,6 +31,7 @@ title: Other blogs
 - Towards a Model-Driven Organization, [part 1](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-1) and [part 2](https://modelyourreality.substack.com/p/towards-a-model-driven-organization-part-2) — Christian Kaul — alignment between "reality, data, and language" — in the footsteps of domain-driven design
 - From Brad Appleton: "Program Development by Step-wise Refinement" ([scan](https://dl.acm.org/doi/10.1145/362575.362577), [html](http://sunnyday.mit.edu/16.355/wirth-refinement.html)) by the legendary Niklaus Wirth (April 1971). Wirth is basically in the "CS Hall of Fame" right alongside the likes of Knuth, Parnas, Dijkstra, etc.
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
+- [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 
 #### Programming languages
 
@@ -45,9 +46,11 @@ title: Other blogs
   - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
   - [Heuristics for Effective Software Development Organizations - Allen Holub](https://holub.com/heuristics/)
   - [5 Minute DevOps: Upgrading the Agile Manifesto — Bryan Finster](https://bdfinst.medium.com/5-minute-devops-upgrading-the-agile-manifesto-1dba5f6ef931)
-- [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
-- [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
+- [DORA's State of DevOps research program](https://www.devops-research.com/research.html)
+- [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
+- [From Async Code Reviews to Co-Creation Patterns — Dragan Stepanovic](https://www.infoq.com/articles/co-creation-patterns-software-development/)
+- [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
 - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
