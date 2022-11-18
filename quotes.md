@@ -205,3 +205,11 @@ D. T. Suzuki, An Introduction to Zen Buddhism (1914), p. 120 (1991 Grove Press)
 > When a lioness gives birth to her cubs it is proverbially believed that after three days she pushes them over a precipice to see if they can climb back to her. Those that fail to meet this test are no longer cared about. Whether this is true or not, something like it is aimed at by the Zen master, who will often treat his monks with every manner of seeming unkindness.
 
 D. T. Suzuki, An Introduction to Zen Buddhism, p. 123
+
+> The idea behind test-driven development has always been "what should the API of our code look like? If I am an external consumer of this code and I come to call it, what kind of API would I find useful?" You're testing as much the usability of the API — how you interact with it — as you are designing that public-facing API. You tell yourself a story about how this API should look if you were a consumer. The test becomes the first consumer of your code that says "what should this look like and how should it work?" That is the objective of test-driven development.
+
+Ian Cooper, [TDD, Where Did It All Go Wrong (34:15)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2055)
+
+> I think of it as observability-driven development. It's like TDD, but TDD stops at the border of your laptop. TDD assumes that the system works so you can check if your code works. That is a mighty big assumption. Observability-driven development encompasses production in that. ODD practices instrumentation as you're writing your code with an eye to your future self who is going to need to understand it. ODD means that you have muscle-memory that remembers that when you merge code you go and you watch it deploy and you look at it through the lens of the instrumentation that you just wrote and you ask yourself "is it doing what I wanted it to do and does anything else look weird?"
+
+Charity Majors, [The Socio-technical Path to High-Performing Teams (37:03)](https://youtu.be/KtrJaqD67Oc?t=2223)

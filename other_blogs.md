@@ -66,6 +66,8 @@ title: Other blogs
 - [When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler • GOTO 2020](https://youtu.be/GBTdnfD6s5Q)
 - [Logs vs Structured Events - Charity Majors](https://charity.wtf/2019/02/05/logs-vs-structured-events/) — distributed systems logging — instead of logging and error levels, send _one_ "blob" representing all the context about a request; send the blob at end of request (whether successful or unsuccessful)
   - [Structured Events Are The Basis of Observability](https://www.honeycomb.io/resources/structured-events-are-the-basis-of-observability-thanks)
+  - [Framework for an observability maturity model: using observability to advance your engineering & product] https://www.honeycomb.io/framework-for-an-observability-maturity-model-using-observability-to-advance-your-engineering-product
+  - [Observability-Driven Development for Tackling the Great Unknown — InfoQ: Jennifer Riggins, review by Manual Pais](https://www.infoq.com/articles/observability-driven-development/)
 - [I test in prod - Charity Majors](https://increment.com/testing/i-test-in-production/)
 - [Testing in the Twenties - Tim Bray](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
@@ -76,6 +78,7 @@ title: Other blogs
 - https://convox.com/
 - [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))
+- Do some light research on OSes, based on [my LinkedIn post](https://www.linkedin.com/posts/mgolubitsky_i-speculate-that-building-and-successfully-activity-6998268394365952001-H3qU)
 
 #### Data
 
