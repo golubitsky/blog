@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: 6ths, 5ths, triads in all inversions"
-tags: music piano
+tags: music piano practice-log
 ---
 
 Simple progression: `IV iv I II`.

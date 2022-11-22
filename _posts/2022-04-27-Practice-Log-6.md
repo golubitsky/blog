@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: diminished passing chords and tritone substitution"
-tags: music piano roy-hargrove
+tags: music piano roy-hargrove practice-log
 ---
 
 It turns out the same octatonic scale can be played over both tritone substitutions, but it sounds better over the ♭II than over the V.

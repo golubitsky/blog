@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: bebop scales revisited"
-tags: music piano barry-harris
+tags: music piano barry-harris practice-log
 ---
 
 Today was the [bebop melodic minor scale](https://en.wikipedia.org/wiki/Bebop_scale#Bebop_melodic_minor_scale) — as always, recalling Barry Harris — RIP.

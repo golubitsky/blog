@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: Georgia On My Mind/Get Me To The Church On Time"
-tags: music piano ray-charles my-fair-lady oscar-peterson andre-previn
+tags: music piano ray-charles my-fair-lady oscar-peterson andre-previn practice-log
 ---
 
 Today I was listening to Ray Charles.

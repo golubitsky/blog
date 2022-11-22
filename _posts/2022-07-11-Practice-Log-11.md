@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: major chords (continued)"
-tags: music piano
+tags: music piano practice-log
 ---
 
 Continuing to practice the suspensions from the previous post.

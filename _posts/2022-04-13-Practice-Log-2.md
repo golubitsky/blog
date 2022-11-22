@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: symmetry of dominant chords, Tyner/Quartal/Pentatonic"
-tags: music piano schoenberg mccoy-tyner tonal-gravity
+tags: music piano schoenberg mccoy-tyner tonal-gravity practice-log
 ---
 
 McCoy Tyner is to be found in some of these meditations.

@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: major arpeggios and chords"
-tags: music piano
+tags: music piano practice-log
 ---
 
 - left hand + right hand together, one voice each:

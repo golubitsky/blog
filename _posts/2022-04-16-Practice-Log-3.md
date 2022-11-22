@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: Naima"
-tags: music piano coltrane wynton-kelly bill-evans tonal-gravity jazz wagner
+tags: music piano coltrane wynton-kelly bill-evans tonal-gravity jazz wagner practice-log
 ---
 
 [Naima](https://www.youtube.com/watch?v=bPAC6zt_1ZM), from [Giant Steps](https://en.wikipedia.org/wiki/Giant_Steps).

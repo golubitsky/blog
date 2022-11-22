@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: close position 7th chords; Bach's imperfections"
-tags: music piano coltrane bach mahler
+tags: music piano coltrane bach mahler practice-log
 ---
 
 Going off of the vamp in the coda of _Naima_ (see [yesterday's post]({{ "/2022/04/16/Practice-Log-3" | relative_url }})), I practiced each of the

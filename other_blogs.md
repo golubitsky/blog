@@ -73,6 +73,11 @@ title: Other blogs
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 - [An Introduction to Contract Testing — Bas Dijkstra](https://www.ontestautomation.com/an-introduction-to-contract-testing-part-1-meet-the-players/)
 
+#### Waste
+
+- [Technical Debt Cripples Productivity](https://abinoda.substack.com/p/tech-debt-productivity) — 23% of development time is wasted due to technical debt.
+- [Stripe developer survey, 2018](https://stripe.com/files/reports/the-developer-coefficient.pdf) — "How many hours per week do you estimate developers at your company waste on maintenance (i.e. dealing with bad code / errors, debugging, refactoring, modifying)?" — mean response out of 1000 responses: 42% of the work week
+
 #### I'd like to learn more
 
 - https://convox.com/
