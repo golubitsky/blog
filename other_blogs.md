@@ -5,6 +5,8 @@ title: Other blogs
 
 ### Software
 
+2022-11-22: these headings need some work.
+
 #### Design and development
 
 - [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
@@ -32,6 +34,10 @@ title: Other blogs
 - From Brad Appleton: "Program Development by Step-wise Refinement" ([scan](https://dl.acm.org/doi/10.1145/362575.362577), [html](http://sunnyday.mit.edu/16.355/wirth-refinement.html)) by the legendary Niklaus Wirth (April 1971). Wirth is basically in the "CS Hall of Fame" right alongside the likes of Knuth, Parnas, Dijkstra, etc.
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
+
+#### Architecture
+
+- [The C4 model for visualizing software architecture](https://c4model.com/)
 
 #### Programming languages
 
