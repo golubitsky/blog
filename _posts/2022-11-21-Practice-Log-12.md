@@ -18,7 +18,6 @@ My simple exercises are:
 - Play "some one pattern" from one chord to the next; play that same pattern for each of the 4 pairs of chords given that starting chord. Round and round. Examples:
   - step-wise descent
     - starting on different chord tones (R, 1, 3, 5, 7, 9) of 1st of each pair of chords.
-    - i.e.,
   - step-wise ascent, e.g. in 4/4 time from 1-chord to 4-chord, walk up 1,2,♭3,3 to the 4.
     - combined with step-wise descent this can lead to a very nice walking baseline
   - chord-tone ascent
@@ -30,5 +29,6 @@ My simple exercises are:
     - LH=chords, RH=walking
     - LH=walking, RH=chords
       - walking in the bass starting on different chord tones leads to _very_ different sound from walking in the right hand
+  - a final consideration: a middle voice — a third voice — between the LH and RH — the future.
 
 My other observation: songs like _You Must Believe In Spring_ ([performed by Bill Evans](https://www.youtube.com/watch?v=FTlKzkdtW9I)) — hopelessly complex in the past — become visible on the horizon. And clearly audible while practicing. And that is worth celebration and thanks.

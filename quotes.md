@@ -217,3 +217,7 @@ Charity Majors, [The Socio-technical Path to High-Performing Teams (37:03)](http
 > Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea. Make an orderly series of your different studies, so as to throw yourself into them completely. Let each task take entire hold of you, as if it were the only one. That was Napoleon's secret; it is the secret of all who are great in action. Men of genius themselves were great only by bringing all their powers to bear on the point on which they had decided to concentrate.
 
 Antonin Sertillanges, The Intellectual Life [translated by Mary Ryan (The Spirit of Work, II. Concentration, p. 127)](https://portalconservador.com/livros/A.D.Sertillanges-The-Intellectual-Life.pdf)
+
+> Salvation, if it is attainable at all, even partially, is to be sought in a deeper understanding of the ways of systems, not simply in a criticism of the errors of a particular system.
+
+John Gall, Systemantics, [p. xii](http://www.bussigel.com/systemsforplay/wp-content/uploads/2013/12/Systemantics.pdf)
