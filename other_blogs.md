@@ -35,10 +35,6 @@ title: Other blogs
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 
-#### Architecture
-
-- [The C4 model for visualizing software architecture](https://c4model.com/)
-
 #### Programming languages
 
 - [Why Isn't Functional Programming the Norm? - Richard Feldman (YouTube)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
@@ -60,6 +56,7 @@ title: Other blogs
 - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
+- [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
 
 #### People
 
@@ -78,6 +75,7 @@ title: Other blogs
 - [Testing in the Twenties - Tim Bray](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 - [An Introduction to Contract Testing — Bas Dijkstra](https://www.ontestautomation.com/an-introduction-to-contract-testing-part-1-meet-the-players/)
+- [The C4 model for visualizing software architecture](https://c4model.com/)
 
 #### Waste
 
@@ -90,6 +88,7 @@ title: Other blogs
 - [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))
 - Do some light research on OSes, based on [my LinkedIn post](https://www.linkedin.com/posts/mgolubitsky_i-speculate-that-building-and-successfully-activity-6998268394365952001-H3qU)
+- [CCTDD: Cypress Component Test Driven Design - Murat Ozcan](https://muratkerem.gitbook.io/cctdd/)
 
 #### Data
 
