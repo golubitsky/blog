@@ -1,3 +1,7 @@
+---
+tags: programming design
+---
+
 I was talking about spaghetti code with someone today. Where does it come from? In the idealized case, I write a program by myself, and I have understood the logic I need to implement — in English. And then I write the code that perfectly crystallizes my well-reasoned logic in a computer program written in a programming language. And so now a machine can also interpret my logic. So far so good!
 
 Does that program make sense to the proverbial you? If it doesn't make sense to you, I have some work to do. It's spaghetti code until it makes sense to not only me, but also to you.
