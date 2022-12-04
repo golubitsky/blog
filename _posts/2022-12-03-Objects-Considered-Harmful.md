@@ -10,7 +10,7 @@ Writing classes by default, without a thought, often leads to incidental complex
 
 ### Classes with one public method
 
-The simplest harmful example is of a "class" with one public method — it could just as easily be a function. In this case, the entire construction of the class is boilerplate and incidental complexity. We are better off without it.
+The simplest example is of a "class" with one public method. In this case, the ceremonious initialization and subsequent construction of the class are simply boilerplate and incidental complexity. The "class" could just as easily be a function.
 
 ### Instance variables are harmful
 
