@@ -1,4 +1,5 @@
 ---
+title: "Practice Log: broken triads in 1st inversion"
 tags: music piano practice-log
 ---
 
