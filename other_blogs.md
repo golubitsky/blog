@@ -57,6 +57,8 @@ title: Other blogs
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
 - [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
+- [Voyage in the Agile Memeplex — Philippe Kruchten](https://queue.acm.org/detail.cfm?id=1281893)
+- [Active Knowledge in Software Development - Michael Feathers](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 
 #### People
 
@@ -89,6 +91,7 @@ title: Other blogs
 - https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))
 - Do some light research on OSes, based on [my LinkedIn post](https://www.linkedin.com/posts/mgolubitsky_i-speculate-that-building-and-successfully-activity-6998268394365952001-H3qU)
 - [CCTDD: Cypress Component Test Driven Design - Murat Ozcan](https://muratkerem.gitbook.io/cctdd/)
+- [books about #software that are not actually about software - LinkedIn](https://www.linkedin.com/posts/ctford_software-continuousdelivery-process-activity-7004395826512850944-hQtx?utm_source=share&utm_medium=member_desktop)
 
 #### Data
 
