@@ -96,3 +96,7 @@ title: Other blogs
 #### Data
 
 - [gbif.org - free and open access to biodiversity data](https://www.gbif.org/)
+
+### Life
+
+- [Master Your Destiny — Coach Pain (YouTube)](https://www.youtube.com/watch?v=BKWIFFaiA-c)
