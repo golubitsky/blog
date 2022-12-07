@@ -92,6 +92,17 @@ title: Other blogs
 - Do some light research on OSes, based on [my LinkedIn post](https://www.linkedin.com/posts/mgolubitsky_i-speculate-that-building-and-successfully-activity-6998268394365952001-H3qU)
 - [CCTDD: Cypress Component Test Driven Design - Murat Ozcan](https://muratkerem.gitbook.io/cctdd/)
 - [books about #software that are not actually about software - LinkedIn](https://www.linkedin.com/posts/ctford_software-continuousdelivery-process-activity-7004395826512850944-hQtx?utm_source=share&utm_medium=member_desktop)
+- https://dagger.io/blog/go-sdk — Go SDK for Docker-based CI/CD
+- Wasm — use cases; viable delivery mechanism already?
+  - https://www.youtube.com/watch?v=OGcm3rHg630
+  - https://www.fermyon.com/blog/introducing-spin
+  - https://www.fermyon.com/blog/webassembly-component-model
+  - https://www.docker.com/blog/runc/
+  - https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly/
+- How to test AWS serverless workloads, [per Jason LeGris](https://www.linkedin.com/feed/update/urn:li:activity:7006166664455061507?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7006166664455061507%2C7006204687448182786%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7006166664455061507%2C7006325980210376704%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287006204687448182786%2Curn%3Ali%3Aactivity%3A7006166664455061507%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287006325980210376704%2Curn%3Ali%3Aactivity%3A7006166664455061507%29); 3 levels of testing:
+  - Mock at the architecture boundaries for unit tests. (same as anything else -MG)
+  - Run local with offline (using serverless cli tools) for local integration tests (hmm.. -MG)
+  - Run in a clean "build" AWS account for pipeline integration tests. (Really cool! -MG)
 
 #### Data
 
