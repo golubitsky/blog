@@ -34,6 +34,7 @@ title: Other blogs
 - From Brad Appleton: "Program Development by Step-wise Refinement" ([scan](https://dl.acm.org/doi/10.1145/362575.362577), [html](http://sunnyday.mit.edu/16.355/wirth-refinement.html)) by the legendary Niklaus Wirth (April 1971). Wirth is basically in the "CS Hall of Fame" right alongside the likes of Knuth, Parnas, Dijkstra, etc.
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
+- https://github.com/jamesmullenbach/dotfiles/blob/master/codewisdom — collection of quotes from the greats
 
 #### Programming languages
 
@@ -89,6 +90,8 @@ title: Other blogs
 - https://convox.com/
 - [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))
+  - Note: restrictive, not free for commercial use (free for OSS if you email author).
+  - Python has open source options: https://github.com/boxed/mutmut and https://github.com/sixty-north/cosmic-ray
 - Do some light research on OSes, based on [my LinkedIn post](https://www.linkedin.com/posts/mgolubitsky_i-speculate-that-building-and-successfully-activity-6998268394365952001-H3qU)
 - [CCTDD: Cypress Component Test Driven Design - Murat Ozcan](https://muratkerem.gitbook.io/cctdd/)
 - [books about #software that are not actually about software - LinkedIn](https://www.linkedin.com/posts/ctford_software-continuousdelivery-process-activity-7004395826512850944-hQtx?utm_source=share&utm_medium=member_desktop)
