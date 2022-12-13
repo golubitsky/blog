@@ -79,6 +79,8 @@ title: Other blogs
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 - [An Introduction to Contract Testing — Bas Dijkstra](https://www.ontestautomation.com/an-introduction-to-contract-testing-part-1-meet-the-players/)
 - [The C4 model for visualizing software architecture](https://c4model.com/)
+- https://www.honeycomb.io/blog/future-ops-platform-engineering
+- https://www.honeycomb.io/blog/the-future-of-software-is-a-sociotechnical-problem
 
 #### Waste
 
