@@ -2,7 +2,7 @@
 tags: programming design
 ---
 
-Given the programs that I have read and written in my professional software career thus far, I am not convinced that the complexity of objects and classes as we know them is warranted as the default mechanism to achieve modularity. Most programs that operate on data should start out as a collection of functions also known as modules. Classes should be introduced only when intermediate state management is necessary and leads to either a perceptible decrease in program complexity or measurably improves performance.
+Given the programs that I have read and written in my professional software career thus far, I am not convinced that the complexity of objects and classes as we know them is warranted as the default mechanism to achieve modularity. Most programs that operate on data should start out as a collection of functions also known as modules. Classes should be introduced only when intermediate state management is necessary and either perceptibly decreases program complexity or measurably improves performance.
 
 Writing classes by default, without a thought, often leads to incidental complexity, with no discernible benefit.
 
