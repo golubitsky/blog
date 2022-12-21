@@ -60,6 +60,8 @@ title: Other blogs
 - [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
 - [Voyage in the Agile Memeplex — Philippe Kruchten](https://queue.acm.org/detail.cfm?id=1281893)
 - [Active Knowledge in Software Development - Michael Feathers](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
+- [Good Enough Programming - Daniel B. Markham](https://danielbmarkham.com/good-enough-programming/)
+  - linked from [Poor Programmers Out-Breed Good Ones - Daniel B. Markham](https://danielbmarkham.com/poor-programmers-breed-faster-than-good-ones/)
 
 #### People
 
