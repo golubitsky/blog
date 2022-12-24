@@ -63,7 +63,7 @@ title: Other blogs
 - [When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler • GOTO 2020](https://youtu.be/GBTdnfD6s5Q)
 - [Logs vs Structured Events - Charity Majors](https://charity.wtf/2019/02/05/logs-vs-structured-events/) — distributed systems logging — instead of logging and error levels, send _one_ "blob" representing all the context about a request; send the blob at end of request (whether successful or unsuccessful)
   - [Structured Events Are The Basis of Observability](https://www.honeycomb.io/resources/structured-events-are-the-basis-of-observability-thanks)
-  - [Framework for an observability maturity model: using observability to advance your engineering & product] https://www.honeycomb.io/framework-for-an-observability-maturity-model-using-observability-to-advance-your-engineering-product
+  - [Framework for an observability maturity model: using observability to advance your engineering & product](https://www.honeycomb.io/framework-for-an-observability-maturity-model-using-observability-to-advance-your-engineering-product)
   - [Observability-Driven Development for Tackling the Great Unknown — InfoQ: Jennifer Riggins, review by Manual Pais](https://www.infoq.com/articles/observability-driven-development/)
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 - [The C4 model for visualizing software architecture](https://c4model.com/)
