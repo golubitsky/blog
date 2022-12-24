@@ -5,8 +5,6 @@ title: Other blogs
 
 ### Software
 
-2022-11-22: these headings need some work.
-
 #### Design and development
 
 - [The Four Elements of Simple Design (introduced by Kent Beck in the 1990s)](https://gist.github.com/O-I/cf6eecc3c27200fdce652fc6f88d1a60)
