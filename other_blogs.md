@@ -83,6 +83,7 @@ title: Other blogs
 - [The C4 model for visualizing software architecture](https://c4model.com/)
 - https://www.honeycomb.io/blog/future-ops-platform-engineering
 - https://www.honeycomb.io/blog/the-future-of-software-is-a-sociotechnical-problem
+- [Testing Without Mocks: A Pattern Language - James Shore](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 
 #### Waste
 
