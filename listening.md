@@ -3,6 +3,50 @@ layout: page
 title: Listening
 ---
 
-- [Transcription of Waltz for Debby by Bill Evans on Marian McPartland's Piano Jazz Broadcast, 1978](https://www.youtube.com/watch?v=qCmQ037RWrE) — beautiful inner voices in B section
-- [Victor Wooten - U Can't Hold No Groove (If You Ain't Got No Pocket)](https://www.youtube.com/watch?v=gfErjPvJrwQ)
+Latest first.
+
 - [Jamiroquai - Time Won't Wait](https://www.youtube.com/watch?v=c2R8f41NTFs) — Marcus Aurelius _Meditations_, paraphrased
+- [Victor Wooten - U Can't Hold No Groove (If You Ain't Got No Pocket)](https://www.youtube.com/watch?v=gfErjPvJrwQ)
+- [Transcription of Waltz for Debby by Bill Evans on Marian McPartland's Piano Jazz Broadcast, 1978](https://www.youtube.com/watch?v=qCmQ037RWrE) — beautiful inner voices in B section
+- M.A. Mathieu - Songs of Samsara
+- [U2 - Pride (In the Name of Love)](https://www.youtube.com/watch?v=LHcP4MWABGY)
+- [Bill Evans/Monica Zetterlund - Vindarna Sucka Uti Skogarna (Swedish: winds sigh outside forests)](https://www.youtube.com/watch?v=1rELYS6EKcY)
+- [Simple Minds - Don't You Forget About Me](https://www.youtube.com/watch?v=CdqoNKCCt7A)
+- [The Beatles - The Long and Winding Road](https://www.youtube.com/watch?v=fR4HjTH_fTM)
+- Talking Heads - Take Me To the River
+- Bill Evans - Danny Boy
+- Dirty Loops/Great Good Fine OK/[Herbie Hancock - Manchild - Hang Up Your Hang Ups](https://www.youtube.com/watch?v=d7kRlufrZJo)
+- [Bill Evans & Toots Thielemans - Jesus' Last Ballad](https://www.youtube.com/watch?v=ToND0PqRrPE)/Miles Davis - 'Round Midnight
+- Schubert - Symphony No. 8 "Unfinished" - I. Allegro moderato (Bernstein)
+- Bill Evans - Nardis (Village Vanguard)
+- [Praanam, LEVV - I Am](https://www.youtube.com/watch?v=G8kpG1A797U)
+- [Bill Evans - We Will Meet Again](https://www.youtube.com/watch?v=tgltKizovjg&t)
+- Bill Evans - Nardis (Last Waltz)
+- [Barbara Streisand - People](https://www.youtube.com/watch?v=g1B-a1M7U58)
+- [Earth, Wind & Fire - After the love is gone](https://www.youtube.com/watch?v=CUCLNPOjPZw)
+- [Bill Evans - Live At Town Hall (1966) - Make Someone Happy](https://www.youtube.com/watch?v=jDmMQx9VWOQ)
+- Spock's Beard - All Is Vanity
+- [Radiohead - Just](https://www.youtube.com/watch?v=oIFLtNYI3Ls)
+- Bill Evans - Danny Boy
+- [Dr. Lonnie Smith - My Favorite Things (album: Evolution)](https://www.youtube.com/watch?v=cOJIxUgsiOk)
+- [Journey - Don't Stop Believing](https://www.youtube.com/watch?v=1k8craCGpgs)
+- [Radiohead - Everything In Its Right Place](https://www.youtube.com/watch?v=onRk0sjSgFU) — the smoothest/fullest synth sound ever created
+- Dvorak 9:2
+- [Mozart - Et incarnatus est. Credo (Great Mass in C minor K. 427)](https://www.youtube.com/watch?v=CW-9cgpb6b4) — [translation](http://choral.cortlandmusic.org/2007spring/credo.html)
+- [A Tribe Called Quest - Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
+- Mozart - Missa in C Major, K. 262: Credo
+- Allman Brothers - Midnight Rider
+- [George Benson - Blue Bossa](https://www.youtube.com/watch?v=JRg-LwiAysU)
+- John Coltrane - Every Time We Say Goodbye
+- Dirty Loops - Crash And Burn Delight
+- Herbie Hancock - V.S.O.P. - Maiden Voyage
+- [Steely Dan - Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)
+- Edgard Varèse - Amériques
+- Judy Garland - Somewhere Over The Rainbow
+- Audrey Hepburn - Moon River
+- Bill Evans - Easy Living
+- Tritonal - Shivohum
+- Empire Of The Sun - Standing On The Shore
+- Robert Glasper - Yes I'm Country (And That's OK)
+- GoGo Penguin - Kamaloka
+- [Vijay Iyer - Accelerando - Human Nature](https://www.youtube.com/watch?v=BXAMHE3i1q0) — MJ cover
