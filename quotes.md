@@ -184,40 +184,44 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 > Free from what? What is that to Zarathustra! But your eyes should announce to me brightly: free for what?
 
--Friedrich Nietzsche, Thus Spoke Zarathustra (originally published in German, in 1883)
+-Friedrich Nietzsche, _Thus Spoke Zarathustra_ (originally published in German, in 1883)
 
 > Once complexity has accumulated, it is hard to eliminate, since fixing a single dependency or obscurity will not, by itself, make a big difference. In order to slow the growth of complexity, you must adopt a "zero tolerance" philosophy.
 
-John Ousterhout, A Philosophy of Software Design (2018), p. 11
+-John Ousterhout, _A Philosophy of Software Design_ (2018), p. 11
 
 > The first step toward becoming a good software designer is to realize that working code isn’t enough. It’s not acceptable to introduce unnecessary complexities in order to finish your current task faster. The most important thing is the long-term structure of the system.
 
-John Ousterhout, A Philosophy of Software Design, p. 14
+-John Ousterhout, _A Philosophy of Software Design_, p. 14
 
 > One of the most important elements of software design is determining who needs to know what, and when.
 
-John Ousterhout, A Philosophy of Software Design, p. 43
+-John Ousterhout, _A Philosophy of Software Design_, p. 43
 
 > "One dress and one bowl, under a tree and on a stone" graphically describes the monk's life in India. Compared with this, the modern Zen monk must be said to be abundantly supplied. Still his wants are reduced to a minimum and none can fail to lead a simple, perhaps the simplest, life if he models his after the life of a Zen monk. The desire to possess is considered by Buddhism to be one of the worst passions with which mortals, are apt to be obsessed. What, in fact, causes so much misery in the world is the universal impulse of acquisition. As power is desired, the strong always tyrannize over the weak; as wealth is coveted, the rich and poor are always crossing swords of bitter enmity. International wars rage, social unrest ever increases, unless this impulse to get and to hold is completely uprooted. Cannot society be reorganized upon an entirely different basis from what we have been used to see from the beginning of history? Cannot we ever hope to stop the massing of wealth and the accumulation of power merely from the desire for individual or national aggrandizement? Despairing of the utter irrationality of human affairs, Buddhist monks have gone to the other extreme and cut themselves off even from reasonable and perfectly innocent enjoyments of life. However, the Zen ideal of putting a monk's belongings into a tiny box is his mute protest, though so far ineffective, against the present order of society.
 
-D. T. Suzuki, An Introduction to Zen Buddhism (1914), p. 120 (1991 Grove Press)
+-D. T. Suzuki, _An Introduction to Zen Buddhism_ (1914), p. 120 (1991 Grove Press)
 
 > When a lioness gives birth to her cubs it is proverbially believed that after three days she pushes them over a precipice to see if they can climb back to her. Those that fail to meet this test are no longer cared about. Whether this is true or not, something like it is aimed at by the Zen master, who will often treat his monks with every manner of seeming unkindness.
 
-D. T. Suzuki, An Introduction to Zen Buddhism, p. 123
+-D. T. Suzuki, _An Introduction to Zen Buddhism_, p. 123
 
 > The idea behind test-driven development has always been "what should the API of our code look like? If I am an external consumer of this code and I come to call it, what kind of API would I find useful?" You're testing as much the usability of the API — how you interact with it — as you are designing that public-facing API. You tell yourself a story about how this API should look if you were a consumer. The test becomes the first consumer of your code that says "what should this look like and how should it work?" That is the objective of test-driven development.
 
-Ian Cooper, [TDD, Where Did It All Go Wrong (34:15)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2055)
+-Ian Cooper, [TDD, Where Did It All Go Wrong (34:15)](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2055)
 
 > I think of it as observability-driven development. It's like TDD, but TDD stops at the border of your laptop. TDD assumes that the system works so you can check if your code works. That is a mighty big assumption. Observability-driven development encompasses production in that. ODD practices instrumentation as you're writing your code with an eye to your future self who is going to need to understand it. ODD means that you have muscle-memory that remembers that when you merge code you go and you watch it deploy and you look at it through the lens of the instrumentation that you just wrote and you ask yourself "is it doing what I wanted it to do and does anything else look weird?"
 
-Charity Majors, [The Socio-technical Path to High-Performing Teams (37:03)](https://youtu.be/KtrJaqD67Oc?t=2223)
+-Charity Majors, [The Socio-technical Path to High-Performing Teams (37:03)](https://youtu.be/KtrJaqD67Oc?t=2223)
 
 > Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea. Make an orderly series of your different studies, so as to throw yourself into them completely. Let each task take entire hold of you, as if it were the only one. That was Napoleon's secret; it is the secret of all who are great in action. Men of genius themselves were great only by bringing all their powers to bear on the point on which they had decided to concentrate.
 
-Antonin Sertillanges, The Intellectual Life [translated by Mary Ryan (The Spirit of Work, II. Concentration, p. 127)](https://portalconservador.com/livros/A.D.Sertillanges-The-Intellectual-Life.pdf)
+-Antonin Sertillanges, _The Intellectual Life_ [translated by Mary Ryan (The Spirit of Work, II. Concentration, p. 127)](https://portalconservador.com/livros/A.D.Sertillanges-The-Intellectual-Life.pdf)
 
 > Salvation, if it is attainable at all, even partially, is to be sought in a deeper understanding of the ways of systems, not simply in a criticism of the errors of a particular system.
 
-John Gall, Systemantics, [p. xii](http://www.bussigel.com/systemsforplay/wp-content/uploads/2013/12/Systemantics.pdf)
+-John Gall, _Systemantics_, [p. xii](http://www.bussigel.com/systemsforplay/wp-content/uploads/2013/12/Systemantics.pdf)
+
+> Sages for the people; the American in his cabin, the Spaniard in his provincial café. [Machado](https://en.wikipedia.org/wiki/Antonio_Machado) too expressed a horror of the solemn and had the same smiling gravity.
+
+-Octavio Paz, "Robert Frost" (Vermont, June 1945), _On Poets and Others_, p. 7 (1986; tr. Michael Schmidt)
