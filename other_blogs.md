@@ -117,6 +117,7 @@ title: Other blogs
   - Mock at the architecture boundaries for unit tests. (same as anything else -MG)
   - Run local with offline (using serverless cli tools) for local integration tests (hmm.. -MG)
   - Run in a clean "build" AWS account for pipeline integration tests. (Really cool! -MG)
+- UI testing: https://testing-library.com/
 
 ### Life
 
