@@ -225,3 +225,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Sages for the people; the American in his cabin, the Spaniard in his provincial café. [Machado](https://en.wikipedia.org/wiki/Antonio_Machado) too expressed a horror of the solemn and had the same smiling gravity.
 
 —Octavio Paz, "Robert Frost" (Vermont, June 1945), _On Poets and Others_, p. 7 (1986; tr. Michael Schmidt)
+
+> Creating an abstract link between abstract concepts means understanding each thoroughly in itself, then understanding their relationship to each other... We must abstract from mathematics and music their practices and concerns, discern their inner lives, then tease out any signs of shared patterns. We need to define what mathematicians call a mapping between one world and the other.
+
+—Edward Rothstein, _Emblems of Mind_ (1995), p. 8
