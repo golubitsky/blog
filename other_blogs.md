@@ -42,7 +42,8 @@ title: Other blogs
 #### Workflow
 
 - [Trunk Based Development](https://trunkbaseddevelopment.com/)
-- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+- http://www.extremeprogramming.org/
+  - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
   - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
   - [Heuristics for Effective Software Development Organizations - Allen Holub](https://holub.com/heuristics/)
   - [5 Minute DevOps: Upgrading the Agile Manifesto — Bryan Finster](https://bdfinst.medium.com/5-minute-devops-upgrading-the-agile-manifesto-1dba5f6ef931)
