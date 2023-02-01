@@ -32,6 +32,13 @@ title: Other blogs
   - [Alan Kay did not invent objects - Hillel Wayne](https://www.hillelwayne.com/post/alan-kay/)
 - [Design Principles Behind Smalltalk - Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) — very deep; interesting usage of the term _method_
 
+#### Scripting
+
+- Bash scripting
+  - [Conquering the Command Line](http://conqueringthecommandline.com/)
+  - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+  - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+
 #### Workflow
 
 - [Trunk Based Development](https://trunkbaseddevelopment.com/)
