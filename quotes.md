@@ -229,3 +229,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Creating an abstract link between abstract concepts means understanding each thoroughly in itself, then understanding their relationship to each other... We must abstract from mathematics and music their practices and concerns, discern their inner lives, then tease out any signs of shared patterns. We need to define what mathematicians call a mapping between one world and the other.
 
 —Edward Rothstein, _Emblems of Mind_ (1995), p. 8
+
+> If life seems jolly rotten, there's something you've forgotten — and that's to laugh and smile and dance and sing.
+
+—Eric Idle, _Life of Brian_
