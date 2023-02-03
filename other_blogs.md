@@ -43,6 +43,7 @@ title: Other blogs
 
 - [Trunk Based Development](https://trunkbaseddevelopment.com/)
 - http://www.extremeprogramming.org/
+  - https://wiki.c2.com/?ExtremeProgramming
   - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
   - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
   - [Heuristics for Effective Software Development Organizations - Allen Holub](https://holub.com/heuristics/)
