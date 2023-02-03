@@ -25,6 +25,7 @@ title: Other blogs
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
 - https://github.com/jamesmullenbach/dotfiles/blob/master/codewisdom — collection of quotes from the greats
 - [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development, J.B. Rainsberger (YouTube)](https://www.youtube.com/watch?v=WSes_PexXcA) — "most people, most of the time, the cost of a feature is dominated.. dominated.. dominated!.. by the cost from accidental complication; that means that the cost of your feature has almost nothing to do with how hard it is and almost everything to do with how much your design sucks"
+- [What is a Product? - Marty Cagan](https://www.svpg.com/what-is-a-product/)
 
 #### Programming languages
 
