@@ -1,6 +1,6 @@
 ---
 title: Tim's Used Books
-tags: local books
+tags: local bookstores
 ---
 
 I moved to Northampton, MA approaching a couple of years ago, now. In the early days of the pandemic. I gravitated, as always, toward local cafes and bookstores.

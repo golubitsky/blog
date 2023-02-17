@@ -233,3 +233,9 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > If life seems jolly rotten, there's something you've forgotten — and that's to laugh and smile and dance and sing.
 
 —Eric Idle, _Life of Brian_
+
+> Not grammar, right or wrong, rescues the verse / But verse the grammar.
+
+> Correctness dulls, precision often maims / The poem; nor can the grammar rules the rime; / It is the poem that sets the grammar right.
+
+—Karl Shapiro, _Essay on Rime_, II. The Confusion In Language, 3. Grammar, lines 985-6 and 1009-11
