@@ -61,12 +61,14 @@ title: Other blogs
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
 - [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
 - [Active Knowledge in Software Development - Michael Feathers](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
-- [Good Enough Programming - Daniel B. Markham](https://danielbmarkham.com/good-enough-programming/)
-  - linked from [Poor Programmers Out-Breed Good Ones - Daniel B. Markham](https://danielbmarkham.com/poor-programmers-breed-faster-than-good-ones/)
 
-#### People
+#### Culture
 
 - [The Engineer/Manager Pendulum - Charity Majors](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+- [Normalization of deviance — Dan Luu](http://danluu.com/wat/)
+- [The maze is in the mouse: What ails Google. And how it can turn things around. — Praveen Seshadri](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a) — "Within Google, there is a collective delusion that the company is exceptional. And as is the case in all such delusions, the deluded ones are just mortals standing on the shoulders of the truly exceptional people who went before them and created an environment of wild success. Eventually, the exceptional environment starts to fade, but the lingering delusion has abolished humility among the mere mortals who remain." Eerily reminiscent of William Carlos Williams' essay about the two types of Americans (all were immigrants of two types: heroes, small in number, who were mythologized by the rest, yet never accepted by them as brothers; and the rest, the lazy ones), which for the life of me I cannot recall the name of. Would love to find that essay again.
+- [Poor Programmers Out-Breed Good Ones - Daniel B. Markham](https://danielbmarkham.com/poor-programmers-breed-faster-than-good-ones/) — "The longer good programmers stay in large settings, the more they train themselves to be poor programmers."
+  - see also: [Good Enough Programming - Daniel B. Markham](https://danielbmarkham.com/good-enough-programming/)
 
 #### Architecture
 
