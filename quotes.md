@@ -239,3 +239,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Correctness dulls, precision often maims / The poem; nor can the grammar rules the rime; / It is the poem that sets the grammar right.
 
 —Karl Shapiro, _Essay on Rime_, II. The Confusion In Language, 3. Grammar, lines 985-6 and 1009-11
+
+> Melville is the poet of outrage of this century of America, Whitman is the poet of possibility; one cannot be repeated more than the other. But Whitman's significance is based on the possibility realized in his period, as Dante's is based on the system of his religion in his time. As far as their imagination of *possibility* outranges their time, their systems live; for their images are deep in their belief. Melville's outrage lives; he touched perpetual evil, the perpetual hunt, and sea-images, world-images gave these their language. They speak for the backgrounds of our present. In our history, our open history, we know the gifts of many poets: in our buried history are the lost poems and songs; but these two master-poets, in all their work, stand at the doors of conflict, offering both courage and possibility, and choosing, emphasizing one or the other according to the ways in which forces that work in all of us drove them, and were driven, as they lived toward their forms.
+
+—Muriel Rukeyser, _The Life Of Poetry_, chapter 5, pp. 83-84
