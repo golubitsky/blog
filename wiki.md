@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other blogs
+title: Wiki
 ---
 
 ### Software
@@ -58,6 +58,8 @@ title: Other blogs
   - [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
   - [From Async Code Reviews to Co-Creation Patterns — Dragan Stepanovic](https://www.infoq.com/articles/co-creation-patterns-software-development/)
   - [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic (YouTube)](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
+  - "there is no smaller batch without higher availability" - Andrea Laforgia via Dragan Stepanovic
+    - that is, the team must be responsive to PRs, which, in turn, promotes smaller PRs
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
 - [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
 - [Active Knowledge in Software Development - Michael Feathers](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)

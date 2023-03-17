@@ -247,3 +247,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > The stone and the shell are alike in that they both signify Truth. They are also opposites. The stone is valuable because it stands for freedom from disorder and passion. The shell is valuable because it stands for life-giving power. Incidentally, also, the stone stands for the Divine Unity, the shell for the Divine Multiplicity. Both are means through which the True City is build. Men become brothers through the recognition of the common truth in their several minds, and through the experience of a common hope and joy in their several hearts. But at the same time both are dangers to the city. The truths of abstraction are unrelated to the historical reality of the human moment and distract from the historical task. The truths of feeling may overwhelm individual identity and social order in an anarchic deluge.
 
 —W. H. Auden, _The Enchafèd Flood_, chapter 5, p. 43; based on the stone and the shell from [Worsdsorth's Prelude Book 5](<https://en.wikisource.org/wiki/The_Prelude_(Wordsworth)/Book_V>)
+
+> Programming is problem-solving, and software is a collection of information describing a solution of a problem.
+
+—Glenford J. Meyers, Software Reliability (1976), p. 16
