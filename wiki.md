@@ -81,6 +81,7 @@ title: Wiki
   - [Structured Events Are The Basis of Observability](https://www.honeycomb.io/resources/structured-events-are-the-basis-of-observability-thanks)
   - [Framework for an observability maturity model: using observability to advance your engineering & product](https://www.honeycomb.io/framework-for-an-observability-maturity-model-using-observability-to-advance-your-engineering-product)
   - [Observability-Driven Development for Tackling the Great Unknown — InfoQ: Jennifer Riggins, review by Manual Pais](https://www.infoq.com/articles/observability-driven-development/)
+  - https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals
 - [Programs, Life Cycles, and Laws of Software Evolution - Meir M. Lehman, 1980](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 - [The C4 model for visualizing software architecture](https://c4model.com/)
 - [The Future of Ops Is Platform Engineering - Charity Majors](https://www.honeycomb.io/blog/future-ops-platform-engineering)
@@ -99,9 +100,11 @@ title: Wiki
 - [Testing in the Twenties - Tim Bray](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
 - [An Introduction to Contract Testing — Bas Dijkstra](https://www.ontestautomation.com/an-introduction-to-contract-testing-part-1-meet-the-players/)
 - [Testing Without Mocks: A Pattern Language - James Shore](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+  - [Mocks, Fakes, Stubs and Dummies](http://xunitpatterns.com/Mocks,%20Fakes,%20Stubs%20and%20Dummies.html) — collection of definitions of these terms
 - [I test in prod - Charity Majors](https://increment.com/testing/i-test-in-production/)
 - [Testing Microservices: You’re Thinking About (Environment) Isolation All Wrong](https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef)
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
+- [Stop requiring only one assertion per unit test: Multiple assertions are fine - Mark Seeman](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
 
 #### Waste
 
@@ -134,6 +137,9 @@ title: Wiki
   - Run local with offline (using serverless cli tools) for local integration tests (hmm.. -MG)
   - Run in a clean "build" AWS account for pipeline integration tests. (Really cool! -MG)
 - UI testing: https://testing-library.com/
+- ChatGPT/Wolfram
+  - [How To Build Your Own Custom ChatGPT With Custom Knowledge Base](https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e)
+  - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 
 ### Life
 
