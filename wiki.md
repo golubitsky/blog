@@ -66,6 +66,7 @@ title: Wiki
 
 #### Culture
 
+- [Don't Call Yourself a Programmer — Patrick McKenzie ](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) — classic post, really helped me to get my first job in software: we aren't hire for fun, we're hired because we're a cheaper way to solve problems for a business
 - [The Engineer/Manager Pendulum - Charity Majors](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 - [Normalization of deviance — Dan Luu](http://danluu.com/wat/)
 - [The maze is in the mouse: What ails Google. And how it can turn things around. — Praveen Seshadri](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a) — "Within Google, there is a collective delusion that the company is exceptional. And as is the case in all such delusions, the deluded ones are just mortals standing on the shoulders of the truly exceptional people who went before them and created an environment of wild success. Eventually, the exceptional environment starts to fade, but the lingering delusion has abolished humility among the mere mortals who remain." Eerily reminiscent of William Carlos Williams' essay about the two types of Americans (all were immigrants of two types: heroes, small in number, who were mythologized by the rest, yet never accepted by them as brothers; and the rest, the lazy ones) — *The American Background*, found in Selected Essays (1954).
@@ -140,6 +141,14 @@ title: Wiki
 - ChatGPT/Wolfram
   - [How To Build Your Own Custom ChatGPT With Custom Knowledge Base](https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e)
   - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+
+#### Coding Practice
+
+- http://codekata.com/
+- https://adventofcode.com/
+- https://codingchallenges.fyi/
+- http://projecteuler.net/problems
+- https://exercism.org/
 
 ### Life
 
