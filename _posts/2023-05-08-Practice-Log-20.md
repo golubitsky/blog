@@ -20,7 +20,7 @@ Current rotation:
 - [Hirumi - The Seeker](https://www.youtube.com/watch?v=hHDNaw1NLTM)
   - Good practice for rhythm; some nice sus chords after the intro.
   - Feels really good; not intellectual; the form is on my level (though certainly not her Oscar Peterson-esque soloing).
-  - Intro: `C Gm Am A♭` `Am D7 F C`
+  - Intro: (4x) `C Gm Am A♭` (~2x) `Am D7 F C` by this point into the smooth part based more on the sus chords. More to come! Irresistible rhythm, really — it makes this tune. Keeping it in rhythm even at the most out of control parts, and then that flow of bringing it back down smoothly.
 - [Snarky Puppy - Thing of Gold](https://www.youtube.com/watch?v=eZBlRkF0-to)
   - Playing through just the chords first chords in chorus fills with warmth.
   - Chorus (beginning): `B♭△ Gm9 G♭△ D♭△ A♭△ E♭△`
