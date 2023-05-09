@@ -24,6 +24,7 @@ title: Wiki
 - From Brad Appleton: "Program Development by Step-wise Refinement" ([scan](https://dl.acm.org/doi/10.1145/362575.362577), [html](http://sunnyday.mit.edu/16.355/wirth-refinement.html)) by the legendary Niklaus Wirth (April 1971). Wirth is basically in the "CS Hall of Fame" right alongside the likes of Knuth, Parnas, Dijkstra, etc.
 - [No Best Practices](https://www.satisfice.com/blog/archives/5164)
 - https://github.com/jamesmullenbach/dotfiles/blob/master/codewisdom — collection of quotes from the greats
+- https://www.linkedin.com/pulse/software-engineering-great-quotes-maximiliano-contieri/ — another such collection
 - [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development, J.B. Rainsberger (YouTube)](https://www.youtube.com/watch?v=WSes_PexXcA) — "most people, most of the time, the cost of a feature is dominated.. dominated.. dominated!.. by the cost from accidental complication; that means that the cost of your feature has almost nothing to do with how hard it is and almost everything to do with how much your design sucks"
 - [What is a Product? - Marty Cagan](https://www.svpg.com/what-is-a-product/)
 
