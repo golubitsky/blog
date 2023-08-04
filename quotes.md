@@ -251,3 +251,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > Programming is problem-solving, and software is a collection of information describing a solution of a problem.
 
 —Glenford J. Meyers, Software Reliability (1976), p. 16
+
+"Testing is the process of executing a program with the intent of finding errors. ... If our goal is to demonstrate that a program has no errors, then we shall subconsciously be steered toward this goal. ... On the other hand, if our goal is to demonstrate that a program has errors, our test data will have a higher probability of finding errors. The latter approach will add more value to the program than the former."
+
+—Glenford J. Myers, The Art of Software Testing, p. 5

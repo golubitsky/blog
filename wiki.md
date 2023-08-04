@@ -44,6 +44,7 @@ title: Wiki
 #### Workflow
 
 - [Trunk Based Development](https://trunkbaseddevelopment.com/)
+  - https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/
 - http://www.extremeprogramming.org/
   - https://wiki.c2.com/?ExtremeProgramming
   - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
@@ -52,6 +53,7 @@ title: Wiki
   - [5 Minute DevOps: Upgrading the Agile Manifesto — Bryan Finster](https://bdfinst.medium.com/5-minute-devops-upgrading-the-agile-manifesto-1dba5f6ef931)
   - [Voyage in the Agile Memeplex — Philippe Kruchten](https://queue.acm.org/detail.cfm?id=1281893)
   - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
+  - [5 Minute DevOps: Solving the Uncertainty Problem — Bryan Finster](https://medium.com/defense-unicorns/5-minute-devops-solving-the-uncertainty-problem-b488f4e38133) — **amazing post about how to work as a team**
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
 - [DORA's State of DevOps research program](https://www.devops-research.com/research.html)
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
@@ -107,6 +109,7 @@ title: Wiki
 - [Testing Microservices: You’re Thinking About (Environment) Isolation All Wrong](https://blog.getambassador.io/testing-microservices-youre-thinking-about-environment-isolation-all-wrong-84f22034a6ef)
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 - [Stop requiring only one assertion per unit test: Multiple assertions are fine - Mark Seeman](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
+- https://www.agilealliance.org/resources/sessions/test-driven-development-guided-by-zombies/
 
 #### Waste
 

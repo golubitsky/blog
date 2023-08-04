@@ -5,6 +5,16 @@ title: Listening
 
 Latest first.
 
+- [Marian McPartland – Take The 'A' Train](https://www.youtube.com/watch?v=ApamPp3ZN_M)
+  - [Lee Konitz and Hal Galper - Softly as in a Morning Sunrise](https://www.youtube.com/watch?v=C2h7_Hb-RbU)
+  - [Chick Corea - Windows](https://www.youtube.com/watch?v=nLsjNuGUoxE)
+  - [Dizzy Gillespie - Birks' Works (1957)](https://www.youtube.com/watch?v=nW8i_UfqYNw)
+  - [Bill Evans - Peri's Scope](https://www.youtube.com/watch?v=uSo9X7dCmjg)
+- [The Song of the Volga Boatmen / Ey, ukhnem!](https://www.youtube.com/watch?v=Ns3ZVtm3TgY)
+  - https://www.youtube.com/watch?v=KfsWoNpHg2s
+  - https://www.youtube.com/watch?v=XXKoooV9ABE&feature=youtu.be
+  - [Виктория Иванова Купите фиалки](http://russian-retro.com/video/6824-viktorija-ivanova-kupite-fialki.html?playlist=576)
+  - [Boris Shtokolov- Vecherniy zvon (Those Evening Bells)](https://www.youtube.com/watch?v=43EWbWDxA5Q)
 - [Emmet Cohen - Uptown in Orbit](https://www.youtube.com/watch?v=QzIcMgMknDc)
 - [Jamiroquai - Time Won't Wait](https://www.youtube.com/watch?v=c2R8f41NTFs) — Marcus Aurelius _Meditations_, paraphrased
 - [Victor Wooten - U Can't Hold No Groove (If You Ain't Got No Pocket)](https://www.youtube.com/watch?v=gfErjPvJrwQ)
