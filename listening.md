@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [Alison Krauss - When God Dips His Pen Of Love In My Heart](https://www.youtube.com/watch?v=pOyynogqs9w)
+- [Первым делом самолёты. Песня из фильма "Небесный тихоход" Мы, друзья, перелетные птицы](https://youtu.be/ACYB1XNs04w)
 - [Marian McPartland – Take The 'A' Train](https://www.youtube.com/watch?v=ApamPp3ZN_M)
   - [Lee Konitz and Hal Galper - Softly as in a Morning Sunrise](https://www.youtube.com/watch?v=C2h7_Hb-RbU)
   - [Chick Corea - Windows](https://www.youtube.com/watch?v=nLsjNuGUoxE)
