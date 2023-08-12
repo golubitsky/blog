@@ -5,6 +5,9 @@ title: Listening
 
 Latest first.
 
+- [Barbra Streisand - People](https://www.youtube.com/watch?v=fPlQ6EtArSc)
+- [Dua Lipa - Dance The Night](https://www.youtube.com/watch?v=OiC1rgCPmUQ)
+  - Off the hook.
 - [Alison Krauss - When God Dips His Pen Of Love In My Heart](https://www.youtube.com/watch?v=pOyynogqs9w)
 - [Первым делом самолёты. Песня из фильма "Небесный тихоход" Мы, друзья, перелетные птицы](https://youtu.be/ACYB1XNs04w)
 - [Marian McPartland – Take The 'A' Train](https://www.youtube.com/watch?v=ApamPp3ZN_M)
@@ -35,7 +38,6 @@ Latest first.
 - [Praanam, LEVV - I Am](https://www.youtube.com/watch?v=G8kpG1A797U)
 - [Bill Evans - We Will Meet Again](https://www.youtube.com/watch?v=tgltKizovjg&t)
 - Bill Evans - Nardis (Last Waltz)
-- [Barbara Streisand - People](https://www.youtube.com/watch?v=g1B-a1M7U58)
 - [Earth, Wind & Fire - After the love is gone](https://www.youtube.com/watch?v=CUCLNPOjPZw)
 - [Bill Evans - Live At Town Hall (1966) - Make Someone Happy](https://www.youtube.com/watch?v=jDmMQx9VWOQ)
 - Spock's Beard - All Is Vanity
