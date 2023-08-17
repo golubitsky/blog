@@ -5,9 +5,16 @@ title: Listening
 
 Latest first.
 
-- [Barbra Streisand - People](https://www.youtube.com/watch?v=fPlQ6EtArSc)
 - [Dua Lipa - Dance The Night](https://www.youtube.com/watch?v=OiC1rgCPmUQ)
-  - Off the hook.
+  - Still off the hook.
+- [Roberta Flack / Donny Hathaway - Where is the Love (1972)](https://www.youtube.com/watch?v=ZcHPNUN-U8E)
+- [The Circle of Life - Lion King](https://www.youtube.com/watch?v=GibiNy4d4gc)
+- [Walter Piston - Symphony No. 1](https://www.youtube.com/watch?v=9jr4fT60o0Q)
+  - Uncanny resemblance to Shostakovich.
+  - He wrote some classic books on theory.
+  - [Symphony No. 2, conducted by a young MTT](https://www.youtube.com/watch?v=DuNjif75JoQ)
+  - [Symphony No. 3, conducted by Koussevitzky](https://www.youtube.com/watch?v=18IybqdI5dw)
+- [Barbra Streisand - People](https://www.youtube.com/watch?v=fPlQ6EtArSc)
 - [Alison Krauss - When God Dips His Pen Of Love In My Heart](https://www.youtube.com/watch?v=pOyynogqs9w)
 - [Первым делом самолёты. Песня из фильма "Небесный тихоход" Мы, друзья, перелетные птицы](https://youtu.be/ACYB1XNs04w)
 - [Marian McPartland – Take The 'A' Train](https://www.youtube.com/watch?v=ApamPp3ZN_M)
