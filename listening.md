@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Organ Freeman - Go by Richard, Not by Dick](https://www.youtube.com/watch?v=-yu_Tt3gJN8)
 - [Dua Lipa - Dance The Night](https://www.youtube.com/watch?v=OiC1rgCPmUQ)
   - Still off the hook.
 - [Roberta Flack / Donny Hathaway - Where is the Love (1972)](https://www.youtube.com/watch?v=ZcHPNUN-U8E)
