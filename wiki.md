@@ -145,6 +145,7 @@ title: Wiki
 - ChatGPT/Wolfram
   - [How To Build Your Own Custom ChatGPT With Custom Knowledge Base](https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e)
   - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
+- https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180x/
 
 #### Coding Practice
 
