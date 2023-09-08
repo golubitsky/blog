@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [Pat Metheny Group - Minuano](https://www.youtube.com/watch?v=-jHcH1U3SWU)
+- [Joe Hisaishi : Studio Ghibli Experience, Part 1](https://youtu.be/0jZNKV5ROBM?si=dJxIKiEUSL82CaAK)
 - [Ahmad Jamal - Poinciana](https://www.youtube.com/watch?v=cytUz9KkK9M)
 - [Organ Freeman - Go by Richard, Not by Dick](https://www.youtube.com/watch?v=-yu_Tt3gJN8)
 - [Dua Lipa - Dance The Night](https://www.youtube.com/watch?v=OiC1rgCPmUQ)
