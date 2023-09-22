@@ -110,6 +110,7 @@ title: Wiki
 - [Surviving Legacy Code with Golden Master and Sampling - J.B. Rainsberger](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 - [Stop requiring only one assertion per unit test: Multiple assertions are fine - Mark Seeman](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
 - https://www.agilealliance.org/resources/sessions/test-driven-development-guided-by-zombies/
+- https://michaelfeathers.substack.com/p/fixity-and-intention "We can look at tests as descriptions with varying lifetimes. Some may last for years and others may last for hours. They are useful as long as they facilitate change and understanding."
 
 #### Waste
 
@@ -122,6 +123,7 @@ title: Wiki
 
 #### I'd like to learn more
 
+- https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/?mc_cid=732b2ea229
 - https://convox.com/
 - [How To Design Programs, 2nd edition](http://htdp.org/2022-6-7/Book/index.html) — text uses [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - https://github.com/mbj/mutant — Mutation testing in Ruby (source: [LinkedIn post](https://www.linkedin.com/posts/alexbunardzic_if-the-team-is-doing-xp-including-tdd-activity-6963165373835747330-pjIh?utm_source=linkedin_share&utm_medium=member_desktop_web))

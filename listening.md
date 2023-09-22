@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- Pat Metheny - September 15th
+- [Windows [Like Minds]](https://www.youtube.com/watch?v=ABy5UEP3ngQ) — from a search for Metheny + Corea
 - [Pat Metheny Group - Minuano](https://www.youtube.com/watch?v=-jHcH1U3SWU)
 - [Hank Jones - Up Jumped Spring](https://www.youtube.com/watch?v=dscZ-PQemko) by Freddie Hubbard
 - [Joe Hisaishi : Studio Ghibli Experience, Part 1](https://youtu.be/0jZNKV5ROBM?si=dJxIKiEUSL82CaAK)

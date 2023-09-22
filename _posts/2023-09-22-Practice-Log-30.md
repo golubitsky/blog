@@ -1,5 +1,5 @@
 ---
-title: "Practice Log: Like Minds/Children's Song 1"
+title: "Practice Log: Like Minds/Children's Song No. 1"
 tags: music piano chick-corea pat-metheny
 ---
 
