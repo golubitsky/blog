@@ -5,6 +5,12 @@ title: Listening
 
 Latest first.
 
+- "First of all check out the music of West Africa! Mamady Keita of Guinea, Mustapha Teddy Addy of Ghana, and the late great Doudou N'Diaye Rose of Senegal have some great records of drumming from their various traditions; Orchestra Baobab and Fela Kuti are good examples of how Jazz and Latin Jazz influenced modern African music." — https://www.reddit.com/r/musictheory/comments/a4v5wc/where_can_i_learn_about_latin_grooves/
+  - [Mamady Keïta - Kuku](https://www.youtube.com/watch?v=Qsq5PHoik-s)
+  - [Mustapha Tettey Addy - Coming Home](https://www.youtube.com/watch?v=drc_fC3VAZw)
+  - [DUDU rose (Sénégal Musique / Senegal Music)](https://www.youtube.com/watch?v=5V6ZrclO11U)
+- [Adele - Someone Like You](https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+- [Bill Evans - My Foolish Heart](https://www.youtube.com/watch?v=a2LFVWBmoiw)
 - Pat Metheny - September 15th
 - [Windows [Like Minds]](https://www.youtube.com/watch?v=ABy5UEP3ngQ) — from a search for Metheny + Corea
 - [Pat Metheny Group - Minuano](https://www.youtube.com/watch?v=-jHcH1U3SWU)
