@@ -5,10 +5,24 @@ title: Listening
 
 Latest first.
 
+- [Steve Reich - Six Marimbas](https://www.youtube.com/watch?v=mLZelvSvh3A)
+- [Gagaku](https://www.youtube.com/watch?v=5OA8HFUNfIk)
+- [Jungle - Back On 74](https://www.youtube.com/watch?v=q3lX2p_Uy9I)
+- [Mac Miller - Congratulations (feat. Bilal)](https://www.youtube.com/watch?v=JoFkQ7iAQcw)
+- [AJR - The DJ Is Crying For Help](https://www.youtube.com/watch?v=8L98ODoZ0kE)
+- Cecile McLorin Salvant
+- Bright Size Life Pat Metheny
+- Joni Mitchell Shadows and Light
+- https://en.wikipedia.org/wiki/Juan_Atkins
+- https://en.wikipedia.org/wiki/Moritz_von_Oswald
+  - https://tresorberlin.bandcamp.com/album/borderland
+- [JVKE - Golden Hour](https://www.youtube.com/watch?v=PEM0Vs8jf1w)
+- Broadway: Phantom, Les Mis, Rent, Miss Saigon, Anastasia, Company, Into the Woods, Hamilton, Hadestown
+- [Bette Midler - The Rose](https://www.youtube.com/watch?v=aXXqDWsCzuk)
 - "First of all check out the music of West Africa! Mamady Keita of Guinea, Mustapha Teddy Addy of Ghana, and the late great Doudou N'Diaye Rose of Senegal have some great records of drumming from their various traditions; Orchestra Baobab and Fela Kuti are good examples of how Jazz and Latin Jazz influenced modern African music." — https://www.reddit.com/r/musictheory/comments/a4v5wc/where_can_i_learn_about_latin_grooves/
   - [Mamady Keïta - Kuku](https://www.youtube.com/watch?v=Qsq5PHoik-s)
   - [Mustapha Tettey Addy - Coming Home](https://www.youtube.com/watch?v=drc_fC3VAZw)
-  - [DUDU rose (Sénégal Musique / Senegal Music)](https://www.youtube.com/watch?v=5V6ZrclO11U)
+  - [DUDU rose (Sénégal Musique / Senegal Music)](https://www.youtube.com/watch?v=5V6ZrclO11U) — epic
 - [Adele - Someone Like You](https://www.youtube.com/watch?v=hLQl3WQQoQ0)
 - [Bill Evans - My Foolish Heart](https://www.youtube.com/watch?v=a2LFVWBmoiw)
 - Pat Metheny - September 15th

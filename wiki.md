@@ -55,6 +55,7 @@ title: Wiki
   - [What is Value? - Jez Humble (YouTube)](https://www.youtube.com/watch?v=ESOaDiv3lXA)
   - [5 Minute DevOps: Solving the Uncertainty Problem — Bryan Finster](https://medium.com/defense-unicorns/5-minute-devops-solving-the-uncertainty-problem-b488f4e38133) — **amazing post about how to work as a team**
 - [Minimum Viable CD (Continuous Delivery)](https://minimumcd.org/minimumcd/)
+  - https://dojoconsortium.org/docs/starting-ci-cd/
 - [DORA's State of DevOps research program](https://www.devops-research.com/research.html)
 - [The (Short) History of DevOps (YouTube)](https://www.youtube.com/watch?v=o7-IuYS0iSE)
 - Async code reviews
@@ -93,7 +94,9 @@ title: Wiki
 
 #### Testing/Unit Tests/TDD
 
-- [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
+- [Test Desiderata - Summary — Kent Beck](https://kentbeck.github.io/TestDesiderata/)
+  - [Test Desiderata — Kent Beck](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
+  - [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934) — his earliest version of these ideas
 - [TDD, Where Did It All Go Wrong - Ian Cooper (YouTube)](https://www.youtube.com/watch?v=EZ05e7EMOLM) — my favorite talk on TDD
 - [TDD Process Smells - Tim Ottinger & Jeff Langr](http://agileinaflash.blogspot.com/2009/03/tdd-process-smells.html)
 - [TDD on the Front End - Geepaw Hill](https://www.geepawhill.org/2020/03/11/tdd-on-the-front-end/) — the notion is to not test frameworks (which call our code) — move all the business logic out of the framework
@@ -111,6 +114,11 @@ title: Wiki
 - [Stop requiring only one assertion per unit test: Multiple assertions are fine - Mark Seeman](https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/)
 - https://www.agilealliance.org/resources/sessions/test-driven-development-guided-by-zombies/
 - https://michaelfeathers.substack.com/p/fixity-and-intention "We can look at tests as descriptions with varying lifetimes. Some may last for years and others may last for hours. They are useful as long as they facilitate change and understanding."
+- https://mkedemo.wordpress.com/2021/05/03/testing-beyond-requirements/comment-page-1/#comment-1061
+  - http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf
+  - [Testing and Checking Refined](https://www.satisfice.com/blog/archives/856)
+  - https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf
+  - https://www.annemariecharrett.com/how-to-avoid-being-fooled-in-software-testing/
 
 #### Waste
 
@@ -160,3 +168,7 @@ title: Wiki
 ### Life
 
 - [Master Your Destiny — Coach Pain (YouTube)](https://www.youtube.com/watch?v=BKWIFFaiA-c)
+
+### Rhythms
+
+- https://www.jovisan.net/uploads/1/0/7/1/10715323/brazilian_piano_styles.pdf
