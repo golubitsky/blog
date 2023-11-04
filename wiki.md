@@ -156,6 +156,18 @@ title: Wiki
   - [How To Build Your Own Custom ChatGPT With Custom Knowledge Base](https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e)
   - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 - https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180x/
+- Kyle Griffin Aretae's "set of readings to understand the learning model...these are my top reads on what I used to call Agile, and now I call 'Blue Star' software" [source](https://www.linkedin.com/feed/update/urn:li:activity:7125859987012153344/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7125859987012153344%29)
+  - The Lean Startup
+  - Warfighting
+  - 2-second Lean
+  - Team of Teams
+  - TDD by Example
+  - Turn this Ship Around / It's Your Ship
+  - Elon Musk (book about his approach)
+  - The Use of Knowledge in Society
+  - Thinking Fast and Slow
+  - On Liberty
+  - An Enquiry Concerning Human Understanding
 
 #### Coding Practice
 
