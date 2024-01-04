@@ -256,6 +256,10 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 —Glenford J. Myers, The Art of Software Testing, p. 5
 
+> The conflict between poetry and the modern world starts with the pre-Romantics and continues until today. I shall try to describe this conflict, not through its whole evolution–I am not a literary historian–but by stressing the moments and works which show it most clearly. If this method seems arbitrary, I claim only that I am not being gratuitously arbitrary. My views are those of a Hispano-American poet; this is not a detached dissertation but an exploration of my origins, an indirect attempt at self-definition. My reflections belong to what Baudelaire called "partial criticism," the only kind of considered valid.
+
+—Octavio Paz, The Revolt of the Future (essay, part of the collection _Children of the Mire_, 1974)
+
 > [The artist] starts with a few slight indications in pencil, which hardly do more than mark the position which objects are to occupy in space. The principal planes are then sketched in tinted wash, vaguely and lightly coloured masses to start with, but taken up again later and successively charged with a greater intensity of colour. At the last minute the contour of the objects is once and for all outlined in ink. Without having seen them, it would be impossible to imagine the astonishing effects he can obtain by this method which is so simple that it is almost elementary. It posses one outstanding virtue, which is that, at no matter what stage in its execution, each drawing has a sufficiently 'finished' look; call it a 'study' if you will, but you will have to admit that it is a perfect study. The values are all entirely harmonious, and if the artist should decide to take them further, they will continue to march in step towards the desired degree of completion.
 
 —Charles Baudelaire, The Painter of Modern Life and Other Essays (1863), p. 17
