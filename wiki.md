@@ -67,6 +67,7 @@ title: Wiki
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - complex, complicated, chaotic, clear domains. I was introduced to this by Fred George.
 - [Alan Richardson: Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE) — broad applicability, using available tools to express ourselves most directly
 - [Active Knowledge in Software Development - Michael Feathers](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
+- [So you think you work in a team](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-12-31-so-you-think-you-work-in-a-team/)
 
 #### Culture
 

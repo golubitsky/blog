@@ -1,5 +1,5 @@
 ---
-tags: philosophy
+tags: philosophy octaviopaz
 ---
 
 In an [earlier post]({{ "2022/01/18/All-Is-Well" | relative_url }}) I mentioned that I was reading Byung-Chul Han's _The disappearance of rituals_. In that collection of essays he mentioned Freidrich Schiller's writings. In fact, I do not recall what of his writing he mentioned. Suffice it to say that however he made mention of his writings compelled me to acquire Schiller's _On the Aesthetic Education of Man_. This is the Schiller who wrote the "Ode to Joy" as made famous in Beethoven's 9th symphony finale. Another motivation includes my general interest in reading essays by poets. One excellent example is Octavio Paz's Labyrinth of Solitude (this one also overlaps with another interest in non-factual/narrative histories — basically the best of all worlds). Poets offer Truths. I'm not able to penetrate poems. Essays are not impenetrable.

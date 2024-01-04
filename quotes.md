@@ -244,14 +244,18 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 
 —Muriel Rukeyser, _The Life Of Poetry_, chapter 5, pp. 83-84
 
-> The stone and the shell are alike in that they both signify Truth. They are also opposites. The stone is valuable because it stands for freedom from disorder and passion. The shell is valuable because it stands for life-giving power. Incidentally, also, the stone stands for the Divine Unity, the shell for the Divine Multiplicity. Both are means through which the True City is build. Men become brothers through the recognition of the common truth in their several minds, and through the experience of a common hope and joy in their several hearts. But at the same time both are dangers to the city. The truths of abstraction are unrelated to the historical reality of the human moment and distract from the historical task. The truths of feeling may overwhelm individual identity and social order in an anarchic deluge.
+> The stone and the shell are alike in that they both signify Truth. They are also opposites. The stone is valuable because it stands for freedom from disorder and passion. The shell is valuable because it stands for life-giving power. Incidentally, also, the stone stands for the Divine Unity, the shell for the Divine Multiplicity. Both are means through which the True City is built. Men become brothers through the recognition of the common truth in their several minds, and through the experience of a common hope and joy in their several hearts. But at the same time both are dangers to the city. The truths of abstraction are unrelated to the historical reality of the human moment and distract from the historical task. The truths of feeling may overwhelm individual identity and social order in an anarchic deluge.
 
-—W. H. Auden, _The Enchafèd Flood_, chapter 5, p. 43; based on the stone and the shell from [Worsdsorth's Prelude Book 5](<https://en.wikisource.org/wiki/The_Prelude_(Wordsworth)/Book_V>)
+—W. H. Auden, _The Enchafèd Flood_, chapter 5, p. 43; based on the stone and the shell from [Worsdsworth's Prelude Book 5](<https://en.wikisource.org/wiki/The_Prelude_(Wordsworth)/Book_V>)
 
 > Programming is problem-solving, and software is a collection of information describing a solution of a problem.
 
 —Glenford J. Meyers, Software Reliability (1976), p. 16
 
-"Testing is the process of executing a program with the intent of finding errors. ... If our goal is to demonstrate that a program has no errors, then we shall subconsciously be steered toward this goal. ... On the other hand, if our goal is to demonstrate that a program has errors, our test data will have a higher probability of finding errors. The latter approach will add more value to the program than the former."
+> Testing is the process of executing a program with the intent of finding errors. ... If our goal is to demonstrate that a program has no errors, then we shall subconsciously be steered toward this goal. ... On the other hand, if our goal is to demonstrate that a program has errors, our test data will have a higher probability of finding errors. The latter approach will add more value to the program than the former.
 
 —Glenford J. Myers, The Art of Software Testing, p. 5
+
+> [The artist] starts with a few slight indications in pencil, which hardly do more than mark the position which objects are to occupy in space. The principal planes are then sketched in tinted wash, vaguely and lightly coloured masses to start with, but taken up again later and successively charged with a greater intensity of colour. At the last minute the contour of the objects is once and for all outlined in ink. Without having seen them, it would be impossible to imagine the astonishing effects he can obtain by this method which is so simple that it is almost elementary. It posses one outstanding virtue, which is that, at no matter what stage in its execution, each drawing has a sufficiently 'finished' look; call it a 'study' if you will, but you will have to admit that it is a perfect study. The values are all entirely harmonious, and if the artist should decide to take them further, they will continue to march in step towards the desired degree of completion.
+
+—Charles Baudelaire, The Painter of Modern Life and Other Essays (1863), p. 17
