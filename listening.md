@@ -5,14 +5,18 @@ title: Listening
 
 Latest first.
 
+- Pat Metheny - The Way Up
+  - the ascent to the climax in part 3 is brilliant
+- Fourplay - Bali Run
+- Spyro Gyra - Morning Dance
 - [Steve Reich - Six Marimbas](https://www.youtube.com/watch?v=mLZelvSvh3A)
 - [Gagaku](https://www.youtube.com/watch?v=5OA8HFUNfIk)
 - [Jungle - Back On 74](https://www.youtube.com/watch?v=q3lX2p_Uy9I)
 - [Mac Miller - Congratulations (feat. Bilal)](https://www.youtube.com/watch?v=JoFkQ7iAQcw)
 - [AJR - The DJ Is Crying For Help](https://www.youtube.com/watch?v=8L98ODoZ0kE)
 - Cecile McLorin Salvant
-- Bright Size Life Pat Metheny
-- Joni Mitchell Shadows and Light
+- Pat Metheny - Bright Size Life
+- Joni Mitchell - Shadows and Light
 - https://en.wikipedia.org/wiki/Juan_Atkins
 - https://en.wikipedia.org/wiki/Moritz_von_Oswald
   - https://tresorberlin.bandcamp.com/album/borderland
