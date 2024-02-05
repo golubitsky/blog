@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [João Gilberto - Amoroso - Besame Mucho](https://www.youtube.com/watch?v=GICw4CoJInA)
+- [Billie Holiday - Blue Moon](https://www.youtube.com/watch?v=VXpfSH3Sg00)
 - Pat Metheny - The Way Up
   - the ascent to the climax in part 3 is brilliant
 - Fourplay - Bali Run
