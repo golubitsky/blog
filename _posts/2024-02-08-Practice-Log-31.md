@@ -13,7 +13,7 @@ Start simple. Pick two chords that you like and transpose that relationship in a
 
 "I don't know the circle of fifths".
 
-Start with 3 keys then. Play a simple melody over those chords. And transpose that melody. You gotta start somewhere.
+Start with 3 keys then. Play a simple melody over those chords. And transpose that melody. You gotta start somewhere. And make sure you keep a constant rhythm, that is important.
 
 ---
 
