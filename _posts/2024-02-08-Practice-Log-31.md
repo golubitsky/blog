@@ -23,3 +23,5 @@ When I'm practicing, I'm always looking for a simple sound. The most important t
 2. Earlier (still with three voices), hearing the sound of the #4-3 suspension _in the bass voice_ in major chords in all keys, and getting that under my fingers.
 
 I'm always inventing (or discovering) exercises like this for myself. Something that helps me improve my physical ability while exploring small aspects of sound that are beautiful.
+
+The next iteration of #1 above is to add a walking bass line.
