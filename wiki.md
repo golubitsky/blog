@@ -158,6 +158,7 @@ title: Wiki
   - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)
 - https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180x/
 - Kyle Griffin Aretae's "set of readings to understand the learning model...these are my top reads on what I used to call Agile, and now I call 'Blue Star' software" [source](https://www.linkedin.com/feed/update/urn:li:activity:7125859987012153344/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7125859987012153344%29)
+
   - The Lean Startup
   - Warfighting
   - 2-second Lean
@@ -169,6 +170,11 @@ title: Wiki
   - Thinking Fast and Slow
   - On Liberty
   - An Enquiry Concerning Human Understanding
+
+- Three books one could read before DDIA ([source (LinkedIn)](https://www.linkedin.com/posts/davidadamojr_softwaredevelopment-distributedsystems-books-activity-7174041683666313216-62AJ))
+  - Web Scalability for Startup Engineers by Artur Ejsmont
+  - Understanding Distributed Systems by Robert Vitillo
+  - Scalability Rules: Principles for Scaling Web Sites by Martin L. Abbott and Michael T. Fisher
 
 #### Coding Practice
 
