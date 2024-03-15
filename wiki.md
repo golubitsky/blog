@@ -191,3 +191,7 @@ title: Wiki
 ### Rhythms
 
 - https://www.jovisan.net/uploads/1/0/7/1/10715323/brazilian_piano_styles.pdf
+
+### Misc
+
+- https://gobotany.nativeplanttrust.org/simple/ — plant identification using a botanical key
