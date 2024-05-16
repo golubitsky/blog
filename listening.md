@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- Bill Evans - Elsa
+- Bill Evans - Turn Out The Stars
 - [João Gilberto - Amoroso - Besame Mucho](https://www.youtube.com/watch?v=GICw4CoJInA)
 - [Billie Holiday - Blue Moon](https://www.youtube.com/watch?v=VXpfSH3Sg00)
 - Pat Metheny - The Way Up
