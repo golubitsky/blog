@@ -5,8 +5,10 @@ title: Listening
 
 Latest first.
 
-- Bill Evans - Elsa
-- Bill Evans - Turn Out The Stars
+- [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
+- [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
+- [Bill Evans - Elsa](https://www.youtube.com/watch?v=qp1Vm5UeoR0)
+- [Bill Evans - Turn Out The Stars](https://www.youtube.com/watch?v=BMh3F4U5--E)
 - [João Gilberto - Amoroso - Besame Mucho](https://www.youtube.com/watch?v=GICw4CoJInA)
 - [Billie Holiday - Blue Moon](https://www.youtube.com/watch?v=VXpfSH3Sg00)
 - Pat Metheny - The Way Up
