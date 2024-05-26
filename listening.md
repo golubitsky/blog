@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Bud Powell - There Will Never Be Another You](https://www.youtube.com/watch?v=dSSI5eZEHc8)
 - [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
 - [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
 - [Bill Evans - Elsa](https://www.youtube.com/watch?v=qp1Vm5UeoR0)
