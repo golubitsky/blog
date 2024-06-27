@@ -183,6 +183,7 @@ title: Wiki
 - https://codingchallenges.fyi/
 - http://projecteuler.net/problems
 - https://exercism.org/
+- https://www.codewars.com/
 
 ### Life
 

@@ -5,6 +5,10 @@ title: Listening
 
 Latest first.
 
+- [Duke Ellington - Mood Indigo](https://www.youtube.com/watch?v=RFUSD23ZXEw)
+- Autoheart - Stalker's Tango
+- Tally Hall - Hidden in the Sand
+- JVKE - golden hour
 - [Bud Powell - There Will Never Be Another You](https://www.youtube.com/watch?v=dSSI5eZEHc8)
 - [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
 - [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
