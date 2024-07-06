@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- Debussy - Clair de Lune
+- [Herbie Hancock - Chameleon](https://www.youtube.com/watch?v=WYRrIBqKsJ4)
 - [Duke Ellington - Mood Indigo](https://www.youtube.com/watch?v=RFUSD23ZXEw)
 - Autoheart - Stalker's Tango
 - Tally Hall - Hidden in the Sand
