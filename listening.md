@@ -10,7 +10,7 @@ Latest first.
 - [Duke Ellington - Mood Indigo](https://www.youtube.com/watch?v=RFUSD23ZXEw)
 - Autoheart - Stalker's Tango
 - Tally Hall - Hidden in the Sand
-- JVKE - golden hour
+- [JVKE - Golden Hour](https://www.youtube.com/watch?v=PEM0Vs8jf1w)
 - [Bud Powell - There Will Never Be Another You](https://www.youtube.com/watch?v=dSSI5eZEHc8)
 - [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
 - [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
@@ -33,7 +33,6 @@ Latest first.
 - https://en.wikipedia.org/wiki/Juan_Atkins
 - https://en.wikipedia.org/wiki/Moritz_von_Oswald
   - https://tresorberlin.bandcamp.com/album/borderland
-- [JVKE - Golden Hour](https://www.youtube.com/watch?v=PEM0Vs8jf1w)
 - Broadway: Phantom, Les Mis, Rent, Miss Saigon, Anastasia, Company, Into the Woods, Hamilton, Hadestown
 - [Bette Midler - The Rose](https://www.youtube.com/watch?v=aXXqDWsCzuk)
 - "First of all check out the music of West Africa! Mamady Keita of Guinea, Mustapha Teddy Addy of Ghana, and the late great Doudou N'Diaye Rose of Senegal have some great records of drumming from their various traditions; Orchestra Baobab and Fela Kuti are good examples of how Jazz and Latin Jazz influenced modern African music." — https://www.reddit.com/r/musictheory/comments/a4v5wc/where_can_i_learn_about_latin_grooves/
