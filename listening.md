@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Duke - Do Nothin' Till You Hear From Me](https://www.youtube.com/watch?v=zvzCOtuH-g0)
 - Debussy - Clair de Lune
 - [Herbie Hancock - Chameleon](https://www.youtube.com/watch?v=WYRrIBqKsJ4)
 - [Duke Ellington - Mood Indigo](https://www.youtube.com/watch?v=RFUSD23ZXEw)
