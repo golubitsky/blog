@@ -5,7 +5,8 @@ title: Listening
 
 Latest first.
 
-- [Duke - Do Nothin' Till You Hear From Me](https://www.youtube.com/watch?v=zvzCOtuH-g0)
+- [Duke Ellington & Count Basie Orchestras - Battle Royal](https://www.youtube.com/watch?v=lm8bcE5L32w)
+- [Duke Ellington & Louis Armstrong - Do Nothin' Till You Hear From Me](https://www.youtube.com/watch?v=zvzCOtuH-g0)
 - Debussy - Clair de Lune
 - [Herbie Hancock - Chameleon](https://www.youtube.com/watch?v=WYRrIBqKsJ4)
 - [Duke Ellington - Mood Indigo](https://www.youtube.com/watch?v=RFUSD23ZXEw)
