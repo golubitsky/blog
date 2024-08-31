@@ -13,4 +13,4 @@ At the end, I felt that this piece was one of the most beautiful things in the w
 
 With gratitude, I returned to Norwegian Wood.
 
-Additionally, I've been practicing Ev'ry Time We Say Goodbye, by Cole Porter, introduced to me by John Coltrane and Duke Ellington's Do Nothing Till You Hear From Me. Ellington's pieces invariably have this uncanny "laidbackness" or "irresistible ease".
+Additionally, I've been practicing Ev'ry Time We Say Goodbye, by Cole Porter, introduced to me by John Coltrane, and Duke Ellington's Do Nothing Till You Hear From Me. Ellington's pieces invariably have this uncanny "laidbackness" or "irresistible ease".
