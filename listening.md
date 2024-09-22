@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Billie Holiday - Blue Moon](https://youtu.be/HkplpL2P9YM)
 - [Tony Bennett, Lady Gaga - Night And Day](https://www.youtube.com/watch?v=5ZO0FyqGN2Q)
 - [Leonard Bernstein - Some Other Time](https://www.youtube.com/watch?v=TJIHkbu3KF4)
 - [Leonard Bernstein - Somewhere](https://www.youtube.com/watch?v=oae6SW5bgeQ)
@@ -24,7 +25,6 @@ Latest first.
 - [Bill Evans - Elsa](https://www.youtube.com/watch?v=qp1Vm5UeoR0)
 - [Bill Evans - Turn Out The Stars](https://www.youtube.com/watch?v=BMh3F4U5--E)
 - [João Gilberto - Amoroso - Besame Mucho](https://www.youtube.com/watch?v=GICw4CoJInA)
-- [Billie Holiday - Blue Moon](https://www.youtube.com/watch?v=VXpfSH3Sg00)
 - Pat Metheny - The Way Up
   - the ascent to the climax in part 3 is brilliant
 - Fourplay - Bali Run
