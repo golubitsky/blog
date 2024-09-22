@@ -5,6 +5,10 @@ title: Listening
 
 Latest first.
 
+- [Tony Bennett, Lady Gaga - Night And Day](https://www.youtube.com/watch?v=5ZO0FyqGN2Q)
+- [Leonard Bernstein - Some Other Time](https://www.youtube.com/watch?v=TJIHkbu3KF4)
+- [Leonard Bernstein - Somewhere](https://www.youtube.com/watch?v=oae6SW5bgeQ)
+- [Dave Brubeck - In Your Own Sweet Way](https://www.youtube.com/watch?v=7PYAD97nxnQ)
 - [Niia - All I Need](https://www.youtube.com/watch?v=DUi38GaQJGo)
 - [Duke Ellington & Count Basie Orchestras - Battle Royal](https://www.youtube.com/watch?v=lm8bcE5L32w)
 - [Duke Ellington & Louis Armstrong - Do Nothin' Till You Hear From Me](https://www.youtube.com/watch?v=zvzCOtuH-g0)
