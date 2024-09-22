@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Doris Day - Make Someone Happy](https://www.youtube.com/watch?v=LVtkVFd1jPE)
 - [Billie Holiday - Blue Moon](https://youtu.be/HkplpL2P9YM)
 - [Tony Bennett, Lady Gaga - Night And Day](https://www.youtube.com/watch?v=5ZO0FyqGN2Q)
 - [Leonard Bernstein - Some Other Time](https://www.youtube.com/watch?v=TJIHkbu3KF4)
