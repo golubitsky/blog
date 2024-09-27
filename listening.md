@@ -5,6 +5,16 @@ title: Listening
 
 Latest first.
 
+- All Of You
+  - [Ella Fitzgerald](https://www.youtube.com/watch?v=HSa_HuZG_d0)
+  - [Billie Holiday](https://www.youtube.com/watch?v=NMZKWOr14ZM)
+  - [Sammy Davis Jr.](https://www.youtube.com/watch?v=6dKjPOyzA20)
+  - Tony Bennett
+    - [When Lights Are Low (1964)](https://www.youtube.com/watch?v=--TY9rxch4g)
+      - turnaround: "so love at least a small percent of me, because I love all of you"
+    - [Steppin' Out (1993)](https://www.youtube.com/watch?v=3yGo1FMwrxU) (sung as ballad; piano solo is swung)
+  - [Bill Evans](https://www.youtube.com/watch?v=Eg6YPeflAJA)
+  - [Keith Jarrett Trio](https://www.youtube.com/watch?v=HE4OlIXLZzU) (interesting 6/8 shuffle stuff on the head)
 - [Doris Day - Make Someone Happy](https://www.youtube.com/watch?v=LVtkVFd1jPE)
 - [Billie Holiday - Blue Moon](https://youtu.be/HkplpL2P9YM)
 - [Tony Bennett, Lady Gaga - Night And Day](https://www.youtube.com/watch?v=5ZO0FyqGN2Q)
