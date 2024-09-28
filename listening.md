@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Tony Bennett/Bill Evans - But Beautiful](https://www.youtube.com/watch?v=NY-rWB4_Fbk)
 - All Of You
   - [Ella Fitzgerald](https://www.youtube.com/watch?v=HSa_HuZG_d0)
   - [Billie Holiday](https://www.youtube.com/watch?v=NMZKWOr14ZM)
