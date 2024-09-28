@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Samba de Orfeo (from the movie Black Orpheus)](https://www.youtube.com/watch?v=TlShtHVzHxE)
 - [Tony Bennett/Bill Evans - But Beautiful](https://www.youtube.com/watch?v=NY-rWB4_Fbk)
 - All Of You
   - [Ella Fitzgerald](https://www.youtube.com/watch?v=HSa_HuZG_d0)

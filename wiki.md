@@ -185,13 +185,21 @@ title: Wiki
 - https://exercism.org/
 - https://www.codewars.com/
 
+#### System Design Interview
+
+- https://github.com/donnemartin/system-design-primer
+- https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction
+- https://www.karanpratapsingh.com/courses/system-design
+- [Martin Klepmann - Distributed Systems (YouTube)](https://www.youtube.com/watch?v=S2osKiqQG9s&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
 ### Life
 
 - [Master Your Destiny — Coach Pain (YouTube)](https://www.youtube.com/watch?v=BKWIFFaiA-c)
 
-### Rhythms
+### Music/Rhythms
 
 - https://www.jovisan.net/uploads/1/0/7/1/10715323/brazilian_piano_styles.pdf
+- [Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?](http://flipcamp.org/engagingstudents4/essays/michaelsen.html)
 
 ### Misc
 
