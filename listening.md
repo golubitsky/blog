@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [My Funny Valentine - Ella Fitzgerald](https://www.youtube.com/watch?v=ahE7lDYRrms)
+- [The Smile - Teleharmonic](https://www.youtube.com/watch?v=djSkQnPgq9o)
 - [November Ultra - Come Into My Arms](https://www.youtube.com/watch?v=hsPRyr8iNDI)
 - [Gustav Mahler - Adagietto from Symphony No. 5, Bernstein conducting](https://www.youtube.com/watch?v=Bj6KLv7kv2Q)
 - [Samba de Orfeo (from the movie Black Orpheus)](https://www.youtube.com/watch?v=TlShtHVzHxE)
