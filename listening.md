@@ -5,6 +5,9 @@ title: Listening
 
 Latest first.
 
+- [When You Wish Upon a Star](https://www.youtube.com/watch?v=oTot6Kr2Q6s) "if your heart is in your dream, no request is too extreme"
+- [Nat King Cole Trio - I Got Rhythm](https://www.youtube.com/watch?v=nHW4X-E0NqY)
+- [There Will Never Be Another You - Arturo Sandoval](https://www.youtube.com/watch?v=z1nOfbQ_GwU)
 - [My Funny Valentine - Ella Fitzgerald](https://www.youtube.com/watch?v=ahE7lDYRrms)
 - [The Smile - Teleharmonic](https://www.youtube.com/watch?v=djSkQnPgq9o)
 - [November Ultra - Come Into My Arms](https://www.youtube.com/watch?v=hsPRyr8iNDI)
