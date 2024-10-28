@@ -5,13 +5,21 @@ title: Listening
 
 Latest first.
 
+- Make You Feel My Love
+  - [Adele](https://www.youtube.com/watch?v=0put0_a--Ng)
+  - [Bob Dylan](https://www.youtube.com/watch?v=fdWto-AUM3Q) (original)
+- [Adele - River Lea](https://www.youtube.com/watch?v=vciRWLRWCbQ)
+- [Elliott Smith - Can't Make a Sound](https://www.youtube.com/watch?v=ke2NTnkp1tE)
+- [Stevie Wonder - You and I](https://www.youtube.com/watch?v=8kZJ8DmahOc&)
+- [Stevie Wonder - As](https://www.youtube.com/watch?v=GYQfWJNWe3I)
+- [Stevie Wonder - If It's Magic](https://www.youtube.com/watch?v=fX36mGEqfw4)
 - [Oscar Peterson - Summertime](https://www.youtube.com/watch?v=tVNWUa0YxMY) beautiful solo recording from _Oscar Peterson Plays The George Gershwin Song Book_
 - [Pure Imagination - Langston Hughes II](https://www.youtube.com/watch?v=SLLYgpNuzhw)
 - [Johannes Brahms - Lullaby](https://www.youtube.com/watch?v=t894eGoymio)
 - [The Nutcracker - Dance of the Mirlitons](https://www.youtube.com/watch?v=MNHxTl2B4h4)
 - [When You Wish Upon a Star](https://www.youtube.com/watch?v=oTot6Kr2Q6s) "if your heart is in your dream, no request is too extreme"
   - [Keith Jarrett Trio](https://www.youtube.com/watch?v=gyntl24zkZs)
-- [Nat King Cole Trio - I Got Rhythm](https://www.youtube.com/watch?v=nHW4X-E0NqY)
+- [Nat King Cole Trio - I Got Rhythm](https://www.youtube.com/watch?v=nHW4X-E0NqY) (dominant pedal over the entire A section)
 - [There Will Never Be Another You - Arturo Sandoval](https://www.youtube.com/watch?v=z1nOfbQ_GwU)
 - [My Funny Valentine - Ella Fitzgerald](https://www.youtube.com/watch?v=ahE7lDYRrms)
 - [The Smile - Teleharmonic](https://www.youtube.com/watch?v=djSkQnPgq9o)
