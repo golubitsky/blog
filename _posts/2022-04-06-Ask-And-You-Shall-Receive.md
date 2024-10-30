@@ -14,7 +14,7 @@ And today I returned once more to Eric Nisenson's book about the making of Kind 
 
 And earlier!
 
-> For \[Coltrane\], playing improvisational jazz became a journey within, an attempt to use the intensity that he brought to his music as a form of trance. To be more precise, he played in order to sustain that inward journey, seeking nothing less than the mind of God. That is why he played solos of such great length (half an hour, sometimes even much longer) and with such **apocalyptic fury**. It was impossible for those in the audience to be merele passive observers, all one could do was hold on for dear life.
+> For \[Coltrane\], playing improvisational jazz became a journey within, an attempt to use the intensity that he brought to his music as a form of trance. To be more precise, he played in order to sustain that inward journey, seeking nothing less than the mind of God. That is why he played solos of such great length (half an hour, sometimes even much longer) and with such **apocalyptic fury**. It was impossible for those in the audience to be merely passive observers, all one could do was hold on for dear life.
 
 -- Ibid., p. 76 (emphasis is mine)
 
