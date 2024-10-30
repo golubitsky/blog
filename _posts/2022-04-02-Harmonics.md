@@ -9,7 +9,7 @@ I've been practicing just playing the harmonic series in the left hand.
 
 ## Melodic minor scale
 
-As I noted in the last post, the melodic minor scale built on the 5th above the fundamental exists (with allowance for discrepancy between the pure harmonics versus equal-terperament tuning, but I will just ignore this and proceed based on the evidence of the gut feeling of the power these consonances) within every harmonic series. That means that this scale has a special relationship with any root note, such as for example `g melodic minor` to `C` or `e melodic minor` to `A`.
+As I noted in the last post, the melodic minor scale built on the 5th above the fundamental exists (with allowance for discrepancy between the pure harmonics versus equal-temperament tuning, but I will just ignore this and proceed based on the evidence of the gut feeling of the power these consonances) within every harmonic series. That means that this scale has a special relationship with any root note, such as for example `g melodic minor` to `C` or `e melodic minor` to `A`.
 
 ### Bill Evans and "crunchy" sounds
 
@@ -66,9 +66,9 @@ Another interesting aspect to practice -- polyrhythm of 3 against 4. The only wa
 | 11           | 2            |                            |
 | 12           | 3            |                            |
 
-It's not easy to feel in your figners, but once you feel it, it sounds very natural.
+It's not easy to feel in your fingers, but once you feel it, it sounds very natural.
 
-A practice method to tie polyrhythms, left hand indepenence, and the harmonic series is:
+A practice method to tie polyrhythms, left hand independence, and the harmonic series is:
 
 - arpeggiate up and down the first 7 harmonics of the harmonic series
   - this forms a highly consonant voicing of a dominant 7th chord
