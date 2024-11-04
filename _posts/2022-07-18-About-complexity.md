@@ -1,6 +1,6 @@
 ---
 title: "About complexity"
-tags: music schoenberg complexity harmony
+tags: music schoenberg complexity harmony schoenberg-theory-of-harmony
 ---
 
 > Harmony — balance — does not mean fixity of inactive factors, but equilibrium of the most intense energies.

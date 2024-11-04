@@ -1,6 +1,6 @@
 ---
 title: "Schoenberg: Theory Of Harmony (1)"
-tags: music schoenberg mahler rachmaninoff debussy coltrane george-russell tonal-gravity
+tags: music schoenberg mahler rachmaninoff debussy coltrane george-russell tonal-gravity schoenberg-theory-of-harmony
 ---
 
 A month or so ago I started reading from Schoenberg's Theory of Harmony. The Preface to the first edition is signed "Vienna, July 1911", conspicuously just two months after Mahler died and was buried – in Vienna. Mahler's death had devastated Schoenberg; he had been one of Mahler's "top students" — although clearly already masterful by this time. In the first edition there is a profuse dedication to Mahler about how Schoenberg didn't believe his contemporaries had sufficiently praised Mahler, and then in a subsequent edition, published some ten years later, he had decided that people had, by that point, come to praise Mahler enough; in the edition I have, the dedication reads simply "To the hallowed memory of GUSTAV MAHLER".
