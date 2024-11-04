@@ -5,8 +5,8 @@
 Spin up the dev server; live reload is enabled:
 
 ```sh
-docker-compose build
-docker-compose up
+docker compose build
+docker compose up
 ```
 
 Live at http://localhost:4000/blog/
