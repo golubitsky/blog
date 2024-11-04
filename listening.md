@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Let It Go (from Disney's Frozen)](https://www.youtube.com/watch?v=moSFlvxnbgk)
 - [Pure Imagination - Scott Hamilton](https://www.youtube.com/watch?v=lqGV7rNbBwU)
 - [Stevie Wonder - You and I](https://www.youtube.com/watch?v=8kZJ8DmahOc&)
 - [Oscar Peterson - Summertime](https://www.youtube.com/watch?v=tVNWUa0YxMY) beautiful solo recording from _Oscar Peterson Plays The George Gershwin Song Book_
