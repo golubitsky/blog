@@ -7,8 +7,10 @@ A fruitful few days. A couple of weeks ago I listened to a few Stevie Wonder son
 
 _You and I_ revolves around what I playfully dubbed as "the Stevie Wonder chord" — the "minor 2 flat 5" (or "minor two half-diminished".. or.. the "minor four add six" because every 7-chord can be thought of as an add-6-chord, and then of course there is the classical "6 chord", which is the first inversion of a triad, but I digress..). It, or a version of it, appears in a number of his songs, but obviously it existed before Stevie Wonder.
 
-For example, it is featured prominently in two Cole Porter songs. It is the first chord in _All Of You_, resolving to the major one. And in \_Ev'ry Time We Say Goodbye\_ the sound appears over the key line of "from major to minor" (a [word painting](https://www.thesongwritingdesk.com/word-painting.html)). In this case, it is actually over a dominant VII chord, the upper structure of which, with the added 9, forms the very same chord. In that progression, we go from the IVmaj7 ("from major") to the VII9 ("to minor").
+For example, it is featured prominently in two Cole Porter songs. It is the first chord in _All Of You_, resolving to the major one. And in _Ev'ry Time We Say Goodbye_ the sound appears over the key line of "from major to minor" (a [word painting](https://www.thesongwritingdesk.com/word-painting.html)). In this case, it is actually over a dominant VII chord, the upper structure of which, with the added 9, forms the very same chord. In that progression, we go from the IVmaj7 ("from major") to the VII9 ("to minor").
 
 And so, I arrive at an exercise:
 
-- I ii7flat5 IV ii7flat5 (repeat), respecting voice leading up and down the keyboard.
+- loop: I ii7flat5 IV ii7flat5
+- respecting voice leading
+- up and down the keyboard
