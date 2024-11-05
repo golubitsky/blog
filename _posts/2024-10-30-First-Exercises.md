@@ -3,7 +3,7 @@ title: "Schoenberg: Theory Of Harmony (3)"
 tags: music schoenberg schoenberg-theory-of-harmony
 ---
 
-I continued reading from Shoenberg's Theory of Harmony again.
+I continued reading from Schoenberg's Theory of Harmony.
 
 ### Triads
 

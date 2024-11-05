@@ -1,6 +1,6 @@
 ---
 title: "Schoenberg: Theory Of Harmony (2)"
-tags: music schoenberg rachmaninoff debussy coltrane bill-evans
+tags: music schoenberg rachmaninoff debussy coltrane bill-evans schoenberg-theory-of-harmony
 ---
 
 In the previous post I wrote about Schoenberg's presentation of the harmonic series as the foundation of Western tonality. I have been positively entranced by this concept.
