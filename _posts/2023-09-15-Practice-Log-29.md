@@ -1,6 +1,6 @@
 ---
 title: "Practice Log: My Foolish Heart"
-tags: music piano bill-evans
+tags: music piano bill-evans my-foolish-heart
 ---
 
 Listening/reading through a Bill Evans rendition of [My Foolish Heart](https://www.youtube.com/watch?v=a2LFVWBmoiw), in A major.
