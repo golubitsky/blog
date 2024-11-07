@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [Ornithology by Charlie Parker](https://www.youtube.com/watch?v=fsAMAIaas94)
+- [Tiny's Exercise - Nat Cole Trio](https://www.youtube.com/watch?v=jam_fI5S1cY)
 - [Let It Go (from Disney's Frozen)](https://www.youtube.com/watch?v=moSFlvxnbgk)
 - [Pure Imagination - Scott Hamilton](https://www.youtube.com/watch?v=lqGV7rNbBwU)
 - [Stevie Wonder - You and I](https://www.youtube.com/watch?v=8kZJ8DmahOc&)
