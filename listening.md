@@ -5,6 +5,10 @@ title: Listening
 
 Latest first.
 
+- [Duke Ellington - Willow Weep For Me](https://www.youtube.com/watch?v=3QuzKxgV2oo)
+- [Ahmad Jamal - I Love Music](https://www.youtube.com/watch?v=fW8NQgqYoVQ)
+- [Nina Simone and Piano!](https://www.youtube.com/watch?v=8mOJOuQ_eDE)
+- [Duke Ellington - Heaven](https://www.youtube.com/watch?v=QM1x6U2jok4)
 - [Ornithology by Charlie Parker](https://www.youtube.com/watch?v=fsAMAIaas94)
 - [Tiny's Exercise - Nat Cole Trio](https://www.youtube.com/watch?v=jam_fI5S1cY)
 - [Let It Go (from Disney's Frozen)](https://www.youtube.com/watch?v=moSFlvxnbgk)
