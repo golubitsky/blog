@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Count Basie - Lester Leaps In](https://www.youtube.com/watch?v=f60JYoHdfVM) — similar to "rhythm changes" with the A section just a pedal dominant; here the pedal is the tonic. The blues note (flat 3) is the leading town to the B section.
 - [Nat King Cole Trio - I Don't Know Why (I Just Do)](https://www.youtube.com/watch?v=KeZLA0IwCa8)
 - [Jack Kerouac & Steve Allen ~ Poetry For The Beat Generation (LP, 1959)](https://www.youtube.com/watch?v=dywFHScNecI)
 - [Mulatu Astatke – Ethio Jazz Vol. 1 (2006 - Album)](https://www.youtube.com/watch?app=desktop&v=deTwW67TJSk)
