@@ -5,10 +5,13 @@ title: Listening
 
 Latest first.
 
+- [Jack Kerouac & Steve Allen ~ Poetry For The Beat Generation (LP, 1959)](https://www.youtube.com/watch?v=dywFHScNecI)
+- [Mulatu Astatke – Ethio Jazz Vol. 1 (2006 - Album)](https://www.youtube.com/watch?app=desktop&v=deTwW67TJSk)
+- [Alice Babs & Duke Ellington - Heaven](https://www.youtube.com/watch?v=5H3y5tgtAP0)
+- [Adele - Make You Feel My Love](https://www.youtube.com/watch?v=0put0_a--Ng)
 - [Duke Ellington - Willow Weep For Me](https://www.youtube.com/watch?v=3QuzKxgV2oo)
 - [Ahmad Jamal - I Love Music](https://www.youtube.com/watch?v=fW8NQgqYoVQ)
 - [Nina Simone and Piano!](https://www.youtube.com/watch?v=8mOJOuQ_eDE)
-- [Duke Ellington - Heaven](https://www.youtube.com/watch?v=QM1x6U2jok4)
 - [Ornithology by Charlie Parker](https://www.youtube.com/watch?v=fsAMAIaas94)
 - [Tiny's Exercise - Nat Cole Trio](https://www.youtube.com/watch?v=jam_fI5S1cY)
 - [Let It Go (from Disney's Frozen)](https://www.youtube.com/watch?v=moSFlvxnbgk)
