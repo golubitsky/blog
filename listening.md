@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Nat King Cole Trio - I Don't Know Why (I Just Do)](https://www.youtube.com/watch?v=KeZLA0IwCa8)
 - [Jack Kerouac & Steve Allen ~ Poetry For The Beat Generation (LP, 1959)](https://www.youtube.com/watch?v=dywFHScNecI)
 - [Mulatu Astatke – Ethio Jazz Vol. 1 (2006 - Album)](https://www.youtube.com/watch?app=desktop&v=deTwW67TJSk)
 - [Alice Babs & Duke Ellington - Heaven](https://www.youtube.com/watch?v=5H3y5tgtAP0)
