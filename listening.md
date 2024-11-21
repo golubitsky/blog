@@ -5,6 +5,9 @@ title: Listening
 
 Latest first.
 
+- [Mavis Staples - Nobody Knows The Trouble I've Seen](https://www.youtube.com/watch?v=t_5jfA6wpIM)
+- [Odetta - Sometimes I Feel Like A Motherless Child](https://www.youtube.com/watch?v=ZXg9UFUXFXU)
+- [Frank Sinatra - Theme from New York, New York](https://www.youtube.com/watch?v=le1QF3uoQNg) - 
 - [Count Basie - Lester Leaps In](https://www.youtube.com/watch?v=f60JYoHdfVM) — similar to "rhythm changes" with the A section just a pedal dominant; here the pedal is the tonic. The blues note (flat 3) is the leading town to the B section.
 - [Nat King Cole Trio - I Don't Know Why (I Just Do)](https://www.youtube.com/watch?v=KeZLA0IwCa8)
 - [Jack Kerouac & Steve Allen ~ Poetry For The Beat Generation (LP, 1959)](https://www.youtube.com/watch?v=dywFHScNecI)
