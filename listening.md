@@ -5,6 +5,7 @@ title: Listening
 
 Latest first.
 
+- [Ella Fitzgerald - Willow Weep For Me](https://www.youtube.com/watch?v=GfpxyTh71ts)
 - House Of The Rising Sun
   - [Tom Clarence Ashley & Gwen Foster (1933)](https://www.youtube.com/watch?v=147kS8O59Qs)
   - [Doc Watson - Rising Sun Blues](https://www.youtube.com/watch?v=JIKznUbwBYY)
