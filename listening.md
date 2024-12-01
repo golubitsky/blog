@@ -5,9 +5,22 @@ title: Listening
 
 Latest first.
 
+- [Ennio Morricone - Ecstacy of Gold](https://www.youtube.com/watch?v=lPdMDxh5ylc&list=PLmYc9gG3yj8QR9ea6_pTeS5oZJhf8Ffiw&index=10)
+- [Dean Martin - White Christmas](https://www.youtube.com/watch?v=1pmhgOaTbC0)
+- [Searows - Only Time](https://www.youtube.com/watch?v=62UpaVm2FgI)
+- [Adele - Love In The Dark](https://www.youtube.com/watch?v=oytOOA9sOiE)
+- [Nat King Cole - My Mother Told Me](https://www.youtube.com/watch?v=iYZenFuP-wc)
+- [Julius Fucik - Entry of the Gladiators](https://www.youtube.com/watch?v=_B0CyOAO8y0) — the "carnival" or "clown" song — from playing the theme over a 1-6-2-5 stride left hand
+- Santa Claus Is Coming To Town
+  - [Bill Evans (1964)](https://www.youtube.com/watch?v=REAb-ATFC8w)
+  - [Frank Sinatra](https://www.youtube.com/watch?v=8Q94C9FRRpM)
+  - [Jackson 5 (1970)](https://www.youtube.com/watch?v=HhiUOCo8LYQ)
+  - [Bing Crosby (1943)](https://www.youtube.com/watch?v=Vhv_47ghQuY)
+  - [Perry Como (1946)](https://www.youtube.com/watch?v=rNUH0Qjhv_s)
+- [Odetta - House of the Rising Sun](https://www.youtube.com/watch?v=t7ekfLYNIFI)
 - [Mavis Staples - Nobody Knows The Trouble I've Seen](https://www.youtube.com/watch?v=t_5jfA6wpIM)
 - [Odetta - Sometimes I Feel Like A Motherless Child](https://www.youtube.com/watch?v=ZXg9UFUXFXU)
-- [Frank Sinatra - Theme from New York, New York](https://www.youtube.com/watch?v=le1QF3uoQNg) - 
+- [Frank Sinatra - Theme from New York, New York](https://www.youtube.com/watch?v=le1QF3uoQNg) -
 - [Count Basie - Lester Leaps In](https://www.youtube.com/watch?v=f60JYoHdfVM) — similar to "rhythm changes" with the A section just a pedal dominant; here the pedal is the tonic. The blues note (flat 3) is the leading town to the B section.
 - [Nat King Cole Trio - I Don't Know Why (I Just Do)](https://www.youtube.com/watch?v=KeZLA0IwCa8)
 - [Jack Kerouac & Steve Allen ~ Poetry For The Beat Generation (LP, 1959)](https://www.youtube.com/watch?v=dywFHScNecI)
