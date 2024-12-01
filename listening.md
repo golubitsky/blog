@@ -5,6 +5,13 @@ title: Listening
 
 Latest first.
 
+- House Of The Rising Sun
+  - [Tom Clarence Ashley & Gwen Foster (1933)](https://www.youtube.com/watch?v=147kS8O59Qs)
+  - [Doc Watson - Rising Sun Blues](https://www.youtube.com/watch?v=JIKznUbwBYY)
+  - [Bob Dylan](https://youtu.be/RP_caKDfoyU?si=o_9f1yYMCWaAki4x)
+- [Bill Evans - Turn Out The Stars](https://www.youtube.com/watch?v=BMh3F4U5--E)
+- [The Beatles - Yesterday](https://www.youtube.com/watch?v=NrgmdOz227I)
+- [Vince Guaraldi Trio - Linus and Lucy (_Peanuts_ Theme)](https://www.youtube.com/watch?v=x6zypc_LhnM)
 - [Ennio Morricone - Ecstacy of Gold](https://www.youtube.com/watch?v=lPdMDxh5ylc&list=PLmYc9gG3yj8QR9ea6_pTeS5oZJhf8Ffiw&index=10)
 - [Dean Martin - White Christmas](https://www.youtube.com/watch?v=1pmhgOaTbC0)
 - [Searows - Only Time](https://www.youtube.com/watch?v=62UpaVm2FgI)
@@ -87,7 +94,6 @@ Latest first.
 - [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
 - [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
 - [Bill Evans - Elsa](https://www.youtube.com/watch?v=qp1Vm5UeoR0)
-- [Bill Evans - Turn Out The Stars](https://www.youtube.com/watch?v=BMh3F4U5--E)
 - [João Gilberto - Amoroso - Besame Mucho](https://www.youtube.com/watch?v=GICw4CoJInA)
 - Pat Metheny - The Way Up
   - the ascent to the climax in part 3 is brilliant
