@@ -5,6 +5,11 @@ title: Listening
 
 Latest first.
 
+- Body and Soul
+  - [Tony Bennett and Amy Winehouse (2011)](https://www.youtube.com/watch?v=_OFMkCeP6ok)
+  - [Frank Sinatra (1984)](https://www.youtube.com/watch?v=QplAkBysk-4)
+  - [Ella Fitzgerald (1970s)](https://www.youtube.com/watch?v=6YyX5R6ohBE)
+  - [John Coltrane (1960)](https://www.youtube.com/watch?v=8z-dDWrIKDQ) with McCoy Tyner on piano, Steve Davis on bass, and Elvin Jones on drums; same as My Favorite Things! Interesting ending.
 - [Ella Fitzgerald - Willow Weep For Me](https://www.youtube.com/watch?v=GfpxyTh71ts)
 - House Of The Rising Sun
   - [Tom Clarence Ashley & Gwen Foster (1933)](https://www.youtube.com/watch?v=147kS8O59Qs)
