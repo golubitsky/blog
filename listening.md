@@ -5,6 +5,8 @@ title: Listening
 
 Latest first.
 
+- [Shirley Horn - Here's To Life](https://www.youtube.com/watch?v=UTv3TONfTTQ)
+- [Nina Simone - I Wish I Knew How It Would Feel to Be Free](https://www.youtube.com/watch?v=jFRtA6ETZ8s)
 - Body and Soul
   - [Tony Bennett and Amy Winehouse (2011)](https://www.youtube.com/watch?v=_OFMkCeP6ok)
   - [Frank Sinatra (1984)](https://www.youtube.com/watch?v=QplAkBysk-4)
