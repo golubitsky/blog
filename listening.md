@@ -3,8 +3,14 @@ layout: page
 title: Listening
 ---
 
-Latest first.
+Latest first
 
+- [Bud Powell - There Will Never Be Another You](https://www.youtube.com/watch?v=dSSI5eZEHc8)
+- [Cyrus Chestnut - Entre cloches](https://www.youtube.com/watch?v=VhIhYnDlESc) - Ravel (1897) cover! Harmony is very McCoy Tyner on My Favorite Things-ish during the solo.
+- [Taylor Swift - The Prophecy](https://www.youtube.com/watch?v=_PsBoqNwYo4)
+  - [Florence + The Machine - What The Water Gave Me](https://youtu.be/am6rArVPip8?si=jBGLQwJ8XF138p5j)
+- [Shirley Horn - Softly As A Morning Sunrise](https://www.youtube.com/watch?v=WZPh4gqROmw)
+- [Shirley Horn - Like Someone In Love](https://www.youtube.com/watch?v=J-aQKeJHNRU)
 - [Shirley Horn - Here's To Life](https://www.youtube.com/watch?v=UTv3TONfTTQ)
 - [Nina Simone - I Wish I Knew How It Would Feel to Be Free](https://www.youtube.com/watch?v=jFRtA6ETZ8s)
 - Body and Soul
@@ -98,7 +104,6 @@ Latest first.
 - Autoheart - Stalker's Tango
 - Tally Hall - Hidden in the Sand
 - [JVKE - Golden Hour](https://www.youtube.com/watch?v=PEM0Vs8jf1w)
-- [Bud Powell - There Will Never Be Another You](https://www.youtube.com/watch?v=dSSI5eZEHc8)
 - [Metheny/Meldau - Bachelor's III](https://www.youtube.com/watch?v=1_PQel_aoF8)
 - [Ellington/Armstrong - In A Mellow Tone](https://www.youtube.com/watch?v=UGIYaqz5rI0)
 - [Bill Evans - Elsa](https://www.youtube.com/watch?v=qp1Vm5UeoR0)
