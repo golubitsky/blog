@@ -5,6 +5,8 @@ title: Listening
 
 Latest first
 
+- [Cyrus Chestnut - Prayer for Claudine](https://youtu.be/_RPA7tHOOXE?si=rtoMvCw1R_LN0k-V)
+- [John Coltrane - After The Rain](https://www.youtube.com/watch?v=Je2tpX6Z-QA)
 - [Bud Powell - Strictly Confidential](https://www.youtube.com/watch?v=50GFvMTgmEE)
 - [Eric Whiteacre - Sleep](https://www.youtube.com/watch?v=CjpINy_vp9M)
 - Like Someone In Love
@@ -22,6 +24,7 @@ Latest first
   - [Frank Sinatra (1984)](https://www.youtube.com/watch?v=QplAkBysk-4)
   - [Ella Fitzgerald (1970s)](https://www.youtube.com/watch?v=6YyX5R6ohBE)
   - [John Coltrane (1960)](https://www.youtube.com/watch?v=8z-dDWrIKDQ) with McCoy Tyner on piano, Steve Davis on bass, and Elvin Jones on drums; same as My Favorite Things! Interesting ending.
+  - [Coleman Hawkins (1938)](https://www.youtube.com/watch?v=zUFg6HvljDE)
 - [Ella Fitzgerald - Willow Weep For Me](https://www.youtube.com/watch?v=GfpxyTh71ts)
 - House Of The Rising Sun
   - [Tom Clarence Ashley & Gwen Foster (1933)](https://www.youtube.com/watch?v=147kS8O59Qs)
