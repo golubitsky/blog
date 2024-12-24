@@ -5,6 +5,7 @@ title: Listening
 
 Latest first
 
+- [Bill Evans - Porgy (I Loves You, Porgy)](https://www.youtube.com/watch?v=bSpWL7FEBfg) — Wow, so much to learn in the B section. A minor key treasure trove.
 - [Cyrus Chestnut - Prayer for Claudine](https://youtu.be/_RPA7tHOOXE?si=rtoMvCw1R_LN0k-V)
 - [John Coltrane - After The Rain](https://www.youtube.com/watch?v=Je2tpX6Z-QA)
 - [Bud Powell - Strictly Confidential](https://www.youtube.com/watch?v=50GFvMTgmEE)
