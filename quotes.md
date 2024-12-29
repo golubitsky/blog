@@ -267,3 +267,7 @@ quoted (unattributed) by G. M. Weinberg, _An Introduction To General Systems Thi
 > I don't think it can work if you still have an agenda, if you feel you still need to prove something musically. That's not the point—it's just about the music. So you're going to serve that, not yourself or somebody in the audience, not the critics or the reviewers. It's just the music. What does the music want? Almost all of the music I play with Keith and Jack are like flowers. There's this beautiful bouquet of flowers, so the idea is to really nourish them. You wouldn't trample them, you wouldn't give them too much water or you'd drown them. How do I nourish these flowers so they can really express themselves? You approach the music from that standpoint, rather than as a vehicle for your technique or your self-expression. Creativity is not the point. It's just about the music.
 
 —Gary Peacock, [Gary Peacock: Zen Bass](https://www.allaboutjazz.com/gary-peacock-zen-bass-gary-peacock-by-florence-wetzel)
+
+> He's a bigtime student of harmony.
+
+—A fellow musican, speaking of Cyrus Chestnut
