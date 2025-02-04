@@ -5,6 +5,18 @@ title: Listening
 
 Latest first
 
+- [Without A Song (From the Musical Production "Great Day")](https://www.youtube.com/watch?v=NoQ5kGaEgSQ)
+  - [Bill Evans - Without A Song](https://www.youtube.com/watch?v=vT-t7tpzlak)
+- [Adele - Someone Like You](https://www.youtube.com/watch?v=hLQl3WQQoQ0)
+- [Eileen Farrell, Leonard Bernstein - Some Other Time](https://www.youtube.com/watch?v=A9bLMqztl0Y)
+- [Fauré: Après un rêve](https://www.youtube.com/watch?v=lMKyTAe6yeM) — such beautiful melodies.. already anticipating the "sus" chord.
+- [Warren Bernhardt Trio - Au Bord De L'Eau](https://www.youtube.com/watch?v=G6crF5Ye_e4&t=3247s)
+  - [Gabriel Fauré – Au bord de l’eau](https://www.youtube.com/watch?v=D2dGeLfuU6g)
+- [Softly, as in a Morning Sunrise (From The New Moon)](https://www.youtube.com/watch?v=1weAykf0GV0)
+- [Art Blakey & The Jazz Messengers - Like Someone In Love](https://www.youtube.com/watch?v=VAoiIUuNuYQ)
+- [Hiromi - Seeker](https://www.youtube.com/watch?v=hHDNaw1NLTM)
+- [Cyrus Chestnut - Working Out Just Fine](https://www.youtube.com/watch?v=-8OZJxlpP1s)
+- [Cyrus Chestnut - I Must Tell Jesus](https://www.youtube.com/watch?v=AZr2imOzyzc)
 - [Ella Fitzgerald - Cry Me A River](https://www.youtube.com/watch?v=wSw8KaZIzYg)
 - [Thelonious Monk - Caravan (1969, Live in Germany)](https://www.youtube.com/watch?v=kWtctXCplUQ) — Stride.
 - [Bill Evans - Porgy (I Loves You, Porgy)](https://www.youtube.com/watch?v=bSpWL7FEBfg) — Wow, so much to learn in the B section. A minor key treasure trove.

@@ -96,6 +96,7 @@ title: Wiki
 #### Testing/Unit Tests/TDD
 
 - [Test Desiderata - Summary — Kent Beck](https://kentbeck.github.io/TestDesiderata/)
+  - https://testdesiderata.com/
   - [Test Desiderata — Kent Beck](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
   - [Programmer Test Principles - Kent Beck](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934) — his earliest version of these ideas
 - [TDD, Where Did It All Go Wrong - Ian Cooper (YouTube)](https://www.youtube.com/watch?v=EZ05e7EMOLM) — my favorite talk on TDD
