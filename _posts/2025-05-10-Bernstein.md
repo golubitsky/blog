@@ -10,6 +10,7 @@ The biggest musical phases of my life, in rough chronological order, began when 
 - Green Day
 - Nirvana
 - Metallica
+- Nobuo Uematsu (via Final Fantasy 6)
 - Paul Oakenfold
 - Pink Floyd
 - Miles Davis (senior year of high school-ish)
