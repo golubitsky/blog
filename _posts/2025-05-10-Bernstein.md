@@ -3,8 +3,6 @@ title: "Bernstein"
 tags: music piano bill-evans bernstein mahler
 ---
 
-I feel a sea change happening.
-
 The biggest musical phases of my life, in rough chronological order, began when I was seven—a Russian-Jewish immigrant growing up in the suburbs of Boston, MA:
 
 - Green Day
