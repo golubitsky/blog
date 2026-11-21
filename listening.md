@@ -5,6 +5,63 @@ title: Listening
 
 Latest first
 
+- Oscar Peterson - Stormy Weather
+- Teddy Wilson
+  - [Body and Soul](https://www.youtube.com/watch?v=dRUVIs6iLNs)
+  - [Night and Day](https://www.youtube.com/watch?v=iH4Xo8YipYA)
+  - [Afternoon Blues](https://www.youtube.com/watch?v=awexBCrvjbM)
+  - The Impeccable Mr. Wilson
+  - Teddy Wilson And His Trio - Mr. Wilson And Mr. Gershwin
+  - The Complete Verve Recordings Of The Teddy Wilson Trio
+- [Oscar Peterson - Chicago Blues (Live, 1973)](https://www.youtube.com/watch?v=71vWoCcIsM0)
+- [Brian Eno - Ambient 1: Music For Airports - 1/1](https://www.youtube.com/watch?v=LKZ3fGR2SDY)
+- [This Little Light Of Mine (Sinners Soundtrack)](https://www.youtube.com/watch?v=DUydAVG-NpU)
+- [Miles Caton - I Lied to You (Radio Edit) (Sinners Soundtrack)](https://www.youtube.com/watch?v=juNKOc67CYo)
+- [Vince Guaraldi - The Great Pumpkin Waltz](https://www.youtube.com/watch?v=fxGJA5AoFV4) - nothing but sincerity as far as the eye can see
+- [Nat King Cole Trio - 'Tis Autumn](https://www.youtube.com/watch?v=hph8xZTq2ZY)
+- [Oscar Peterson - Night and Day](https://www.youtube.com/watch?v=yQMDut_ya9c)
+- Both albums were recorded live just before Scott LeFaro died
+  - [Bill Evans Trio - My Romance (take 2)](https://www.youtube.com/watch?v=8VsBHgJRsIc)
+  - [Bill Evans Trio - Alice In Wonderland (Take 2)](https://www.youtube.com/watch?v=HgwPvFeBRIw)
+- [Beethoven: String Quartet No. 1 in F Major, Op. 18 No. 1: II. Adagio affettuoso ed appassionato](https://www.youtube.com/watch?v=Qcb6kaNrnQc&list=RDQcb6kaNrnQc)
+- [Norah Jones - When Sunny Gets Blue (First Sessions Outtake)](https://www.youtube.com/watch?v=572dYwVvx94)
+- [Chick Corea - Fingerprints](https://www.youtube.com/watch?v=twdaMiOUxzg&feature=youtu.be)
+- [McCoy Tyner - Star Eyes](https://www.youtube.com/watch?v=dB2XrXxtboo&feature=youtu.be)
+  - I love McCoy Tyner at the edge of his classic sound and his own sound before he went fully into the quartal stuff. Very similar transition to Coltrane in a way.
+- [McCoy Tyner - Groove Waltz](https://www.youtube.com/watch?v=meqIfUgrTHk&feature=youtu.be)
+- [Red Garland - Please Send Me Someone To Love](https://www.youtube.com/watch?v=ml6dd2enMHo&feature=youtu.be) - such smooth left hand chords, 2 to a bar
+- [Ray Brown - That's All](https://www.youtube.com/watch?v=HgaMYLAPnTo)
+- [McCoy Tyner - Blue Monk](https://www.youtube.com/watch?v=xnsDmKd04Uk&feature=youtu.be)
+- [Red Garland - The Nearness of You](https://www.youtube.com/watch?v=6g9IdpdKfXQ)
+- [Red Garland Trio - Foggy Day](youtube.com/watch?v=KOS4mZvgscs&feature=youtu.be)
+- [Ramsey Lewis - Look-A-Here](https://www.youtube.com/watch?v=ve3QMCIb5wQ&feature=youtu.be)
+- [Nina Simone - I Wish I Knew How It Feels To Be Free](https://www.youtube.com/watch?v=inNBpizpZkE&feature=youtu.be)
+- [Billy Taylor - Caravan](https://www.youtube.com/watch?v=huu5W9J1KXI&feature=youtu.be)
+- [Billy Taylor Trio - Body and Soul](https://www.youtube.com/watch?v=jS6XvVzNEng)
+- [Billy Taylor Trio - I Wish I Knew How It Would Feel To Be Free](https://www.youtube.com/watch?v=jlH_XFuf3wU)
+- [Erroll Garner - Will You Still Be Mine](https://www.youtube.com/watch?v=I1jkqC6yqCc)
+- [Chick Corea and return to forever - Spain](https://www.youtube.com/watch?v=sEhQTjgoTdU)
+- [Artie Shaw - Moonglow](https://www.youtube.com/watch?v=KD-uKyvpqSU) - Clair de lune
+- [Vince Guaraldi Trio - Christmas Time Is Here](https://www.youtube.com/watch?v=4PzetPqepXA)
+- [Tchaikovsky - The seasons - june (barcarolle)](https://www.youtube.com/watch?v=3xLQW5rm92s)
+- [Kats-Chernin: Unsent Love Letters](https://www.youtube.com/watch?v=FCsQQKG8Has)
+- [The Sound Of Music (joined by father)](https://www.youtube.com/watch?v=UnbD_zpMO1M&feature=youtu.be)
+- [Bartók Romanian Folk Dances Sz.56 - 4. Buciumeana](https://www.youtube.com/watch?v=BILd9Pd3QZY)
+- [Sonata No. 8 in C Minor, Op. 13 "Pathétique": II. Adagio cantabile](https://www.youtube.com/watch?v=NeGR6kLoBJ0)
+- Man, winter, fall, it doesn't matter. [Strasbourg / St. Denis](https://www.youtube.com/watch?v=XM83V4BD1Bw) is such a fantastic track. So good. And that track into [Bill Evans - Danny Boy from the album Empathy](https://www.youtube.com/watch?v=Ze31_ezzJdU). It also occurs to me how similar Without A Song is to Danny Boy. More from that playlist:
+  - Roy Hargrove - Bring It On Home To Me
+  - Bill Evans - B Minor Waltz
+  - Chick Corea - Windows
+  - John Coltrane - Naima
+  - Roy Hargrove - Joy Is Sorrow Unmasked
+  - Billy Strayhorn - Lush Life
+  - Roy Hargrove - Speak Low
+  - Bill Evans - We Will Meet Again
+  - Miles Davis Quintet - It Never Entered My Mind
+  - Gerry Mulligan Sextet - Night Lights
+  - Bobby Timmons - Moanin'
+- [Variations on an Original Theme, Op. 36 "Enigma": Variation IX. Nimrod](https://www.youtube.com/watch?v=3dVD3njBxAY) - can hear the inner voices really nicely in this one
+- [Alison Krauss & Union Station - A Living Prayer](https://www.youtube.com/watch?v=d1ftGT1gcpw&feature=youtu.be)
 - [Nat King Cole - Rachmaninoff - Prelude in C# Minor](https://www.youtube.com/watch?v=V5RYb4WMwxc)
 - [Leonard Bernstein - Tonight (from West Side Story, original 1957 Broadway cast recordings)](https://www.youtube.com/watch?v=p8My-HMJWeo)
 - [A Foggy Day · Benny Carter · Oscar Peterson](https://www.youtube.com/watch?v=o4D1NVdedMM)
