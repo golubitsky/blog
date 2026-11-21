@@ -5,7 +5,10 @@ title: Listening
 
 Latest first
 
+- [Nat King Cole Trio - 'Tis Autumn](https://www.youtube.com/watch?v=hph8xZTq2ZY)
+  - this is the one with "father time" - not the song called "Mother Nature and Father Time"
 - Oscar Peterson - Stormy Weather
+  - also Red Garland, Billie Holiday
 - Teddy Wilson
   - [Body and Soul](https://www.youtube.com/watch?v=dRUVIs6iLNs)
   - [Night and Day](https://www.youtube.com/watch?v=iH4Xo8YipYA)
@@ -18,7 +21,6 @@ Latest first
 - [This Little Light Of Mine (Sinners Soundtrack)](https://www.youtube.com/watch?v=DUydAVG-NpU)
 - [Miles Caton - I Lied to You (Radio Edit) (Sinners Soundtrack)](https://www.youtube.com/watch?v=juNKOc67CYo)
 - [Vince Guaraldi - The Great Pumpkin Waltz](https://www.youtube.com/watch?v=fxGJA5AoFV4) - nothing but sincerity as far as the eye can see
-- [Nat King Cole Trio - 'Tis Autumn](https://www.youtube.com/watch?v=hph8xZTq2ZY)
 - [Oscar Peterson - Night and Day](https://www.youtube.com/watch?v=yQMDut_ya9c)
 - Both albums were recorded live just before Scott LeFaro died
   - [Bill Evans Trio - My Romance (take 2)](https://www.youtube.com/watch?v=8VsBHgJRsIc)
